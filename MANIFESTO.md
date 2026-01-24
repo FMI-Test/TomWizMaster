@@ -42,7 +42,7 @@ We do not need to rediscover "Fire" every time we want to cook "Steak."
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Folding Table Moment](images/folding-table-moment.png) -->
+<!-- ![Folding Table Moment](images/folding-table-moment.webp) -->
 
 Jeff Bezos tells the story of Amazon's early days—kneeling and packaging books was daunting, painful. His genius idea? "We need knee protectors." Someone looked at him and said, "We need folding tables." That was the actual genius.
 
@@ -73,7 +73,7 @@ Humans have a unique capability: we can detect seemingly unrelated subjects, fin
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Pattern Recognition Timeline](images/persian-empire-pattern.png) -->
+<!-- ![Pattern Recognition Timeline](images/persian-empire-pattern.webp) -->
 
 - **Persian Empire (Cyrus the Great)** saved the Jews, issued the first human rights declaration → Same administrative principles built Rome
 - Roman roads enabled empire → Same concept of infrastructure scales to cloud
@@ -116,7 +116,7 @@ But consider: humanity survived and thrived through:
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Simplicity is Sophistication](images/simplicity-perfection.png) -->
+<!-- ![Simplicity is Sophistication](images/simplicity-perfection.webp) -->
 
 > **"Simplicity is the ultimate sophistication."**
 > — Leonardo da Vinci
