@@ -27,7 +27,7 @@ GenAI-R&D/
 ## 🚀 "Nano Banana" Image Strategy
 The file `One-Shot/Google/GEMINI-IMAGE-PROMPTS.md` contains the generation specs.
 *   **Action:** When images are generated (using Midjourney/DALL-E), place them in `One-Shot/images/`.
-*   **Filenames:** Ensure they match the links in the markdown files (e.g., `gemini-courtroom.png`).
+*   **Filenames:** Ensure they match the links in the markdown files (e.g., `gemini-courtroom.webp`).
 
 ## 📝 Commit Message Suggestion
 ```text
