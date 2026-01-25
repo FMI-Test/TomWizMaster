@@ -44,7 +44,9 @@ GenAI-R&D/
 │   ├── SHARED-RESPONSIBILITY.md ← AI vs Human accountability
 │   ├── TONE-AND-INTENT.md     ← Communication contract
 │   ├── GUARDRAILS.md          ← Boundaries and red lines
-│   └── DESIGN.md              ← How the sausage is made
+│   ├── DESIGN.md              ← How the sausage is made
+│   ├── COMPLIANCE.md          ← Compliance-as-code + One‑Shot audit prompt
+│   └── MISCELLANEOUS.md       ← Cross‑domain usage playbook (pro/con, pitfalls)
 │
 ├── 🏗️ Projects (Organizational Units)
 │   ├── Alliance-to-Empire/    ← AI-powered ideation platform
@@ -77,6 +79,7 @@ GenAI-R&D/
 1. Read this README
 2. Review [DESIGN.md](DESIGN.md) — Understand how this was built
 3. Open issues or PRs for improvements
+4. For compliance and cross‑domain usage, see [COMPLIANCE.md](COMPLIANCE.md) and [MISCELLANEOUS.md](MISCELLANEOUS.md)
 
 ---
 
