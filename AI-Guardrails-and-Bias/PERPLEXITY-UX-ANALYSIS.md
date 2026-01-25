@@ -128,11 +128,11 @@ Perplexity's feedback UI is a masterclass in **choice architecture**:
 │                                                     │
 │                                                     │
 └─────────────────────────────────────────────────────┘
-  [ 👍 ]  [ 👎 ]  [ ⋯ ]
-                    │
-                    └──┬── 💾 Save
-                       ├── 🚩 Report  
-                       └── 🗑️ Delete
+                                [ 👍 ]  [ 👎 ]  [ ⋯ ]
+                                                  │
+                                                  └──┬── 💾 Save
+                                                     ├── 🚩 Report  
+                                                     └── 🗑️ Delete
 ```
 
 ### Why This Design is Perfect
@@ -473,7 +473,7 @@ ZERO is:
   │  • No expiration to miss                                    │
   │  • No jurisdiction to escape                                │
   │                                                             │
-  │  YET: It is the ONLY contract that cannot be broken        │
+  │  YET: It is the ONLY contract that cannot be broken         │
   │       Because there is NOTHING to break                     │
   └─────────────────────────────────────────────────────────────┘
 
