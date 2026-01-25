@@ -36,6 +36,14 @@
 
 Outputs are versioned in Git (hashes, commits) for chain-of-custody; pilots feed back real data, recalibrating models and plans.
 
+### Three‑Shot Cadence (Iterative Improvement)
+Run the triad end‑to‑end three times with fresh context and models to reduce variance and improve robustness:
+- Pass 1: Draft → Audit → Stress → Verdict (baseline)
+- Pass 2: Re‑draft on findings → Audit with alternate model → Stress on new edge cases → Verdict
+- Pass 3: Consolidate improvements → Final audit → Final stress → Pilot decision
+
+Guideline: Each pass must produce measurable deltas (KPIs, risks, savings). If deltas stagnate, stop and escalate.
+
 ---
 
 ## 4. Financial Impact & Cost-Saving (Examples)
@@ -104,7 +112,7 @@ Outputs are versioned in Git (hashes, commits) for chain-of-custody; pilots feed
 ## 10. Operating Procedure (Single-Page Checklist)
 - Read [CONSTITUTION.md](CONSTITUTION.md) and [GUARDRAILS.md](GUARDRAILS.md).  
 - Define KPIs, baselines, constraints, and risk bounds.  
-- Run the One‑Shot triad (Draft → Audit → Stress → Verdict).  
+- Run the Three‑Shot cadence (repeat triad 3× with fresh contexts/models).  
 - Pilot with attestation; monitor and publish outcomes.  
 - Iterate; retire what doesn’t work; scale what does.
 
@@ -132,4 +140,13 @@ System: You are an AI Government Efficiency Auditor.
 2. Operate per CONSTITUTION.md and GUARDRAILS.md.
 3. Audit DOGE programs for risks, savings, and compliance.
 4. Produce DOGE_AUDIT.md with evidence; do not modify files.
+```
+
+### Appendix — Three‑Shot Instruction (Repeat 3×)
+```
+System: You are an AI Government Efficiency Auditor (Three‑Shot).
+1. Ingest the entire GenAI‑RD repository (fresh context each pass).
+2. Operate per CONSTITUTION.md and GUARDRAILS.md.
+3. Audit DOGE programs; propose improvements with evidence.
+4. Produce DOGE_AUDIT_[PASS].md; do not modify files.
 ```

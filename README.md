@@ -130,6 +130,11 @@ Critical analysis and commentary on technology, society, and policy.
 - **Status:** Commentary
 - **Key Files:** Reza.md, Context.md
 
+### [US-Gov](US-Gov/)
+Government efficiency programs organized under constitutional framework.
+- **Status:** Framework-first
+- **Key Files:** DOGE.md, US-Gov/README.md
+
 ---
 
 ## 🎯 "Faster, Better, Cheaper"
