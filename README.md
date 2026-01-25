@@ -133,7 +133,7 @@ Critical analysis and commentary on technology, society, and policy.
 ### [US-Gov](US-Gov/)
 Government efficiency programs organized under constitutional framework.
 - **Status:** Framework-first
-- **Key Files:** DOGE.md, US-Gov/README.md
+- **Key Files:** US-Gov/DOGE.md, US-Gov/README.md
 
 ---
 
