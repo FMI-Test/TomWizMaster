@@ -19,11 +19,11 @@
 ---
 
 ## 2. Constitutional Alignment (Governance)
-- **Principles:** See [CONSTITUTION.md](CONSTITUTION.md) — clarity, transparency, simplicity, accountability.  
-- **Boundaries:** See [GUARDRAILS.md](GUARDRAILS.md) — red lines (no deception, evidence-first, human-in-the-loop).  
-- **Roles:** See [SHARED-RESPONSIBILITY.md](SHARED-RESPONSIBILITY.md) — policy owners vs. AI auditors vs. program leads.  
-- **Design Trail:** See [DESIGN.md](DESIGN.md) — auditable decisions, rationale, and iteration log.  
-- **Compliance:** See [COMPLIANCE.md](COMPLIANCE.md) — compliance-as-code and One‑Shot audit prompt.
+- **Principles:** See [../CONSTITUTION.md](../CONSTITUTION.md) — clarity, transparency, simplicity, accountability.  
+- **Boundaries:** See [../GUARDRAILS.md](../GUARDRAILS.md) — red lines (no deception, evidence-first, human-in-the-loop).  
+- **Roles:** See [../SHARED-RESPONSIBILITY.md](../SHARED-RESPONSIBILITY.md) — policy owners vs. AI auditors vs. program leads.  
+- **Design Trail:** See [../DESIGN.md](../DESIGN.md) — auditable decisions, rationale, and iteration log.  
+- **Compliance:** See [../COMPLIANCE.md](../COMPLIANCE.md) — compliance-as-code and One‑Shot audit prompt.
 
 ---
 
@@ -110,7 +110,7 @@ Guideline: Each pass must produce measurable deltas (KPIs, risks, savings). If d
 ---
 
 ## 10. Operating Procedure (Single-Page Checklist)
-- Read [CONSTITUTION.md](CONSTITUTION.md) and [GUARDRAILS.md](GUARDRAILS.md).  
+- Read [../CONSTITUTION.md](../CONSTITUTION.md) and [../GUARDRAILS.md](../GUARDRAILS.md).  
 - Define KPIs, baselines, constraints, and risk bounds.  
 - Run the Three‑Shot cadence (repeat triad 3× with fresh contexts/models).  
 - Pilot with attestation; monitor and publish outcomes.  
@@ -119,9 +119,9 @@ Guideline: Each pass must produce measurable deltas (KPIs, risks, savings). If d
 ---
 
 ## 11. Chain of Custody & Compliance
-- **Compliance-as-Code:** See [COMPLIANCE.md](COMPLIANCE.md) (5-line audit prompt).  
-- **Regional Guidance:** See [AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md).  
-- **Evidence Commands:** See [AI-Guardrails-and-Bias/DEEP-DiVE.md](AI-Guardrails-and-Bias/DEEP-DiVE.md) for verification (branch, HEAD, hashes).
+- **Compliance-as-Code:** See [../COMPLIANCE.md](../COMPLIANCE.md) (5-line audit prompt).  
+- **Regional Guidance:** See [../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md).  
+- **Evidence Commands:** See [../AI-Guardrails-and-Bias/DEEP-DiVE.md](../AI-Guardrails-and-Bias/DEEP-DiVE.md) for verification (branch, HEAD, hashes).
 
 ---
 

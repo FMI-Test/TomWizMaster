@@ -10,7 +10,7 @@
 ---
 
 ## Canonical Framework
-- DOGE (Department of Government Efficiencies): see [../DOGE.md](../DOGE.md)
+- DOGE (Department of Government Efficiencies): see [DOGE.md](DOGE.md)
 - Constitutional docs: [../CONSTITUTION.md](../CONSTITUTION.md), [../GUARDRAILS.md](../GUARDRAILS.md), [../SHARED-RESPONSIBILITY.md](../SHARED-RESPONSIBILITY.md), [../COMPLIANCE.md](../COMPLIANCE.md)
 - Chain-of-custody & regional guidance: [../AI-Guardrails-and-Bias/DEEP-DiVE.md](../AI-Guardrails-and-Bias/DEEP-DiVE.md), [../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md)
 
