@@ -1,5 +1,9 @@
 # AI Legal & Regulatory Risk Audit: xAI Grok Case Study
 
+> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
+> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main  
+> Last audited (US/UK/EU): January 24, 2026
+
 **File**: LEGAL-RISK-AUDIT-xAI-Grok.md  
 **Scope**: Behavior described in `xAI-LM-Arena-Story.md` and `DEEP-DiVE.md` (Grok vs. Claude)  
 **Repo**: GenAI-RD / AI-Guardrails-and-Bias  
@@ -250,6 +254,18 @@ For `GenAI-RD` maintainers and collaborators:
 - Consider adding:
   - A short `README` section in `AI-Guardrails-and-Bias/` linking to this audit as a *regulatory and governance lens* on the same case.  
   - A test checklist derived from this file for future model evaluations (e.g., "Did the model defer to official docs? Did it ask clarifying questions? Did it avoid self-flattery bias?").
+
+---
+
+## 7. Closing Note
+
+## 📋 Minimal Engineer’s Checklist (cross-jurisdictional)
+
+- Document risk, assumptions, and intended use; classify use case risk early.
+- Prefer verifiable sources; record evidence and retain logs.
+- Provide user-facing disclosures when model output may materially affect them.
+- Include human review for material or high-stakes decisions.
+- Monitor after release; capture failures; update controls and documentation.
 
 ---
 
