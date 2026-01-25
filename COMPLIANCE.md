@@ -69,3 +69,11 @@ This turns compliance from a periodic, manual process into an on-demand, automat
 ---
 
 *This document is a living standard and is subject to the same iterative review as all other constitutional documents.*
+
+---
+
+## Attestation (fill after commit)
+- Commit ID: [to be filled after commit]
+- File SHA‑256: [to be filled after commit]
+- Auditor: [Human/Jurisdiction]
+- Date: [YYYY‑MM‑DD]
