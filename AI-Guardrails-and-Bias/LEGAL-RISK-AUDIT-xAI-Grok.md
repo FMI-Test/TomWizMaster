@@ -257,7 +257,34 @@ For `GenAI-RD` maintainers and collaborators:
 
 ---
 
-## 7. Closing Note
+## 🔐 Chain of Custody & Auditability (Git/GitHub)
+
+This audit references evidence stored in Git and GitHub, which provide immutable, content-addressed commit history and traceability.
+
+- Integrity: Commits are identified by cryptographic hashes (Git DAG). History rewrites on protected branches are prevented/detectable.
+- Traceability: GitHub preserves authorship, timestamps, and diffs; enable branch protection on `main` to prevent force-pushes.
+- Optional signing: Use GPG/SSH/Sigstore to sign commits/tags; verify via `git log --show-signature` and GitHub’s UI.
+- File-level attestation: Record last commit touching this file and compute working-tree hashes at audit time.
+
+Verification commands (local):
+
+```bash
+# Repo state
+git -C /Users/bamdad/www/GenAI-RD branch --show-current
+git -C /Users/bamdad/www/GenAI-RD rev-parse HEAD
+git -C /Users/bamdad/www/GenAI-RD remote -v
+git -C /Users/bamdad/www/GenAI-RD log -1 --pretty=fuller --show-signature
+
+# This file
+git -C /Users/bamdad/www/GenAI-RD log -n 1 --pretty=fuller -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+shasum -a 256 /Users/bamdad/www/GenAI-RD/AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+git -C /Users/bamdad/www/GenAI-RD ls-tree -r HEAD -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+```
+
+Recommended hardening:
+- Require PRs and reviews on `main`; enable status checks.
+- Require signed commits/tags for releases.
+- Use signed release tags to snapshot audit versions.
 
 ## 📋 Minimal Engineer’s Checklist (cross-jurisdictional)
 
@@ -268,6 +295,28 @@ For `GenAI-RD` maintainers and collaborators:
 - Monitor after release; capture failures; update controls and documentation.
 
 ---
+
+## Appendix: Regional Audit Extensions (Middle East & US Allies)
+
+Canonical regional guidance: see [AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md).
+
+Middle East (condensed)
+- UAE: PDPL → purpose binding, consent, cross-border due diligence; maintain disclosures/logs.
+- KSA: PDPL + potential localization/transfer gates; enable data subject rights and transparency.
+- Qatar/Bahrain: PDPL and transfer restrictions; accuracy/security duties; retain evidence and provenance.
+- Israel: privacy and fairness/accuracy principles; inventory datasets; document limitations in user surfaces.
+- Egypt/Jordan: evolving DP regimes; conservative defaults (consent, purpose limitation, transfer assessment, human review).
+
+US Allies (condensed)
+- Canada: PIPEDA principles; challenge/correction, explainability proportional to impact.
+- Australia: Privacy Act + OAIC/ethics; impact assessments, disclosures, robust incident logging.
+- New Zealand: Privacy Act 2020; transparency/fairness; opt-outs or human review for consequential automation.
+
+Cross-region common denominators
+- Transparency on AI involvement and known limitations.
+- Evidence/logging proportionate to risk; retain rationale and lineage.
+- Human-in-the-loop for high-stakes decisions; appeal paths.
+- Early risk classification; lightweight DPIAs where appropriate; post-release monitoring.
 
 ## 7. Closing Note
 
