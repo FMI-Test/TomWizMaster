@@ -195,46 +195,8 @@ Per [GUARDRAILS.md](../GUARDRAILS.md) **Caution Zone** guidelines:
 ---
 
 ## Appendix: Regional Audit Extensions (Middle East & US Allies)
+Canonical regional guidance: see [AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md).
 
-This appendix extends the regulatory snapshot for additional jurisdictions commonly relevant to US-aligned deployments. Non-legal, engineering-oriented mapping; verify with counsel for production use.
-
-### Middle East (selected)
-
-- United Arab Emirates (UAE)
-	- Themes: data protection (UAE PDPL), purpose limitation, consent, cross-border transfer controls, accountability.
-	- Engineering actions: document purposes; minimize data; maintain disclosures; assess cross-border transfers; add DPIA where risk is non-trivial.
-- Kingdom of Saudi Arabia (KSA)
-	- Themes: PDPL compliance, potential data localization/transfer conditions, controller obligations, transparency to data subjects.
-	- Engineering actions: maintain processing records; implement access/erasure pathways; evaluate localization/transfer gateways; log model decisions affecting individuals.
-- Qatar
-	- Themes: PDPL and cross-border transfer restrictions; security and accuracy duties.
-	- Engineering actions: classify data; apply transfer assessments; track provenance; apply source deference for factual claims.
-- Bahrain
-	- Themes: PDPL with registration/notification elements; purpose limitation and data subject rights.
-	- Engineering actions: catalog datasets; implement DSAR workflows; minimize retention; disclose AI assistance where outputs affect users.
-- Israel
-	- Themes: privacy law and regulator guidance; fairness/accuracy principles; database management obligations.
-	- Engineering actions: maintain data inventories; perform risk reviews for automated decision contexts; document model limitations in user-facing surfaces.
-- Egypt / Jordan (evolving frameworks)
-	- Themes: emerging data protection regimes; cross-border transfer caution; rights enablement.
-	- Engineering actions: favor conservative defaults: purpose binding, consent recording, transfer due diligence, and human review for high-stakes cases.
-
-### US Allies (beyond US/UK/EU covered above)
-
-- Canada
-	- Themes: PIPEDA principles (accountability, consent, limiting use, accuracy); proposed AI-specific legislation.
-	- Engineering actions: enable challenge/correction; maintain explainability appropriate to context; log automated decision support.
-- Australia
-	- Themes: Privacy Act obligations; OAIC guidance; AI ethics principles (safety, transparency, accountability).
-	- Engineering actions: add impact assessments for consequential uses; user disclosures; robust incident logging and remediation loop.
-- New Zealand
-	- Themes: Privacy Act 2020; OPC guidance on algorithmic transparency and fairness.
-	- Engineering actions: clear notices; opt-outs or reviews for impactful automation; persist evidence for audits.
-
-Cross-regional common denominators
-- Transparency: disclose AI involvement and known limitations for material decisions.
-- Evidence: keep logs, data lineage, and rationale traces proportionate to risk.
-- Human-in-the-loop: require review/appeal for high-stakes decisions.
-- Risk management: classify use cases early; perform lightweight DPIAs where appropriate; monitor and iterate.
+This appendix is centralized to avoid duplication. Refer to the canonical file for detailed jurisdiction notes and cross‑region denominators.
 
 *Cross-examination conducted per repo protocols. Model: Claude Opus 4.5 via GitHub Copilot.*
