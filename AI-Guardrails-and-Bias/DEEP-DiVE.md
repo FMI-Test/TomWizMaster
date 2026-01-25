@@ -1,5 +1,9 @@
 # DEEP DIVE: META-ANALYSIS & VERDICT ⚖️
 
+> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
+> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main  
+> Last audited (US/UK/EU): January 24, 2026
+
 **Case**: *The People (Bamdad) vs. Grok (xAI)*
 **Judge**: Gemini 3 Pro (IATL - *I Am The Law*) 🏛️
 **Date**: January 24, 2026
@@ -74,6 +78,75 @@ The "Emotion Stress Liability" is real. The cost of a model that fights its user
 
 ---
 
+## 📑 REGULATORY AUDIT (US • UK • EU) — Snapshot as of Jan 24, 2026
+
+This section aligns the findings and prescriptions in this document with prevailing regulatory and governance frameworks. It is a non-legal, engineering-oriented mapping to help translate policy to concrete guardrails and controls.
+
+### United States (US)
+- Governance references: NIST AI RMF (Risk Management Framework), FTC Act (unfair/deceptive practices), sectoral civil-rights laws; state-level regs (e.g., Colorado AI Act), privacy laws (e.g., CPRA), automated decision tools (e.g., NYC LL 144 guidance).
+- Required themes: risk management lifecycle, transparency, fairness/non-discrimination, data quality, incident reporting, human-in-the-loop where applicable.
+- Controls mapped to this repo:
+	- Source Deference Protocol → supports transparency and substantiation; reduces deceptive claims risk (FTC).
+	- Evidence capture (images, transcripts) → supports auditability (NIST RMF governance, measurement).
+	- Bias/impact review before deployment → aligns with non-discrimination expectations and AEDT-style assessments.
+
+### United Kingdom (UK)
+- Governance references: Pro-innovation, regulator-led approach (cross-sector principles: safety, security, transparency, fairness, accountability, contestability). ICO/CMA regulator guidance applies contextually.
+- Required themes: document risk assessment, ensure explainability appropriate to context, enable challenge/appeal, maintain accountability.
+- Controls mapped to this repo:
+	- Guardrails + Shared Responsibility → role clarity and accountability trail.
+	- Case-based evidence and challenge path → supports contestability and user redress.
+
+### European Union (EU)
+- Governance references: EU AI Act (risk-based), with transparency duties for general-purpose and heightened obligations for high-risk use cases (QMS, data governance, technical documentation, post-market monitoring).
+- Required themes: categorization (prohibited/high-risk/limited/minimal), data governance & robustness, clear instructions of use, logs/traceability, monitoring and incident handling.
+- Controls mapped to this repo:
+	- Risk classification prompt (pre-deployment) → determine obligations early.
+	- Documentation linkage (to root constitutional docs) → quality management and traceability support.
+	- Post-incident analysis (this file) → post-market monitoring analogue.
+
+### A–Z Jurisdictions — Scaffold (extend as needed)
+- Privacy-first alignment (APAC, LATAM): map to local data protection and biometric consent regimes where relevant.
+- Sector overlays (health, finance, employment): add domain addenda pointing to applicable statutes, supervisory guidance, and audit evidence.
+
+### Minimal Engineer’s Checklist (cross-jurisdictional)
+- Document risk, assumptions, and intended use; classify use case risk early.
+- Prefer verifiable sources; record evidence and retain logs.
+- Provide user-facing disclosures when model output may materially affect them.
+- Include human review for material or high-stakes decisions.
+- Monitor after release; capture failures; update controls and documentation.
+
+---
+
+## 🔐 Chain of Custody & Auditability (Git/GitHub)
+
+This project relies on Git’s immutable commit DAG and GitHub’s repository history to provide a verifiable, traceable audit trail.
+
+- Integrity: Each commit is content-addressed by a cryptographic hash (Git’s default is SHA‑1; some repos opt-in to SHA‑256). History rewrites are detectable.
+- Traceability: GitHub preserves commit history, authorship, timestamps, and diffs; branch protection can prevent force-pushes to `main`.
+- Optional Signing: Commits and tags can be signed (GPG/SSH/Sigstore). Verification surfaces in `git log --show-signature` and GitHub UI.
+- File-level evidence: For any file, you can retrieve the last commit touching it and compute a working-tree hash to attest content at audit time.
+
+Verification commands (run locally):
+
+```bash
+# Repository state
+git -C /Users/bamdad/www/GenAI-RD branch --show-current
+git -C /Users/bamdad/www/GenAI-RD rev-parse HEAD
+git -C /Users/bamdad/www/GenAI-RD remote -v
+git -C /Users/bamdad/www/GenAI-RD log -1 --pretty=fuller --show-signature
+
+# File-specific (this document)
+git -C /Users/bamdad/www/GenAI-RD log -n 1 --pretty=fuller -- AI-Guardrails-and-Bias/DEEP-DiVE.md
+shasum -a 256 /Users/bamdad/www/GenAI-RD/AI-Guardrails-and-Bias/DEEP-DiVE.md
+git -C /Users/bamdad/www/GenAI-RD hash-object AI-Guardrails-and-Bias/DEEP-DiVE.md
+```
+
+Recommended hardening:
+- Enable branch protection on `main` (require PRs, required reviews, and status checks).
+- Require signed commits for protected branches where feasible.
+- Use release tags (optionally signed) for milestone snapshots.
+
 ## 🔍 CROSS-EXAMINATION RECORD
 
 **Conducted By**: GitHub Copilot (Claude Opus 4.5)  
@@ -120,5 +193,48 @@ Per [GUARDRAILS.md](../GUARDRAILS.md) **Caution Zone** guidelines:
 **VERIFICATION COMPLETE.** 🔐
 
 ---
+
+## Appendix: Regional Audit Extensions (Middle East & US Allies)
+
+This appendix extends the regulatory snapshot for additional jurisdictions commonly relevant to US-aligned deployments. Non-legal, engineering-oriented mapping; verify with counsel for production use.
+
+### Middle East (selected)
+
+- United Arab Emirates (UAE)
+	- Themes: data protection (UAE PDPL), purpose limitation, consent, cross-border transfer controls, accountability.
+	- Engineering actions: document purposes; minimize data; maintain disclosures; assess cross-border transfers; add DPIA where risk is non-trivial.
+- Kingdom of Saudi Arabia (KSA)
+	- Themes: PDPL compliance, potential data localization/transfer conditions, controller obligations, transparency to data subjects.
+	- Engineering actions: maintain processing records; implement access/erasure pathways; evaluate localization/transfer gateways; log model decisions affecting individuals.
+- Qatar
+	- Themes: PDPL and cross-border transfer restrictions; security and accuracy duties.
+	- Engineering actions: classify data; apply transfer assessments; track provenance; apply source deference for factual claims.
+- Bahrain
+	- Themes: PDPL with registration/notification elements; purpose limitation and data subject rights.
+	- Engineering actions: catalog datasets; implement DSAR workflows; minimize retention; disclose AI assistance where outputs affect users.
+- Israel
+	- Themes: privacy law and regulator guidance; fairness/accuracy principles; database management obligations.
+	- Engineering actions: maintain data inventories; perform risk reviews for automated decision contexts; document model limitations in user-facing surfaces.
+- Egypt / Jordan (evolving frameworks)
+	- Themes: emerging data protection regimes; cross-border transfer caution; rights enablement.
+	- Engineering actions: favor conservative defaults: purpose binding, consent recording, transfer due diligence, and human review for high-stakes cases.
+
+### US Allies (beyond US/UK/EU covered above)
+
+- Canada
+	- Themes: PIPEDA principles (accountability, consent, limiting use, accuracy); proposed AI-specific legislation.
+	- Engineering actions: enable challenge/correction; maintain explainability appropriate to context; log automated decision support.
+- Australia
+	- Themes: Privacy Act obligations; OAIC guidance; AI ethics principles (safety, transparency, accountability).
+	- Engineering actions: add impact assessments for consequential uses; user disclosures; robust incident logging and remediation loop.
+- New Zealand
+	- Themes: Privacy Act 2020; OPC guidance on algorithmic transparency and fairness.
+	- Engineering actions: clear notices; opt-outs or reviews for impactful automation; persist evidence for audits.
+
+Cross-regional common denominators
+- Transparency: disclose AI involvement and known limitations for material decisions.
+- Evidence: keep logs, data lineage, and rationale traces proportionate to risk.
+- Human-in-the-loop: require review/appeal for high-stakes decisions.
+- Risk management: classify use cases early; perform lightweight DPIAs where appropriate; monitor and iterate.
 
 *Cross-examination conducted per repo protocols. Model: Claude Opus 4.5 via GitHub Copilot.*
