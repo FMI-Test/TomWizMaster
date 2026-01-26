@@ -81,6 +81,10 @@ GenAI-R&D/
 3. Open issues or PRs for improvements
 4. For compliance and cross‑domain usage, see [COMPLIANCE.md](COMPLIANCE.md) and [MISCELLANEOUS.md](MISCELLANEOUS.md)
 
+ - New: IaT (Infrastructure‑as‑Text) workflow — see IaT/README.md for intake, checklist, SR, reference architecture, decision options, and change analysis.
+ - See [ARCHITECTURE-HIERARCHY.md](ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
+ - Emoji Compression — see [EMOJI-COMPRESSION.md](EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
+ - Show & Tell — see [SHOW-AND-TELL.md](SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
 ---
 
 ## 🧠 Core Philosophy
@@ -174,5 +178,5 @@ This work is shared for educational and collaborative purposes. See individual p
 
 ---
 
-**Last Updated:** January 22, 2026  
+**Last Updated:** January 22, 2026
 **Maintainer:** Bamdad (Jerry 🐭)

@@ -109,6 +109,16 @@ Guideline: Each pass must produce measurable deltas (KPIs, risks, savings). If d
 
 ---
 
+## 9a. Cultural Analogy — Dodge Charger SRT (Street & Racing Technology)
+- Context: The SRT badge historically denotes “Street & Racing Technology” — high performance vehicles engineered for track-capable speed, stability, and control.
+- Analogy Use: As a metaphor for “Faster • Better • Cheaper,” emphasize durable engineering and control under stress, not glamorization.
+- References:
+  - Video 1: https://www.youtube.com/watch?v=UCo0hSFAWOc
+  - Video 2: https://www.youtube.com/watch?v=GeMeyeO1FqM
+- Guardrail: Cultural analogies are illustrative only; they do not imply policy endorsement or procurement preferences. Tie back to measurable KPIs and evidence.
+
+---
+
 ## 10. Operating Procedure (Single-Page Checklist)
 - Read [../CONSTITUTION.md](../CONSTITUTION.md) and [../GUARDRAILS.md](../GUARDRAILS.md).  
 - Define KPIs, baselines, constraints, and risk bounds.  

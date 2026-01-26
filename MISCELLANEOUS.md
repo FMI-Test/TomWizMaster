@@ -58,6 +58,8 @@
 - **Human (Judge):** Final authority; accepts/rejects; merges to main.  
 - **Pattern:** Draft → Audit → Verdict; repeat if high stakes (multi‑shot).
 
+**Current Run Expectation:** For stress testing and end‑to‑end review in this cycle, use the latest OpenAI model in the Prosecutor role, paired with Gemini for independent audit and human for final verdict.
+
 ---
 
 ## 6. Dependencies & Style Adherence

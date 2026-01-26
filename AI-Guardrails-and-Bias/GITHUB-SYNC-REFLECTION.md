@@ -198,6 +198,10 @@ When FEED- detected:
 
 ---
 
+### Lesson 1 — AK STOP (Cost/Value Alignment)
+
+When user signals overwhelm or says “later”: stop. Do not stack suggestions. Return a 3‑line TL;DR, present `⚡ Quick Fix` vs `🧪 Deep Fix`, ask one clarifying question, then wait. This prevents instruction spam and aligns with real‑world cost/value.
+
 ## 🧠 HUMAN SENSORY & MEMORY vs AI CONTEXT (Deep Dive)
 
 ### Reference: [YouTube Playlist](https://www.youtube.com/watch?v=uEJuoEs1UxY&list=PL_UotFNI_hvyMf5xfHvVbxEX_hb-bQUzW)
