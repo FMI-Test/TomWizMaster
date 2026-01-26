@@ -1,7 +1,7 @@
 # Design Document: How the Sausage Was Made
 
-**Version:** 1.0  
-**Created:** January 22, 2026  
+**Version:** 1.0
+**Created:** January 22, 2026
 **Purpose:** Document the thinking, prompts, and process behind this framework
 
 ---
@@ -141,7 +141,7 @@ From the prompt, we extracted a hierarchical structure:
 ```
 Manifesto (WHY) → Declaration of intent
     ↓
-Constitution (WHAT) → Core principles  
+Constitution (WHAT) → Core principles
     ↓
 Shared Responsibility (WHO) → Accountability
     ↓
@@ -238,6 +238,9 @@ Projects (WHERE) → Application
 - [ ] Refine based on failures
 - [ ] Add case studies
 - [ ] Create visual diagrams
+- [ ] Integrate UI/UX Friction Playbook and UX Signals Spec across projects
+- [ ] Pilot IaT (Infrastructure‑as‑Text) intake → outputs workflow; refine templates based on collaborator feedback
+- [ ] Formalize System → Platform → App hierarchy and use Change Analysis (X → Y) templates for what‑if evaluations (pro/con, cost/time/value, risk)
 
 ---
 

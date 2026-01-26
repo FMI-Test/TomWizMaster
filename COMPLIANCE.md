@@ -21,6 +21,23 @@ Our philosophy is based on the AWS Parallel:
 
 Compliance is therefore not a document you read, but a state you can **verify** by auditing the system against its own rules.
 
+### Security & Escalation
+For elevated‑risk scenarios (probabilistic triggers, not identity‑based), see [SECURITY-PROTOCOL.md](SECURITY-PROTOCOL.md) for gatekeeping, shadow red‑team, and escalation.
+
+## Thinking Visibility & Audit
+See [THINKING-VISIBILITY-PROTOCOL.md](THINKING-VISIBILITY-PROTOCOL.md) for structured reasoning visibility and Tier‑2 audit logging.
+Audit folder: audit/README.md and audit/templates/REASONING-LOG-TEMPLATE.md.
+
+## Audit Architecture
+See [AUDIT-ARCHITECTURE.md](AUDIT-ARCHITECTURE.md) for end‑to‑end audit pipeline, integrity checks, and fail‑closed behavior.
+
+## Model Provenance
+Capture and verify model identity, lineage, hashes, and attestations using [audit/templates/MODEL-PROVENANCE-TEMPLATE.md](audit/templates/MODEL-PROVENANCE-TEMPLATE.md).
+Compliance checks should reference provenance records for all AI outputs and sensitive actions.
+
+## IaT Outputs & Compliance
+The IaT workflow produces compliance‑aware outputs from textual intake. See [IaT/CHECKLIST.md](IaT/CHECKLIST.md) and [IaT/SYSTEM-REQUIREMENTS-TEMPLATE.md](IaT/SYSTEM-REQUIREMENTS-TEMPLATE.md) for required sections and SR structure.
+
 ---
 
 ## 2. How Compliance is Measured
