@@ -62,3 +62,13 @@ Purpose: Capture model identity, lineage, artifacts, evaluations, and attestatio
 - License: [URL]
 - Provider Docs: [URL]
 - Related SR: [link to IaT/SYSTEM-REQUIREMENTS-TEMPLATE.md]
+
+---
+
+#### Footnote — Model & Provenance
+- Model: GitHub Copilot (GPT-5)
+- Operation: Footnote insertion
+- Date: 2026-01-26
+- Commit Ref: 87c0453da8dc93851da7fb86eb0534f1d7d0e137
+- Review: AK (requested/audited)
+
