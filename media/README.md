@@ -37,3 +37,12 @@ Purpose: Declaratively generate audience‑aware multimedia (images, short video
 - Rendering (image/video/audio) uses your external tools; we output specs and prompts.
 - Accessibility: include alt text, captions, and contrast guidance in prompts.
 - Provenance: log asset decisions in audit if distributed externally.
+
+---
+
+#### Footnote — Model & Provenance
+- Model: Claude Opus 4.5 (Anthropic)
+- Operation: Footnote insertion (completing GPT-5 failed task)
+- Date: 2026-01-26
+- Commit Ref: 87c0453da8dc93851da7fb86eb0534f1d7d0e137
+- Review: AK (requested/audited)
