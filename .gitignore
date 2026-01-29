@@ -94,6 +94,10 @@ data-export/*.*
 JavaScript/doc/MS_Diversification_Landscape_2024.pdf
 JavaScript/doc/Robo-Advisor_Landscape_2023.pdf
 JavaScript/doc/The Firm, The Company & The World Economy! - Bamdad Fakhran - Medium.pdf
-!-gitignore
+!.gitignore
+
+# Audit
+Audit/logs/
+Audit/output/
 
 JavaScript/doc/cfn-ug.pdf

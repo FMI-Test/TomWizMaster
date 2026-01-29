@@ -7,7 +7,7 @@ set -euo pipefail
 #   scripts/audit.sh Safety/date-ai.md README.md  # audit specific files
 #   scripts/audit.sh --fail          # exit non-zero on issues
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)"
 PY_DEFAULT="python3"
 PY_VENV="$ROOT_DIR/.venv/bin/python"
 PY_CMD="$PY_DEFAULT"

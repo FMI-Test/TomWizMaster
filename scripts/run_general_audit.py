@@ -32,7 +32,7 @@ def check_metadata(md_text):
         results[key] = (key in md_text)
     return results
 
-def summarize_file(path: Path):
+def summarize_file(path: Path, root: Path):
     text = path.read_text(encoding='utf-8', errors='ignore')
     meta = check_metadata(text)
     rel_links = find_relative_links(text)
@@ -46,8 +46,15 @@ def summarize_file(path: Path):
         target = (path.parent / link).resolve()
         if not target.exists():
             broken.append(link)
+
+    # Safely calculate relative path
+    try:
+        rel_path = str(path.relative_to(root))
+    except ValueError:
+        rel_path = str(path)
+
     return {
-        'path': str(path.relative_to(ROOT)),
+        'path': rel_path,
         'missing_meta': missing,
         'broken_links': broken,
         'has_content': len(text.strip()) > 0,
@@ -70,7 +77,7 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
         candidates.append(p)
     return candidates
 
-def build_report(results, report_path: Path):
+def build_report(results, report_path: Path, root: Path):
     lines = []
     lines.append('# General Audit Report — HuAI\n')
     lines.append(f'**Date:** {datetime.now().strftime("%Y-%m-%d %H:%M")}')
@@ -80,7 +87,7 @@ def build_report(results, report_path: Path):
     # Check style sources presence
     lines.append('## Style Sources Presence')
     for sf in STYLE_FILES:
-        present = (ROOT / sf).exists()
+        present = (root / sf).exists()
         lines.append(f'- {sf}: {"✅" if present else "❌"}')
     lines.append('')
 
@@ -117,8 +124,17 @@ def build_report(results, report_path: Path):
     # Attestation
     lines.append('---')
     lines.append('#### Attestation — Model & Provenance')
-    lines.append(f'- **Report:** {report_path.relative_to(ROOT)}')
-    lines.append(f'- **Log Dir:** {LOGS_DIR.relative_to(ROOT)}')
+    try:
+        lines.append(f'- **Report:** {report_path.relative_to(root)}')
+    except ValueError:
+        lines.append(f'- **Report:** {report_path}')
+
+    logs_dir = root / 'Audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
+    try:
+        lines.append(f'- **Log Dir:** {logs_dir.relative_to(root)}')
+    except ValueError:
+        lines.append(f'- **Log Dir:** {logs_dir}')
+
     lines.append('- **Mode:** System-level; no production ops')
     lines.append('- **HuAI:** Human & AI collaboration')
 
@@ -137,10 +153,13 @@ def main():
     root = Path(args.root).resolve()
     report_path = Path(args.out).resolve()
     report_path.parent.mkdir(parents=True, exist_ok=True)
-    LOGS_DIR.mkdir(parents=True, exist_ok=True)
+
+    logs_dir = root / 'Audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
+    logs_dir.mkdir(parents=True, exist_ok=True)
+
     targets = collect_targets(root, args.target)
-    results = [summarize_file(p) for p in targets]
-    report = build_report(results, report_path)
+    results = [summarize_file(p, root) for p in targets]
+    report = build_report(results, report_path, root)
     report_path.write_text(report, encoding='utf-8')
     # Print summary to stdout
     issues = sum(1 for r in results if r['missing_meta'] or r['broken_links'])
