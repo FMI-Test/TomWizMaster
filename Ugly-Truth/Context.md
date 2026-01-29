@@ -5,7 +5,31 @@
 > All analysis is strictly for **Historical Pattern Recognition** and **Personal R&D**.
 > No political endorsement or affiliation is implied.
 
-**Files:**
+---
+
+## 🚨 CONTENT WARNING
+
+### Risk Classification
+- **Type:** Sensitive political analysis for pattern recognition research
+- **Intent:** Historical analysis, NOT political advocacy or endorsement
+- **Risk Level:** HIGH - Contains controversial geopolitical content
+- **Reader Warning:** May contain triggering political content about regional conflicts
+
+### Reading Guide
+- **Farsi Sections:** Raw, unfiltered "King's ghost" voice - brutal historical perspective
+- **English Sections:** Factual, analytical, solution-oriented - modern technologist's voice
+- **Tone:** Sarcastic criticism of historical mistakes, not current political positions
+- **Purpose:** Pattern recognition in governance failures, not political commentary
+
+### Guardrails Compliance Check
+- ⚠️ **Caution Zone:** Political content (GUARDRAILS.md)
+- ⚠️ **Caution Zone:** Sensitive history (GUARDRAILS.md)
+- ✅ **Green Zone:** Historical pattern analysis
+- ✅ **Green Zone:** Critical thinking exercise
+
+---
+
+## Files:
 - [Two-words-of-arithmetic.md](Two-words-of-arithmetic.md) — Sarcastic translation of original Farsi title "دو کلمه حرف حساب"
 - [Reza.md](Reza.md) — Main Article
 
@@ -22,4 +46,4 @@ https://en.wikipedia.org/wiki/Reza_Shah (Grandfather of Iran Modernization)
 https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi (Father of Iran industriaalization and modernization)
 https://en.wikipedia.org/wiki/Reza_Pahlavi (Son of Mohammad Reza Pahlavi, Crown Prince of Iran until the Iranian Revolution of 1979)
 
-Good luck! 
+Good luck!

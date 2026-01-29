@@ -71,6 +71,19 @@ $RECYCLE.BIN/
 .Spotlight-V100
 .Trashes
 
+# NSFW content exclusion
+**/NSFW/
+**/NFSW/
+
+# Large media files
+*.mov
+*.mp4
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.webm
+
 # Legacy / Specifics from previous gitignore
 JavaScript/fa-6.5.2/
 *.xlsx

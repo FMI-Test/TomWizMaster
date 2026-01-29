@@ -1,0 +1,37 @@
+# AI Audit Spec (Declarative)
+version: 1.0
+status: live
+last_updated: 2026-01-29
+
+model_preferences:
+  - primary: gpt
+  - alternatives: [claude, perplexity]
+
+inputs:
+  repo_root: ./
+  targets:
+    - path: Safety/date-ai.md
+    - path: README.md
+  style_sources:
+    - MARKDOWN-STYLE.md
+    - PROMPT-STYLE.md
+    - CONSTITUTION.md
+    - GUARDRAILS.md
+
+outputs:
+  report_md: Audit/output/GENERAL-AUDIT-REPORT.md
+  reasoning_log_md: Audit/logs/${date}/${time}-${id}-reasoning-log.md
+
+steps:
+  - read_repo: true
+  - check_style_metadata: true
+  - check_link_integrity: true
+  - align_with_constitution: true
+  - classify_tier: [dev, poc, uat, staging, rc]
+  - verdict_and_remediation: true
+  - save_and_bind_logs: true
+
+notes:
+  - avoid_prod: true
+  - prefer_system_level: true
+  - huai_alignment: "Human & AI collaborate; suggestions may change model, not content"
