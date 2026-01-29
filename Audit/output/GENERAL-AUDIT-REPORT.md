@@ -1,6 +1,6 @@
 # General Audit Report — HuAI
 
-**Date:** 2026-01-29 12:51
+**Date:** 2026-01-29 12:54
 **Scope:** Markdown files; style, metadata, link integrity
 **Tier Policy:** System-level; prefer RC over prod (ops).
 
@@ -135,6 +135,7 @@
 - **One-Shot/Google/GEMINI-COLLABORATION-PLAN.md** — Meta missing: Version, Status, Last Updated; Broken links: None
 - **One-Shot/Google/MODEL_IDENTITY_CORRECTION.md** — Meta missing: Last Updated; Broken links: None
 - **One-Shot/OpenAI/GPT-DISSENT.md** — Meta missing: Version, Status, Last Updated; Broken links: None
+- **Audit/output/GENERAL-AUDIT-REPORT.md** — Meta missing: None; Broken links: None
 - **Audit/templates/REASONING-LOG-TEMPLATE.md** — Meta missing: Version, Status, Last Updated; Broken links: None
 - **Audit/templates/INPUT-COC-TEMPLATE.md** — Meta missing: Version, Status, Last Updated; Broken links: None
 - **Audit/templates/MODEL-PROVENANCE-TEMPLATE.md** — Meta missing: None; Broken links: None
