@@ -84,3 +84,31 @@ JavaScript/doc/The Firm, The Company & The World Economy! - Bamdad Fakhran - Med
 !-gitignore
 
 JavaScript/doc/cfn-ug.pdf
+
+# Exclude all .mov files
+*.mov
+
+# Exclude large files (over 100MB)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.bin
+*.exe
+*.dmg
+*.mp4
+*.mkv
+*.avi
+*.flv
+*.wmv
+*.mpg
+*.mpeg
+*.ogg
+*.wav
+*.flac
+*.mp3
+*.aac
+*.wma
+*.webm
+*.mov
