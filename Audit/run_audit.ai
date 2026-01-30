@@ -6,6 +6,7 @@ last_updated: 2026-01-29
 model_preferences:
   - primary: gpt
   - alternatives: [claude, perplexity]
+  - allow_beta: true
 
 inputs:
   repo_root: ./
@@ -27,7 +28,7 @@ steps:
   - check_style_metadata: true
   - check_link_integrity: true
   - align_with_constitution: true
-  - classify_tier: [dev, poc, uat, staging, rc]
+  - classify_tier: [dev]
   - verdict_and_remediation: true
   - save_and_bind_logs: true
 
