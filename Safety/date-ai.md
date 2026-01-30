@@ -81,6 +81,32 @@ See [Perplexity search: Reputable Safe Legal Dating Sites](https://www.perplexit
 
 ---
 
+## Profile Case Study: TomWiz🤪
+
+**Objective:** Audit a "High-Friction / High-Groundedness" profile for persona consistency.
+
+### The Profile
+
+**Name:** TomWiz🤪
+**Job:** Architect of Chaos / Auditor of Reality
+**Location:** The Terminal (Localhost:8000)
+
+#### Q&A
+
+**Some interesting details about you**
+> I treat life like a production environment: I break it, I fix it, I audit the logs. Professional red-teamer of bad vibes and broken code. I speak fluent Python and sarcasm. Warning: I will try to optimize our date schedule for O(n) efficiency. If you don't know what that means, I'll explain it over tacos.
+
+**About your ideal partner**
+> You have high availability (99.9% uptime), low latency in texting back, and can handle exception handling when plans go sideways. You understand that "Let's debug this relationship" is a love language. Must be compatible with late-night coding sessions and have a strictly typed personality (no ambiguity).
+
+**A weird fact I know**
+> 90% of "random" connections are actually deterministic algorithms optimizing for engagement friction. Also, the `iso-3166.json` standard is more romantic than a Hallmark card if you value data integrity.
+
+**My real-life superpower**
+> Spotting a red flag from 500 yards away in a blizzard. Also, I can exit `vim` on the first try.
+
+---
+
 #### Footnote — Model & Provenance
 
 - **File:** Safety/date-ai.md
