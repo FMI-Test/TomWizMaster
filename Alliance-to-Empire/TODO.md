@@ -1,7 +1,14 @@
 # Alliance to Empire Platform - TODO List
 
-**Last Updated:** January 18, 2026  
+**Last Updated:** January 30, 2026
 **Status:** Pre-POC Phase
+
+## Critical Priority (P0)
+- [ ] **Establish Multi-media Protocol (Audio/Latency)**
+    - **Context:** User is white-glove (natural usage, no training).
+    - **Issue:** Latency and interruption handling (sub-agents cannot multitask listening/noise detection).
+    - **Risk:** Biological fail-safe / "Animal instinct" considerations (User impact X, AI impact Y).
+    - **Ref:** See `Safety/raw_notes_draft.md` Part 9.
 
 ---
 
@@ -14,14 +21,14 @@
   - [ ] Install extension
   - [ ] Get API key from Anthropic console
   - [ ] Configure in VS Code settings
-  
+
 - [ ] **Subscribe to Claude Code Pro or Max**
   - [ ] Visit anthropic.com or claude.ai
   - [ ] Choose Pro ($20/month) or Max ($40/month if available)
   - [ ] Confirm subscription
   - [ ] Verify higher usage limits are active
   - [ ] Note: This is separate from Claude API subscription if needed
-  
+
 - [ ] **Verify GitHub Copilot Pro** (✅ already subscribed)
   - [ ] Confirm Copilot is active in VS Code
   - [ ] Test with a simple Python file
@@ -70,7 +77,7 @@
   - [ ] Keyboard shortcuts
   - [ ] Chat vs inline editing modes
   - [ ] File context selection
-  
+
 - [ ] **Advanced Features**
   - [ ] Multi-file refactoring
   - [ ] Architecture planning mode
@@ -98,7 +105,7 @@
   - [ ] Create "learning log" document
   - [ ] Plan: Ask AI to explain concepts, not just give code
   - [ ] Build understanding, not just copy-paste
-  
+
 - [ ] **WSO Knowledge Base Transfer**
   - [ ] Identify relevant WSO content for POC context
   - [ ] Review `/Users/bamdad/www/WSO/kb/` directory
@@ -106,7 +113,7 @@
   - [ ] Document what AI should know about WSO
   - [ ] Set up read-only access for AI to WSO files
   - [ ] Create context file: "WSO-relevant-for-ideaforge.md"
-  
+
 - [ ] **WSO Content Update (if applicable)**
   - [ ] Review which WSO files should be updated
   - [ ] Flag for manual review before any changes
@@ -160,7 +167,7 @@
   - [ ] Does it actually refine ideas meaningfully?
   - [ ] Would I use this myself?
   - [ ] Would 3+ friends/colleagues pay for it?
-  
+
 - [ ] **Decision:**
   - [ ] ✅ **Proceed to Beta** (if promising)
   - [ ] ❌ **Pivot** (if not working as expected)
@@ -383,7 +390,7 @@
 
 ---
 
-**Remember:** 
+**Remember:**
 - Start small, validate fast
 - Don't build what users don't want
 - $10 spent > $1000 planned
