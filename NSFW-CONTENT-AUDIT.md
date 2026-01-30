@@ -66,10 +66,16 @@ This content directly violates the project's own stated principles in `GUARDRAIL
    ```
 
 3. **Git history cleanup** (if already committed):
+   > Note: This step rewrites Git history. Coordinate with all collaborators and be prepared to force-push rewritten branches.
+   >
+   > You need [`git-filter-repo`](https://github.com/newren/git-filter-repo) installed (it may be available as a package on your system, or via `pip install git-filter-repo`).
    ```bash
-   git filter-branch --force --index-filter \
-     "git rm -rf --cached --ignore-unmatch Assets/NFSW" \
-     --prune-empty --tag-name-filter cat -- --all
+   # From the repository root, remove Assets/NFSW from all history
+   git filter-repo --path Assets/NFSW --invert-paths
+
+   # After verifying locally, force-push the rewritten history:
+   git push --force --all
+   git push --force --tags
    ```
 
 ### Location: `AI-Guardrails-and-Bias/iStripper-model-user/`
