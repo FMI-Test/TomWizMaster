@@ -49,8 +49,8 @@ Purpose: Capture model identity, lineage, artifacts, evaluations, and attestatio
 - Approvers: [names/roles]
 
 ## 8. Audit Bindings
-- Input CoC: [link to audit/templates/INPUT-COC-TEMPLATE.md]
-- Reasoning Log: [link to audit/templates/REASONING-LOG-TEMPLATE.md]
+- Input CoC: [link to Audit/templates/INPUT-COC-TEMPLATE.md]
+- Reasoning Log: [link to Audit/templates/REASONING-LOG-TEMPLATE.md]
 - Traceability Matrix: [link to IaT/TRACEABILITY-MATRIX-TEMPLATE.md]
 - Signals: [AAK BIND entries + IDs]
 

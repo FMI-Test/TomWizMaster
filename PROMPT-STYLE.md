@@ -162,7 +162,7 @@ When AAK signals are active, add a short “Reasoning Summary” block:
 - Result: outcome and verification
 - Next: follow‑up or risk
 
-See [THINKING-VISIBILITY-PROTOCOL.md](THINKING-VISIBILITY-PROTOCOL.md) and [audit/README.md](audit/README.md) for details and templates.
+See [THINKING-VISIBILITY-PROTOCOL.md](THINKING-VISIBILITY-PROTOCOL.md) and [Audit/README.md](Audit/README.md) for details and templates.
 
 ---
 

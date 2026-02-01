@@ -14,7 +14,7 @@ Purpose: Harness human background processing (sleep/dreams, shower thoughts) wit
 ## Signals
 - **AK MARK <tag>:** set a marker (emoji/text) for later recall.
 - **AK RECALL <tag>:** request AI to resurface context linked to the marker.
-- **AAK BIND recall:<id>:** bind recall event to prior audit/log and output.
+- **AAK BIND recall:<id>:** bind recall event to prior Audit/log and output.
 
 ## Emoji Markers (Examples)
 - 📌 Marker — set a mental bookmark

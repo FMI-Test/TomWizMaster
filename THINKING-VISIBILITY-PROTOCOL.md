@@ -3,7 +3,7 @@
 Purpose: Ensure reasoning and decision traces are consistently visible, auditable, and bound to outputs for R&D and high‑stake workflows without exposing confidential chain‑of‑thought. This protocol defines what to capture, how to store it, and signals to control audit behavior.
 
 ## Modes
-- R&D Default: Full trace visibility via structured summaries of reasoning and actions. Store in `audit/` using the template.
+- R&D Default: Full trace visibility via structured summaries of reasoning and actions. Store in `Audit/` using the template.
 - High‑Stake (P4–P7, domain‑dependent): Max visibility with Tier‑2 binding. Every significant action logs to an audit file and links back to the main output.
 
 ## Classification
@@ -31,7 +31,7 @@ Store secrets separately; do not include credentials or sensitive personal data.
 These complement existing signals (e.g., AK GO/AK STOP) and focus on audit control.
 
 ## Binding & Storage
-- File location: `audit/logs/<YYYY-MM-DD>/<HHMM>-<short-id>-reasoning-log.md`
+- File location: `Audit/logs/<YYYY-MM-DD>/<HHMM>-<short-id>-reasoning-log.md`
 - Cross‑link: Include references to the primary output (document path or commit hash) in the log header.
 - Retention: Follow COMPLIANCE and SECURITY-PROTOCOL. Default retention 90 days in R&D; extend for high‑stake per governance.
 
@@ -43,7 +43,7 @@ When time‑sensitive, log succinct bullet summaries at checkpoints:
 - Risk/Next
 
 ## Template
-Use `audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries structured and concise.
+Use `Audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries structured and concise.
 
 ## Privacy & Neutrality
 - No identity‑based triggers; neutrality by default.
@@ -56,4 +56,4 @@ Use `audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries stru
 - Prefer AI interpretation on normalized text but reference raw when ambiguity arises.
 - For time‑sensitive flows, enable “Authenticity mode”: capture raw + minimal normalization notes; defer heavy corrections.
 - Bind inputs to outputs using AAK signals (e.g., AAK BIND <id>) and reference in the audit header.
-- Template: see `audit/templates/INPUT-COC-TEMPLATE.md` for input chain‑of‑custody.
+- Template: see `Audit/templates/INPUT-COC-TEMPLATE.md` for input chain‑of‑custody.
