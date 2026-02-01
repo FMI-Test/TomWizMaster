@@ -80,7 +80,7 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
             p = (root / t).resolve()
             # Security check: ensure target is within repo root
             try:
-                p.relative_to(root)
+                p.relative_to(root)  # Raises ValueError if outside root
             except ValueError:
                 print(f'Warning: skipping {t} (outside repo root)')
                 continue
@@ -99,6 +99,7 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
             if any(rel_str.startswith(exc) for exc in EXCLUDED_PATHS):
                 continue
         except ValueError:
+            # Path is outside root (shouldn't happen with rglob, but be safe)
             pass
         candidates.append(p)
     return candidates
