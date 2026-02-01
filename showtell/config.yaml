@@ -7,7 +7,7 @@ exec_summary_sources:
   - COMPLIANCE.md
   - FRICTION-PROTOCOL.md
   - AUDIT-ARCHITECTURE.md
-  - audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+  - Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 
 deck_sections:
   - title: Overview
@@ -19,7 +19,7 @@ deck_sections:
   - title: Audit Architecture
     file: AUDIT-ARCHITECTURE.md
   - title: Model & Provenance
-    file: audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+    file: Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 
 emoji_palette: EMOJI-PALETTE.yaml
 
