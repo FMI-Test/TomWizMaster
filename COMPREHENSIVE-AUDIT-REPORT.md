@@ -92,7 +92,7 @@ This comprehensive audit examines the entire workspace for alignment with the pr
 
 #### ✅ STRONG ALIGNMENT
 - **Technical Documentation:** ARCHITECTURE-HIERARCHY.md, DESIGN.md, FULL-ANALYSIS.md
-- **Process Frameworks:** IaT/, Audit/, showtell/
+- **Process Frameworks:** IaT/, audit/, showtell/
 - **Core Principles:** CONSTITUTION.md, GUARDRAILS.md, MANIFESTO.md
 - **Professional Content:** Most subdirectories (Alliance-to-Empire, AI-Guardrails-and-Bias, etc.)
 
