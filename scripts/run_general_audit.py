@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-import os
+from __future__ import annotations
 import re
 import argparse
 from pathlib import Path
 from datetime import datetime
+from typing import Optional
 
 ROOT = Path(__file__).resolve().parents[1]
 AUDIT_DIR = ROOT / 'Audit'
@@ -21,7 +22,12 @@ def find_relative_links(md_text):
     links = re.findall(r"\[[^\]]+\]\(([^)]+)\)", md_text)
     rel_links = []
     for link in links:
-        if link.startswith('http://') or link.startswith('https://'):
+        link = link.strip()
+        # Skip absolute URLs (http, https, mailto, tel, etc.)
+        if '://' in link or link.startswith('mailto:') or link.startswith('tel:'):
+            continue
+        # Skip anchor-only links
+        if link.startswith('#'):
             continue
         rel_links.append(link)
     return rel_links
@@ -29,7 +35,9 @@ def find_relative_links(md_text):
 def check_metadata(md_text):
     results = {}
     for key in META_KEYS:
-        results[key] = (key in md_text)
+        # Match the full field marker at line start: **Key:**
+        pattern = rf'^\*\*{re.escape(key)}:\*\*'
+        results[key] = bool(re.search(pattern, md_text, re.MULTILINE))
     return results
 
 def summarize_file(path: Path, root: Path):
@@ -42,8 +50,12 @@ def summarize_file(path: Path, root: Path):
             missing.append(key)
     broken = []
     for link in rel_links:
+        # Strip fragment and query components before checking existence
+        link_path = link.split('#')[0].split('?')[0]
+        if not link_path:  # Empty after stripping (was just #fragment)
+            continue
         # Normalize relative path
-        target = (path.parent / link).resolve()
+        target = (path.parent / link_path).resolve()
         if not target.exists():
             broken.append(link)
 
@@ -60,12 +72,18 @@ def summarize_file(path: Path, root: Path):
         'has_content': len(text.strip()) > 0,
     }
 
-def collect_targets(root: Path, explicit: list[str] | None = None):
+def collect_targets(root: Path, explicit: Optional[list[str]] = None):
     """Collect markdown targets. If explicit paths provided, use those; else scan repo."""
     if explicit:
         paths = []
         for t in explicit:
             p = (root / t).resolve()
+            # Security check: ensure target is within repo root
+            try:
+                p.relative_to(root)
+            except ValueError:
+                print(f'Warning: skipping {t} (outside repo root)')
+                continue
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
         return paths
@@ -74,6 +92,14 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
         # Avoid hidden folders
         if any(part.startswith('.') for part in p.parts):
             continue
+        # Exclude audit output and logs directories
+        try:
+            rel = p.relative_to(root)
+            rel_str = str(rel)
+            if rel_str.startswith('Audit/output/') or rel_str.startswith('Audit/logs/'):
+                continue
+        except ValueError:
+            pass
         candidates.append(p)
     return candidates
 
