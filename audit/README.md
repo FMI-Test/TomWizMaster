@@ -26,8 +26,8 @@ This folder holds the general audit protocol, Tier‑2 audit logs, templates, an
 		 ```bash
 		 scripts/audit.sh --fail
 		 ```
-	 Output: `Audit/output/GENERAL-AUDIT-REPORT.md`.
-3. **Run (AI):** Provide `Audit/run_audit.ai` to your model‑runner to execute the audit steps.
+	 Output: `audit/output/GENERAL-AUDIT-REPORT.md`.
+3. **Run (AI):** Provide `audit/run_audit.ai` to your model‑runner to execute the audit steps.
 4. **Log Control:** Use signals (AAK GO/STOP/BIND/SAVE) to control logging.
 5. **Attestation:** Link the log to the primary output (doc path or commit hash). For input authenticity, capture raw input with hash using `INPUT-COC-TEMPLATE.md`.
 

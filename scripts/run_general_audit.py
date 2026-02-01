@@ -6,7 +6,7 @@ from pathlib import Path
 from datetime import datetime
 
 ROOT = Path(__file__).resolve().parents[1]
-AUDIT_DIR = ROOT / 'Audit'
+AUDIT_DIR = ROOT / 'audit'
 OUTPUT_DIR = AUDIT_DIR / 'output'
 LOGS_DIR = AUDIT_DIR / 'logs' / datetime.now().strftime('%Y-%m-%d')
 DEFAULT_REPORT_PATH = OUTPUT_DIR / 'GENERAL-AUDIT-REPORT.md'
@@ -129,7 +129,7 @@ def build_report(results, report_path: Path, root: Path):
     except ValueError:
         lines.append(f'- **Report:** {report_path}')
 
-    logs_dir = root / 'Audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
+    logs_dir = root / 'audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
     try:
         lines.append(f'- **Log Dir:** {logs_dir.relative_to(root)}')
     except ValueError:
@@ -154,7 +154,7 @@ def main():
     report_path = Path(args.out).resolve()
     report_path.parent.mkdir(parents=True, exist_ok=True)
 
-    logs_dir = root / 'Audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
+    logs_dir = root / 'audit' / 'logs' / datetime.now().strftime('%Y-%m-%d')
     logs_dir.mkdir(parents=True, exist_ok=True)
 
     targets = collect_targets(root, args.target)
