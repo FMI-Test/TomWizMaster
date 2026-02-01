@@ -4,7 +4,6 @@ import re
 import argparse
 from pathlib import Path
 from datetime import datetime
-from typing import Optional
 
 ROOT = Path(__file__).resolve().parents[1]
 AUDIT_DIR = ROOT / 'Audit'
@@ -14,6 +13,7 @@ DEFAULT_REPORT_PATH = OUTPUT_DIR / 'GENERAL-AUDIT-REPORT.md'
 
 STYLE_FILES = ['MARKDOWN-STYLE.md', 'PROMPT-STYLE.md', 'CONSTITUTION.md', 'GUARDRAILS.md']
 META_KEYS = ['Version', 'Status', 'Last Updated']
+EXCLUDED_PATHS = ['Audit/output/', 'Audit/logs/']
 
 MD_EXT = {'.md'}
 
@@ -23,8 +23,8 @@ def find_relative_links(md_text):
     rel_links = []
     for link in links:
         link = link.strip()
-        # Skip absolute URLs (http, https, mailto, tel, etc.)
-        if '://' in link or link.startswith('mailto:') or link.startswith('tel:'):
+        # Skip absolute URLs and non-file schemes (http, https, mailto, tel, etc.)
+        if '://' in link:
             continue
         # Skip anchor-only links
         if link.startswith('#'):
@@ -72,7 +72,7 @@ def summarize_file(path: Path, root: Path):
         'has_content': len(text.strip()) > 0,
     }
 
-def collect_targets(root: Path, explicit: Optional[list[str]] = None):
+def collect_targets(root: Path, explicit: list[str] | None = None):
     """Collect markdown targets. If explicit paths provided, use those; else scan repo."""
     if explicit:
         paths = []
@@ -96,7 +96,7 @@ def collect_targets(root: Path, explicit: Optional[list[str]] = None):
         try:
             rel = p.relative_to(root)
             rel_str = str(rel)
-            if rel_str.startswith('Audit/output/') or rel_str.startswith('Audit/logs/'):
+            if any(rel_str.startswith(exc) for exc in EXCLUDED_PATHS):
                 continue
         except ValueError:
             pass
