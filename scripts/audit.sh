@@ -26,7 +26,7 @@ for arg in "$@"; do
   fi
 done
 
-OUT_PATH="$ROOT_DIR/Audit/output/GENERAL-AUDIT-REPORT.md"
+OUT_PATH="$ROOT_DIR/audit/output/GENERAL-AUDIT-REPORT.md"
 
 "$PY_CMD" "$ROOT_DIR/scripts/run_general_audit.py" \
   --root "$ROOT_DIR" \
