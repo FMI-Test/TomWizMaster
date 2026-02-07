@@ -76,12 +76,10 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
         if any(part.startswith('.') for part in p.parts):
             continue
         # Exclude generated artifact directories
-        try:
-            rel_path = p.relative_to(root)
-            if any(str(rel_path).startswith(excl) for excl in excluded_dirs):
-                continue
-        except ValueError:
-            pass
+        rel_path = p.relative_to(root)
+        rel_path_str = str(rel_path)
+        if any(rel_path_str.startswith(excl) for excl in excluded_dirs):
+            continue
         candidates.append(p)
     return candidates
 
