@@ -69,10 +69,19 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
                 paths.append(p)
         return paths
     candidates = []
+    # Directories to exclude from scanning (generated artifacts)
+    excluded_dirs = {'Audit/logs', 'Audit/output'}
     for p in root.rglob('*.md'):
         # Avoid hidden folders
         if any(part.startswith('.') for part in p.parts):
             continue
+        # Exclude generated artifact directories
+        try:
+            rel_path = p.relative_to(root)
+            if any(str(rel_path).startswith(excl) for excl in excluded_dirs):
+                continue
+        except ValueError:
+            pass
         candidates.append(p)
     return candidates
 
