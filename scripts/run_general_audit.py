@@ -65,6 +65,10 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
         paths = []
         for t in explicit:
             p = (root / t).resolve()
+            # Security: reject paths that resolve outside the repository root
+            if not p.is_relative_to(root):
+                print(f"Warning: Skipping '{t}' - resolves outside repository root", file=__import__('sys').stderr)
+                continue
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
         return paths
