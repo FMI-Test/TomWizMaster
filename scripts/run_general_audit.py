@@ -14,6 +14,8 @@ STYLE_FILES = ['MARKDOWN-STYLE.md', 'PROMPT-STYLE.md', 'CONSTITUTION.md', 'GUARD
 META_KEYS = ['Version', 'Status', 'Last Updated']
 
 MD_EXT = {'.md'}
+# Directories to exclude from scanning to avoid self-referential noise from generated audit artifacts
+EXCLUDED_DIRS = [['Audit', 'logs'], ['Audit', 'output']]
 
 def find_relative_links(md_text):
     # Match markdown links [text](path)
@@ -69,22 +71,21 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
                 paths.append(p)
         return paths
     
-    # Directories to exclude from scanning to avoid self-referential noise
-    excluded_dirs = {'Audit/logs', 'Audit/output'}
-    
     candidates = []
     for p in root.rglob('*.md'):
         # Avoid hidden folders
         if any(part.startswith('.') for part in p.parts):
             continue
         
-        # Check if path is under any excluded directory
+        # Check if path is under any excluded directory (platform-independent)
         try:
             rel_path = p.relative_to(root)
-            if any(str(rel_path).startswith(excluded) for excluded in excluded_dirs):
+            # Check if any excluded directory path is a prefix of this file's path
+            if any(rel_path.parts[:len(excluded)] == tuple(excluded) for excluded in EXCLUDED_DIRS):
                 continue
         except ValueError:
-            # If we can't get relative path, skip this check
+            # Unlikely edge case: relative_to() fails if p is not under root.
+            # Since we're using root.rglob(), this shouldn't happen in practice.
             pass
         
         candidates.append(p)
