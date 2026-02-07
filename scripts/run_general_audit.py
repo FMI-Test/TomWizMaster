@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 import re
 import argparse
 from pathlib import Path
@@ -67,7 +68,7 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
             p = (root / t).resolve()
             # Security: reject paths that resolve outside the repository root
             if not p.is_relative_to(root):
-                print(f"Warning: Skipping '{t}' - resolves outside repository root", file=__import__('sys').stderr)
+                print(f"Warning: Skipping '{t}' - resolves outside repository root", file=sys.stderr)
                 continue
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
