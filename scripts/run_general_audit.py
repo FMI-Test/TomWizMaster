@@ -20,9 +20,19 @@ def find_relative_links(md_text):
     links = re.findall(r"\[[^\]]+\]\(([^)]+)\)", md_text)
     rel_links = []
     for link in links:
+        # Skip absolute URLs (http/https)
         if link.startswith('http://') or link.startswith('https://'):
             continue
-        rel_links.append(link)
+        # Skip other URI schemes (mailto:, tel:, etc.)
+        if ':' in link and not link.startswith('/') and not link.startswith('.'):
+            continue
+        # Skip pure anchor links
+        if link.startswith('#'):
+            continue
+        # Strip whitespace and angle brackets
+        link = link.strip().strip('<>')
+        if link:
+            rel_links.append(link)
     return rel_links
 
 def check_metadata(md_text):
@@ -41,8 +51,13 @@ def summarize_file(path: Path, root: Path):
             missing.append(key)
     broken = []
     for link in rel_links:
+        # Strip fragment identifier (#section) and query string (?) before checking existence
+        link_path = link.split('#')[0].split('?')[0]
+        if not link_path:
+            # Empty after stripping fragment means it was an anchor-only link
+            continue
         # Normalize relative path
-        target = (path.parent / link).resolve()
+        target = (path.parent / link_path).resolve()
         if not target.exists():
             broken.append(link)
 

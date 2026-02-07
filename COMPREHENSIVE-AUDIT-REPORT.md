@@ -35,7 +35,7 @@ This comprehensive audit examines the entire workspace for alignment with the pr
 ### ✅ RESOLVED: NSFW Content Removed
 
 **Previous Finding:** `Assets/NFSW/` folder contained explicit adult content (HTML files from adult websites)
-**Action Taken:** Folder deleted via `rm -rf "/Users/bamdad/www/GenAI-RD/Assets/NFSW"`
+**Action Taken:** Folder deleted via `rm -rf Assets/NFSW`
 **Prevention:** Updated `.gitignore` with NSFW exclusions
 **Status:** ✅ Clean - No NSFW content detected in current workspace
 
