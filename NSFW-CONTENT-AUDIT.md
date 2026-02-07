@@ -31,9 +31,9 @@ The folder is named "NFSW" (typo of NSFW). It contains the following subdirector
 ### Specific Content Found (Now Deleted or Indexed)
 
 The semantic search index previously contained references to:
-- **File:** `ai.model/Vanessa Angel Nude in Marble - Free Metart Picture Gallery at Elite Babes.html`
+- **File:** `ai.model/NSFW-ASSET-0001.html` (original explicit title redacted)
 - **Content Type:** Adult/explicit website content (saved HTML page from adult website)
-- **Contains:** Explicit sexual descriptions, links to nude/pornographic galleries
+- **Contains:** Adult-only material, including links to external adult galleries (details redacted)
 
 ---
 
