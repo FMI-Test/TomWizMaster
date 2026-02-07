@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+import sys
 import argparse
 from pathlib import Path
 from datetime import datetime
@@ -69,7 +70,7 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
             try:
                 p.relative_to(root)
             except ValueError:
-                print(f"Warning: Skipping '{t}' - resolves outside repository root", file=__import__('sys').stderr)
+                print(f"Warning: Skipping '{t}' - resolves outside repository root", file=sys.stderr)
                 continue
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
