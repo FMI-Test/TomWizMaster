@@ -68,11 +68,25 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
         return paths
+    
+    # Directories to exclude from scanning to avoid self-referential noise
+    excluded_dirs = {'Audit/logs', 'Audit/output'}
+    
     candidates = []
     for p in root.rglob('*.md'):
         # Avoid hidden folders
         if any(part.startswith('.') for part in p.parts):
             continue
+        
+        # Check if path is under any excluded directory
+        try:
+            rel_path = p.relative_to(root)
+            if any(str(rel_path).startswith(excluded) for excluded in excluded_dirs):
+                continue
+        except ValueError:
+            # If we can't get relative path, skip this check
+            pass
+        
         candidates.append(p)
     return candidates
 
