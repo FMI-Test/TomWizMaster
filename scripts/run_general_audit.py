@@ -65,6 +65,9 @@ def collect_targets(root: Path, explicit: list[str] | None = None):
         paths = []
         for t in explicit:
             p = (root / t).resolve()
+            # Security: reject paths outside repo root
+            if not p.is_relative_to(root):
+                raise ValueError(f"Target path '{t}' resolves outside repository root: {p}")
             if p.exists() and p.suffix.lower() in MD_EXT:
                 paths.append(p)
         return paths
