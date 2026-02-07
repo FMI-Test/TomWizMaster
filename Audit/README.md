@@ -3,13 +3,13 @@
 This folder holds the general audit protocol, Tier‑2 audit logs, templates, and output reports.
 
 ## Structure
-- `GENERAL-AUDIT.md` — End‑to‑end protocol (HuAI)
-- `run_audit.ai` — Declarative spec for model‑executed audits
-- `logs/YYYY-MM-DD/HHMM-<short-id>-reasoning-log.md` — AAK reasoning logs
-- `output/GENERAL-AUDIT-REPORT.md` — Latest generated report
-- `templates/REASONING-LOG-TEMPLATE.md` — AAK log scaffold
-- `templates/INPUT-COC-TEMPLATE.md` — Chain‑of‑custody input capture
-- `templates/MODEL-PROVENANCE-TEMPLATE.md` — Model identity and attestations
+- `Audit/GENERAL-AUDIT.md` — End‑to‑end protocol (HuAI)
+- `Audit/run_audit.ai` — Declarative spec for model‑executed audits
+- `Audit/logs/YYYY-MM-DD/HHMM-<short-id>-reasoning-log.md` — AAK reasoning logs
+- `Audit/output/GENERAL-AUDIT-REPORT.md` — Latest generated report
+- `Audit/templates/REASONING-LOG-TEMPLATE.md` — AAK log scaffold
+- `Audit/templates/INPUT-COC-TEMPLATE.md` — Chain‑of‑custody input capture
+- `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md` — Model identity and attestations
 
 ## Usage
 1. **Protocol:** See [GENERAL-AUDIT.md](GENERAL-AUDIT.md) for workflow and signals.
