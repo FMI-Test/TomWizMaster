@@ -112,3 +112,9 @@ JavaScript/doc/cfn-ug.pdf
 *.wma
 *.webm
 *.mov
+
+# OSS Release Exclusions
+Meta/
+Assets/NFSW/
+Love/
+Screenshot*.png

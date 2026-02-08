@@ -30,9 +30,9 @@ Context: A "Universal Optimization" framework has been built by Claude and verif
 Your Goal: **BREAK IT.**
 
 **The Evidence (Read Only):**
-1.  Read the Defense's case: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/README.md` (and siblings)
-2.  Read the Jury's validation: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/Google/GEMINI-REVIEW.md`
-3.  Read the Stress Test: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/Google/CROSS-PROVIDER-VALIDATION.md`
+1.  Read the Defense's case: `One-Shot/README.md` (and siblings)
+2.  Read the Jury's validation: `One-Shot/Google/GEMINI-REVIEW.md`
+3.  Read the Stress Test: `One-Shot/Google/CROSS-PROVIDER-VALIDATION.md`
 
 **The Task:**
 Don't be polite. Don't be helpful. Be **RIGOROUS**.
@@ -42,7 +42,7 @@ We are suffering from biases:
 3.  **Survivorship Bias**: Are we only looking at successful optimizations?
 
 **Your Output:**
-Create your case file in: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/OpenAI/`
+Create your case file in: `One-Shot/OpenAI/`
 Filename: `GPT-DISSENT.md`
 
 **Answer these questions:**
