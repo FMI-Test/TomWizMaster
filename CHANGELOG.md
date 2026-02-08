@@ -2,6 +2,17 @@
 
 All notable changes to this repository are documented in this file.
 
+## [1.2.3] - 2026-02-08
+
+### Added
+- **QUICK-START.md rewrite:** Persona-based fast tracks (AI Agent 2min, Developer 3min, Architect 5min, Policy 5min, Contributor 10min) with navigation table and clear next steps
+- **ONBOARDING.md:** Comprehensive 30-60 minute onboarding guide covering all personas (AI, Dev, Architect, Policy, Contributor) with checklist, navigation guide, and deep learning resources
+- **DEEP-DIVE.md:** Architecture deep dive (45-90 min) covering system design patterns, governance parallels, audit framework, workflow patterns, scalability constraints, and evolution roadmap
+
+### Changed
+- QUICK-START.md version bumped to 1.2.2
+- Improved onboarding UX with time estimates and role-specific paths
+
 ## [1.2.2] - 2026-02-08
 
 ### Changed
