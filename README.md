@@ -211,3 +211,7 @@ TomWizExpert.solutions
 C.x@POV:x[Prod, Stg, FT, UAT, QA, Beta, Dev, POC, POV[0,1,2, ... now] SBD::Zero-Trust::GoTo.C
 
 # Cons
+- Large, mixed-audience scope can slow onboarding.
+- Metadata consistency varies across docs.
+- Generated artifacts can pollute audits if not excluded.
+- Release readiness notes are scattered; no single changelog.

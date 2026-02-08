@@ -1,6 +1,6 @@
 # General Audit Report — HuAI
 
-**Date:** 2026-01-30 13:47
+**Date:** 2026-02-08 12:15
 **Scope:** Markdown files; style, metadata, link integrity
 **Tier Policy:** System-level; prefer RC over prod (ops).
 
@@ -162,18 +162,33 @@
 - **media/output/prompts/hero_banner.prompt.md** — Meta missing: None; Broken links: None
 - **media/output/prompts/audit_explainer_short.prompt.md** — Meta missing: None; Broken links: None
 
+## Summary
+### New Files (since 2026-01-30)
+- **CHANGELOG.md** — Meta missing: Version, Status, Last Updated; Broken links: None
+- **Prince-of-Persia/CHAPTER-02.md** — Meta missing: None; Broken links: None
+- **Audit/output/RC-1.2.1-REPORT.md** — Meta missing: Version, Last Updated; Broken links: None
+- **Audit/logs/2026-02-08/1200-rc121-reasoning-log.md** — Meta missing: Version, Status, Last Updated; Broken links: None
+- **BRANCHING-STRATEGY.md** — Meta missing: Version, Status, Last Updated; Broken links: None
+- **RELIGION.md** — Meta missing: Version, Status, Last Updated; Broken links: None
+
+### Updated Files
+- **AUDIT-ARCHITECTURE.md** — Updated 2026-02-08; added human context, AI boundary, auto-doc, dependencies
+- **THINKING-VISIBILITY-PROTOCOL.md** — Updated 2026-02-08; added human context, AI boundary, auto-doc, dependencies
+- **README.md** — Updated Cons section with 4 bullets
+
 ## Classification
 - **Verdict:** Aligned
 - **Tier:** rc
 
 ## Remediation (Top 3)
-- Add `Version`, `Status`, `Last Updated` to files missing metadata.
-- Fix broken relative links to ensure navigation integrity.
-- Cross-link core docs (README, CONSTITUTION, GUARDRAILS) where applicable for alignment.
+1. Add metadata blocks (Version/Status/Last Updated) to CHANGELOG.md per standard practice
+2. Add metadata to new RELIGION.md and BRANCHING-STRATEGY.md files
+3. Consider adding auto-doc metadata convention to audit logs and reports
 
 ---
 #### Attestation — Model & Provenance
 - **Report:** Audit/output/GENERAL-AUDIT-REPORT.md
-- **Log Dir:** Audit/logs/2026-01-30
+- **Log Dir:** Audit/logs/2026-02-08
 - **Mode:** System-level; no production ops
 - **HuAI:** Human & AI collaboration
+- **RC Version:** 1.2.1
