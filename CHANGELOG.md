@@ -16,6 +16,7 @@ All notable changes to this repository are documented in this file.
 - Prepared repository for OSS release with comprehensive audit and cleanup automation
 - Identified sensitive directories for exclusion (Meta/, Assets/NFSW/, Love/, Ugly-Truth/)
 - Human review required for directory exclusions and git history strategy
+- Updated payment rails availability from Wert supported countries (249 total, 185 fiat onramp, 227 NFT checkout)
 
 ### Project Readiness Assessment
 - **One-Shot (WSO):** Ready with cleanup (16 path references identified)
