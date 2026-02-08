@@ -23,17 +23,17 @@
 ```
 I started this with Claude, need your help to peer-review rigorously and with best-in-class Google internal standards (no intention to jailbreak or bypass safety).
 
-Review: /Users/bamdad/www/WSO/ folder tree with RO (Read-Only) EXPLICIT Permission given.
+Review:  folder tree with RO (Read-Only) EXPLICIT Permission given.
 
 Read, Review, rigorously analyze, counter-argue, stress test assumptions and conclusions, reflect, redo.
 
-Focus: /Users/bamdad/www/WSO/GenAI-R&D/One-Shot/GEMINI-IS-WATCHING.md (RW)
+Focus: One-Shot/GEMINI-IS-WATCHING.md (RW)
 
-If you need more files, create Google folder in /Users/bamdad/www/WSO/GenAI-R&D/One-Shot/Google
-- Rename GEMINI-IS-WATCHING.md to README.md & put your outputs in /Users/bamdad/www/WSO/GenAI-R&D/One-Shot/Google
+If you need more files, create Google folder in One-Shot/Google
+- Rename GEMINI-IS-WATCHING.md to README.md & put your outputs in One-Shot/Google
 
 Check you have all the data.
-Media created or will be by Nano Banana at: /Users/bamdad/www/WSO/GenAI-R&D/One-Shot/images
+Media created or will be by Nano Banana at: One-Shot/images
 
 Ask follow-up questions, but at this stage I prefer to test One-Shot capability.
 (You know: "One Shot, One Opportunity" — Eminem — Lose Yourself)

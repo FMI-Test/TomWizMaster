@@ -30,7 +30,7 @@ Purpose: Declaratively generate audience‑aware multimedia (images, short video
 
 ## Run
 ```bash
-/Users/bamdad/www/GenAI-RD/.venv/bin/python scripts/generate_media_assets.py media/config.yaml
+python3 scripts/generate_media_assets.py media/config.yaml
 ```
 
 ## Notes

@@ -11,12 +11,17 @@ All notable changes to this repository are documented in this file.
 - **scripts/oss-cleanup-www-references.sh:** Semi-automated cleanup script with human-in-the-loop y/n confirmations
 - **Audit/output/WWW-AUDIT-2026-02-08-2200.md:** Comprehensive audit report identifying /Users/, /home/, C:\, and www/WSO references
 - **Audit/logs/2026-02-08/2202-oss-audit-aak.md:** Tier-2 reasoning log for OSS audit session
+- **CONTRIBUTING.md:** Contribution guidelines for OSS collaborators
+- **CODE_OF_CONDUCT.md:** Community standards and reporting guidance
+- **PAYMENT-RAILS-AVAILABILITY.csv/.yaml:** Wert supported countries availability matrix
 
 ### Changed
 - Prepared repository for OSS release with comprehensive audit and cleanup automation
 - Identified sensitive directories for exclusion (Meta/, Assets/NFSW/, Love/, Ugly-Truth/)
 - Human review required for directory exclusions and git history strategy
 - Updated payment rails availability from Wert supported countries (249 total, 185 fiat onramp, 227 NFT checkout)
+- Ran OSS cleanup to remove internal path references and updated .gitignore exclusions
+- Re-audited internal references after cleanup (see latest audit output)
 
 ### Project Readiness Assessment
 - **One-Shot (WSO):** Ready with cleanup (16 path references identified)

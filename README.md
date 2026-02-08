@@ -79,12 +79,13 @@ GenAI-R&D/
 1. Read this README
 2. Review [DESIGN.md](DESIGN.md) — Understand how this was built
 3. Open issues or PRs for improvements
-4. For compliance and cross‑domain usage, see [COMPLIANCE.md](COMPLIANCE.md) and [MISCELLANEOUS.md](MISCELLANEOUS.md)
+4. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+5. For compliance and cross-domain usage, see [COMPLIANCE.md](COMPLIANCE.md) and [MISCELLANEOUS.md](MISCELLANEOUS.md)
 
- - New: IaT (Infrastructure‑as‑Text) workflow — see IaT/README.md for intake, checklist, SR, reference architecture, decision options, and change analysis.
- - See [ARCHITECTURE-HIERARCHY.md](ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
- - Emoji Compression — see [EMOJI-COMPRESSION.md](EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
- - Show & Tell — see [SHOW-AND-TELL.md](SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
+- New: IaT (Infrastructure-as-Text) workflow — see IaT/README.md for intake, checklist, SR, reference architecture, decision options, and change analysis.
+- See [ARCHITECTURE-HIERARCHY.md](ARCHITECTURE-HIERARCHY.md) for System -> Platform -> App navigation and X -> Y substitutions with built-in pro/con.
+- Emoji Compression — see [EMOJI-COMPRESSION.md](EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
+- Show & Tell — see [SHOW-AND-TELL.md](SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
 ---
 
 ## 🧠 Core Philosophy
