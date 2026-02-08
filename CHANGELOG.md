@@ -2,6 +2,12 @@
 
 All notable changes to this repository are documented in this file.
 
+## [1.2.2] - 2026-02-08
+
+### Changed
+- **README Cons section expanded:** 10 unresolved issues (Cons) + 10 accepted tradeoffs (Zero-Cons) with rationale and mitigation strategies
+- Improved transparency on repository limitations and intentional design choices
+
 ## [1.2.1] - 2026-02-08
 
 ### Added
