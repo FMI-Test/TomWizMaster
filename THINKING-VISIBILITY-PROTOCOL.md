@@ -20,6 +20,21 @@ Record the following elements for each task:
 6. Outcomes: Results, artifacts, and verification notes.
 7. Next Steps: Follow‑ups, risks, and owners.
 
+## Human Context Snapshot
+Capture a short context block when the task starts or changes materially:
+- Intent and desired outcome.
+- Time sensitivity and escalation path.
+- Decision owner and approval boundaries.
+
+## AI Training Boundary
+- Audit logs and reports are governance artifacts for this repo.
+- Do not treat audit outputs as training data or redistribute outside the repo without approval.
+
+## Auto-Documentation
+- Generated summaries or reports must be labeled as auto-doc.
+- Store reports in `Audit/output/` and logs in `Audit/logs/` with date stamps.
+- Include tool provenance and scope in the report header.
+
 Store secrets separately; do not include credentials or sensitive personal data. Redact identifiers per SECURITY-PROTOCOL.
 
 ## Signals
@@ -57,3 +72,11 @@ Use `audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries stru
 - For time‑sensitive flows, enable “Authenticity mode”: capture raw + minimal normalization notes; defer heavy corrections.
 - Bind inputs to outputs using AAK signals (e.g., AAK BIND <id>) and reference in the audit header.
 - Template: see `audit/templates/INPUT-COC-TEMPLATE.md` for input chain‑of‑custody.
+
+## Dependencies (Internal)
+- CONSTITUTION.md
+- GUARDRAILS.md
+- SHARED-RESPONSIBILITY.md
+- COMPLIANCE.md
+- SECURITY-PROTOCOL.md
+- AUDIT-ARCHITECTURE.md
