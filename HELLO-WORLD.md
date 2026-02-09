@@ -125,7 +125,7 @@ The End Just a Warm Start!
 
 ## Appendix A: Visual References
 
-`source: /Users/bamdad/www/WSO/GenAI-R&D/One-Shot/images/`
+`source: One-Shot/images/`
 
 ---
 

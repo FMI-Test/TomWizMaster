@@ -184,7 +184,7 @@ Me:
 - **Role:** Solo Principal Full-Stack DevSecOps Architect
 - **Tools:** VS Code, GitHub Copilot Pro, Claude Code (to install)
 - **Environment:** macOS (MacBook Pro)
-- **Workspace:** `/Users/bamdad/www/WSO/`
+- **Workspace:** `[workspace root]/`
 - **Current Project:** Alliance to Empire / IdeaForge POC
 - **Experience Level:** Advanced (can handle technical depth)
 - **Learning Style:** Hands-on, prefer doing to reading
@@ -203,7 +203,7 @@ Me:
 - **Role:** Solo Principal Full-Stack DevSecOps Architect
 - **Tools:** VS Code, GitHub Copilot Pro, Claude Code (to install)
 - **Environment:** macOS (MacBook Pro)
-- **Workspace:** `/Users/bamdad/www/WSO/`
+- **Workspace:** `[workspace root]/`
 - **Current Project:** Alliance to Empire / IdeaForge POC
 - **Experience Level:** Advanced (can handle technical depth)
 - **Learning Style:** Hands-on, prefer doing to reading

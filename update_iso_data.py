@@ -28,7 +28,7 @@ for item in data:
 output = {"countries": countries}
 
 # Define paths
-base_dir = "/Users/bamdad/www/WSO/GenAI-R&D"
+base_dir = os.getcwd()
 json_path = os.path.join(base_dir, "iso-3166.json")
 yaml_path = os.path.join(base_dir, "iso-3166.yaml")
 jsonc_path = os.path.join(base_dir, "iso-3166.jsonc")
@@ -56,25 +56,25 @@ with open(jsonc_path, 'w', encoding='utf-8') as f:
     f.write("{\n")
     f.write("  // ISO 3166-1 Country Codes\n")
     f.write("  \"countries\": [\n")
-    
+
     current_letter = ""
     for i, country in enumerate(countries):
         first_letter = country['name'][0].upper()
         if first_letter != current_letter:
             current_letter = first_letter
             f.write(f"\n    // --- {current_letter} ---\n")
-        
+
         f.write("    {\n")
         f.write(f"      \"name\": \"{country['name']}\",\n")
         f.write(f"      \"alpha-2\": \"{country['alpha-2']}\",\n")
         f.write(f"      \"alpha-3\": \"{country['alpha-3']}\",\n")
         f.write(f"      \"numeric\": \"{country['numeric']}\"\n")
-        
+
         if i < len(countries) - 1:
             f.write("    },\n")
         else:
             f.write("    }\n")
-            
+
     f.write("  ]\n")
     f.write("}\n")
 
