@@ -7,13 +7,13 @@ Last Updated: 2026-01-30
 This folder holds the general audit protocol, Tier‑2 audit logs, templates, and output reports.
 
 ## Structure
-- `Audit/GENERAL-AUDIT.md` — End‑to‑end protocol (HuAI)
-- `Audit/run_audit.ai` — Declarative spec for model‑executed audits
-- `Audit/logs/YYYY-MM-DD/HHMM-<short-id>-reasoning-log.md` — AAK reasoning logs
-- `Audit/output/GENERAL-AUDIT-REPORT.md` — Latest generated report
-- `Audit/templates/REASONING-LOG-TEMPLATE.md` — AAK log scaffold
-- `Audit/templates/INPUT-COC-TEMPLATE.md` — Chain‑of‑custody input capture
-- `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md` — Model identity and attestations
+- `audit/GENERAL-AUDIT.md` — End‑to‑end protocol (HuAI)
+- `audit/run_audit.ai` — Declarative spec for model‑executed audits
+- `audit/logs/YYYY-MM-DD/HHMM-<short-id>-reasoning-log.md` — AAK reasoning logs
+- `audit/output/GENERAL-AUDIT-REPORT.md` — Latest generated report
+- `audit/templates/REASONING-LOG-TEMPLATE.md` — AAK log scaffold
+- `audit/templates/INPUT-COC-TEMPLATE.md` — Chain‑of‑custody input capture
+- `audit/templates/MODEL-PROVENANCE-TEMPLATE.md` — Model identity and attestations
 
 ## Usage
 1. **Protocol:** See [GENERAL-AUDIT.md](GENERAL-AUDIT.md) for workflow and signals.
@@ -30,8 +30,8 @@ This folder holds the general audit protocol, Tier‑2 audit logs, templates, an
 		 ```bash
 		 scripts/audit.sh --fail
 		 ```
-	 Output: `Audit/output/GENERAL-AUDIT-REPORT.md`.
-3. **Run (AI):** Provide `Audit/run_audit.ai` to your model‑runner to execute the audit steps.
+	 Output: `audit/output/GENERAL-AUDIT-REPORT.md`.
+3. **Run (AI):** Provide `audit/run_audit.ai` to your model‑runner to execute the audit steps.
 4. **Log Control:** Use signals (AAK GO/STOP/BIND/SAVE) to control logging.
 5. **Attestation:** Link the log to the primary output (doc path or commit hash). For input authenticity, capture raw input with hash using `INPUT-COC-TEMPLATE.md`.
 

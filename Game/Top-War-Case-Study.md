@@ -32,7 +32,7 @@ Arsenal Components in Top War are special items that enhance your troops’ comb
 | ![HP](images/tw/cpnt-3-arm.png) | +HP | Armor Buff | **Defense** |
 | ![ATK](images/tw/cpnt-3-atk.png) | +ATK | Weapon Buff | **Offense** |
 | ![CRT](images/tw/cpnt-3-buf.png) | +CRT | Critical Buff | **Offense** |
-| ![DEX](images/tw/cpnt-3-dex.png) | +DEX | Dextrity | **Defense** |
+| ![DEX](images/tw/cpnt-3-dex.png) | +DEX | Dexterity | **Defense** |
 | ![ROF](images/tw/cpnt-3-rof.png) | +ROF | High Rate of Fire | **Offense** |
 | ![DMG](images/tw/cpnt-3-dmg.png) | +DMG | Increase Damage | **Offense** |
 | ![DMG](images/tw/cpnt-3-agr.png) | -DMG | Decrease Damage | **Defense** |
@@ -73,7 +73,7 @@ Formations are strategic arrangements of your troops that provide various buffs 
 **Formation & Buff Slots**
 Formations are in a `T` form adding buffs to the units behind them. Each formation, & slot specialization should be upgraded separately. As shown below slot 1 is level 2 & slot 2, 3, 5 all are level 0.
 
-### Gathering » Dimentional Mine
+### Gathering » Dimensional Mine
 Dimensional Mine is a special type of mine that allows players to gather resources from multiple dimensions.
 
 ### Gathering » March
@@ -234,7 +234,7 @@ Hero Skill Sets are divided into two pages from the different skills of `1:Prima
 | 09-20 | Troops Power | 2,000,000 | 615,000 |
 
 ### Profile
-UID: `9002223931352`. Sanpshot as of 2025-08-18.
+UID: `9002223931352`. Snapshot as of 2025-08-18.
 
 ### Titan Gears
 Titan Gears are special equipment that can be equipped to your troops to enhance their combat abilities.

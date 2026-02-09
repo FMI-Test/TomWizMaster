@@ -20,8 +20,8 @@ inputs:
     - GUARDRAILS.md
 
 outputs:
-  report_md: Audit/output/GENERAL-AUDIT-REPORT.md
-  reasoning_log_md: Audit/logs/${date}/${time}-${id}-reasoning-log.md
+  report_md: audit/output/GENERAL-AUDIT-REPORT.md
+  reasoning_log_md: audit/logs/${date}/${time}-${id}-reasoning-log.md
 
 steps:
   - read_repo: true

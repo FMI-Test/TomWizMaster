@@ -6,7 +6,7 @@ Last Updated: 2026-01-30
 
 **Report Generated:** January 29, 2026
 **Model:** GitHub Copilot (Claude Opus 4.5)
-**Workspace:** /Users/bamdad/www/GenAI-RD
+**Workspace:** [Repository Root]
 
 ---
 
@@ -59,7 +59,7 @@ This content directly violates the project's own stated principles in `GUARDRAIL
 
 1. **DELETE the entire `Assets/NFSW/` folder**
    ```bash
-   rm -rf "/Users/bamdad/www/GenAI-RD/Assets/NFSW"
+   rm -rf "Assets/NFSW"
    ```
 
 2. **Add to `.gitignore`** (prevent future accidental commits):

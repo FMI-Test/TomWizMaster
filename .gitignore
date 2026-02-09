@@ -97,7 +97,7 @@ JavaScript/doc/The Firm, The Company & The World Economy! - Bamdad Fakhran - Med
 !.gitignore
 
 # Audit
-Audit/logs/
-Audit/output/
+audit/logs/
+audit/output/
 
 JavaScript/doc/cfn-ug.pdf
