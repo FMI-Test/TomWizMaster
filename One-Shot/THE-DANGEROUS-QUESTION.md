@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # THE-DANGEROUS-QUESTION.md 💣
 ## The Bedrock Analysis: Suicide Bomber vs. The Sunrise
 

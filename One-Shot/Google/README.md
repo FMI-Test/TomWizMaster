@@ -1,3 +1,6 @@
+Version: 1.0
+Last Updated: 2026-01-30
+
 # GEMINI-IS-WATCHING.md 👀
 ## Multi-Model Peer Review: Claude → Gemini → Model C → ...
 
@@ -9,7 +12,7 @@
 
 ---
 
-![Gemini Is Watching](images/gemini-watching.webp)  
+![Gemini Is Watching](../../images/gemini-watching.webp)  
 *Coming soon: The owl watches...*
 
 ---

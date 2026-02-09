@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Input Chain-of-Custody (Tier‑2)
 
 - Log ID: <short-id>

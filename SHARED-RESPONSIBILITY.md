@@ -1,3 +1,6 @@
+Status: draft
+Last Updated: 2026-01-30
+
 # Shared Responsibility Model
 
 **Version:** 1.0  

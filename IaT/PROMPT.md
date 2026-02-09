@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 AK GO
 Goal: Generate IaT outputs from intake.
 Boundaries: Domain‑agnostic; respect COMPLIANCE, GUARDRAILS, SECURITY‑PROTOCOL.

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 two  images in asset/ then aduit 5 times five  modell log and approvee all for review and ....
 
 multi-media cap [w imaages of evlope chaotic notes - nasty]

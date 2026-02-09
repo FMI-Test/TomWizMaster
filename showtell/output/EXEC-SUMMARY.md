@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Executive Summary — GenAI R&D — Show & Tell
 
 ## Source: README.md
@@ -14,9 +18,9 @@
 ### For Humans
 ### For Collaborators
 - New: IaT (Infrastructure‑as‑Text) workflow — see IaT/README.md for intake, checklist, SR, reference architecture, decision options, and change analysis.
-- See [ARCHITECTURE-HIERARCHY.md](ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
-- Emoji Compression — see [EMOJI-COMPRESSION.md](EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
-- Show & Tell — see [SHOW-AND-TELL.md](SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
+- See [ARCHITECTURE-HIERARCHY.md](../../ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
+- Emoji Compression — see [EMOJI-COMPRESSION.md](../../EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
+- Show & Tell — see [SHOW-AND-TELL.md](../../SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
 ## 🧠 Core Philosophy
 ### The AWS Parallel
 ### The Constitutional Parallel

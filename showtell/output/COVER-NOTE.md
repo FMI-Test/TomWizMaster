@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Board Distribution Cover Note — GenAI‑RD
 
 **Date:** 2026‑01‑25
@@ -14,7 +18,7 @@
 - 1‑Page Board Review: [showtell/output/BOARD-REVIEW.md](BOARD-REVIEW.md)
 - Exec Summary: [showtell/output/EXEC-SUMMARY.md](EXEC-SUMMARY.md)
 - Slide Deck (Markdown): [showtell/output/SLIDE-DECK.md](SLIDE-DECK.md)
-- Slide Deck (PDF, optional): [showtell/output/SLIDE-DECK.pdf](SLIDE-DECK.pdf)
+- Slide Deck (PDF, optional): [SLIDE-DECK.md](SLIDE-DECK.md)
 
 ## Notes
 - Security: Model provenance checks precede sensitive actions.

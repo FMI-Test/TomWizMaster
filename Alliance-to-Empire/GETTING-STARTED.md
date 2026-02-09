@@ -1,3 +1,6 @@
+Version: 1.0
+Status: draft
+
 # Getting Started Guide
 ## IdeaForge POC - From Setup to First Refinement in 30 Minutes
 

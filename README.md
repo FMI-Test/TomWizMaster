@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 <!-- IMAGE PLACEHOLDER: hero-banner
      Prompt: Wide banner (1280x640px): Tom and Jerry standing proudly on either side of text "GenAI R&D". Behind them, a stylized constitution document merging with cloud/AI brain. Gradient purple to blue. Subtitle: "A Constitutional Framework for Human-AI Collaboration"
      Generate with: Nano Banana

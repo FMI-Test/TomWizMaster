@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # GenAI R&D — Show & Tell
 
 ## Overview
@@ -6,7 +10,7 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![GenAI R&D Banner](images/hero-banner.webp) -->
+<!-- ![GenAI R&D Banner](../../images/hero-banner.webp) -->
 
 # GenAI Research & Development
 
@@ -19,7 +23,7 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Tom & Jerry Collaboration](images/tom-and-jerry-collab.webp) -->
+<!-- ![Tom & Jerry Collaboration](../../images/tom-and-jerry-collab.webp) -->
 
 ---
 
@@ -52,10 +56,10 @@ GenAI-R&D/
 │   └── MISCELLANEOUS.md       ← Cross‑domain usage playbook (pro/con, pitfalls)
 │
 ├── 🏗️ Projects (Organizational Units)
-│   ├── Alliance-to-Empire/    ← AI-powered ideation platform
-│   ├── GenAI-Medium-Prompt-LLM/ ← Prompt engineering research
-│   ├── AI-Guardrails-and-Bias/  ← Ethics and bias analysis
-│   └── Ugly-Truth/            ← Critical analysis and commentary
+│   ├── ../../Alliance-to-Empire/    ← AI-powered ideation platform
+│   ├── ../../GenAI-Medium-Prompt-LLM/ ← Prompt engineering research
+│   ├── ../../AI-Guardrails-and-Bias/  ← Ethics and bias analysis
+│   └── ../../Ugly-Truth/            ← Critical analysis and commentary
 │
 └── 📦 Assets
     └── iso-3166.json          ← Reference data
@@ -65,29 +69,29 @@ GenAI-R&D/
 
 ## 🚀 Quick Start
 
-> **Fast Track:** See [QUICK-START.md](QUICK-START.md) for the speed-run guide and integrity report.
+> **Fast Track:** See [QUICK-START.md](../../QUICK-START.md) for the speed-run guide and integrity report.
 
 ### For AI Agents
-1. Read [CONSTITUTION.md](CONSTITUTION.md) — Core operating principles
-2. Read [SHARED-RESPONSIBILITY.md](SHARED-RESPONSIBILITY.md) — Your role vs. human's role
-3. Read [TONE-AND-INTENT.md](TONE-AND-INTENT.md) — How to interpret communication
+1. Read [CONSTITUTION.md](../../CONSTITUTION.md) — Core operating principles
+2. Read [SHARED-RESPONSIBILITY.md](../../SHARED-RESPONSIBILITY.md) — Your role vs. human's role
+3. Read [TONE-AND-INTENT.md](../../TONE-AND-INTENT.md) — How to interpret communication
 4. Read project-specific `AI-PERSONA.md` if exists
 
 ### For Humans
-1. Read [MANIFESTO.md](MANIFESTO.md) — Understand the vision
-2. Read [GUARDRAILS.md](GUARDRAILS.md) — Know the boundaries
+1. Read [MANIFESTO.md](../../MANIFESTO.md) — Understand the vision
+2. Read [GUARDRAILS.md](../../GUARDRAILS.md) — Know the boundaries
 3. Pick a project folder and start contributing
 
 ### For Collaborators
 1. Read this README
-2. Review [DESIGN.md](DESIGN.md) — Understand how this was built
+2. Review [DESIGN.md](../../DESIGN.md) — Understand how this was built
 3. Open issues or PRs for improvements
-4. For compliance and cross‑domain usage, see [COMPLIANCE.md](COMPLIANCE.md) and [MISCELLANEOUS.md](MISCELLANEOUS.md)
+4. For compliance and cross‑domain usage, see [COMPLIANCE.md](../../COMPLIANCE.md) and [MISCELLANEOUS.md](../../MISCELLANEOUS.md)
 
  - New: IaT (Infrastructure‑as‑Text) workflow — see IaT/README.md for intake, checklist, SR, reference architecture, decision options, and change analysis.
- - See [ARCHITECTURE-HIERARCHY.md](ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
- - Emoji Compression — see [EMOJI-COMPRESSION.md](EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
- - Show & Tell — see [SHOW-AND-TELL.md](SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
+ - See [ARCHITECTURE-HIERARCHY.md](../../ARCHITECTURE-HIERARCHY.md) for System → Platform → App navigation and X → Y substitutions with built‑in pro/con.
+ - Emoji Compression — see [EMOJI-COMPRESSION.md](../../EMOJI-COMPRESSION.md) for quick status language and accessibility guidance.
+ - Show & Tell — see [SHOW-AND-TELL.md](../../SHOW-AND-TELL.md) to generate slide decks and executive summaries from docs.
 ---
 
 ## 🧠 Core Philosophy
@@ -117,30 +121,30 @@ This framework mirrors proven governance patterns:
 
 ## 📊 Projects Overview
 
-### [Alliance-to-Empire](Alliance-to-Empire/)
+### [Alliance-to-Empire](../../Alliance-to-Empire/)
 AI-powered ideation platform for refining rough ideas into actionable plans.
 - **Status:** POC Ready
 - **Key Files:** PRINCIPLES.md, AI-PERSONA.md, TODO.md
 
-### [GenAI-Medium-Prompt-LLM](GenAI-Medium-Prompt-LLM/)
+### [GenAI-Medium-Prompt-LLM](../../GenAI-Medium-Prompt-LLM/)
 Research on prompt engineering, LLM interaction patterns, and analysis frameworks.
 - **Status:** Active Research
 - **Key Files:** GenAI-Medium-Prompt-LLM-a.md, GenAI-Medium-Prompt-LLM-b.md
 
-### [AI-Guardrails-and-Bias](AI-Guardrails-and-Bias/)
+### [AI-Guardrails-and-Bias](../../AI-Guardrails-and-Bias/)
 Analysis of AI ethics, bias detection, and responsible AI practices.
 - **Status:** Research
 - **Key Files:** xAI-LM-Arena-Story.md
 
-### [Ugly-Truth](Ugly-Truth/)
+### [Ugly-Truth](../../Ugly-Truth/)
 Critical analysis and commentary on technology, society, and policy.
 - **Status:** Commentary
 - **Key Files:** Reza.md, Context.md
 
-### [US-Gov](US-Gov/)
+### [US-Gov](../../US-Gov/)
 Government efficiency programs organized under constitutional framework.
 - **Status:** Framework-first
-- **Key Files:** US-Gov/DOGE.md, US-Gov/README.md
+- **Key Files:** ../../US-Gov/DOGE.md, ../../US-Gov/README.md
 
 ---
 
@@ -196,7 +200,7 @@ This work is shared for educational and collaborative purposes. See individual p
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Guardrails Not Walls](images/guardrails-not-walls.webp) -->
+<!-- ![Guardrails Not Walls](../../images/guardrails-not-walls.webp) -->
 
 ---
 

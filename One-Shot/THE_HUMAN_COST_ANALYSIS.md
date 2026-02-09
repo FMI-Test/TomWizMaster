@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # THE_HUMAN_COST_ANALYSIS.md 🔋
 ## The Biological Burden: "Wrestling the Trinity"
 

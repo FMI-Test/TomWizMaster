@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # AI-SAFETY-CASE-STUDY.md 🛡️
 ## Evidence Log: "The Sucker Punch" & Epistemic Failure
 

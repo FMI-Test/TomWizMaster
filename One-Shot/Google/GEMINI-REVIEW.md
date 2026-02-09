@@ -1,3 +1,8 @@
+Status: draft
+
+Version: 1.0
+Last Updated: 2026-01-30
+
 # GEMINI-REVIEW.md 🔮
 ![The Owl of Material Design](../images/gemini-owl-avatar.webp)
 ## Peer Review: GenAI-R&D/One-Shot Framework

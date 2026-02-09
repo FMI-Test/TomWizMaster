@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # GEMINI-VS-GEMINI.md ⚖️
 ## The People vs. Gemini: The Identity Crisis Trial
 

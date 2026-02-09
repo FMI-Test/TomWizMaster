@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # GenAI‑RD — Board Review: Executive Summary & Status
 
 **Date:** 2026‑01‑25
@@ -19,7 +23,7 @@
 - Model Provenance: [MODEL-PROVENANCE-TEMPLATE.md](../../audit/templates/MODEL-PROVENANCE-TEMPLATE.md) integrated into audit pipeline and security checks.
 - UX Signals & Friction: [UX-SIGNALS-SPEC.md](../../UX-SIGNALS-SPEC.md), [UI-UX-FRICTION-PLAYBOOK.md](../../UI-UX-FRICTION-PLAYBOOK.md), [FRICTION-PROTOCOL.md](../../FRICTION-PROTOCOL.md).
 - Language & Prompts: [PROMPT-STYLE.md](../../PROMPT-STYLE.md) (bilingual, normalization, Raw Input Mode, emoji compression).
-- IaT Coverage: [IaT/README.md](../../IaT/README.md), [IaT/CHECKLIST.md](../../IaT/CHECKLIST.md), [IaT/TRACEABILITY-MATRIX-TEMPLATE.md](../../IaT/ated went above any beyound finshed and clean then 0 to to done done done!! kudo!TRACEABILITY-MATRIX-TEMPLATE.md), [IaT/SCORING-RUBRIC.md](../../IaT/SCORING-RUBRIC.md).
+- IaT Coverage: [IaT/README.md](../../IaT/README.md), [IaT/CHECKLIST.md](../../IaT/CHECKLIST.md), [IaT/TRACEABILITY-MATRIX-TEMPLATE.md](../../IaT/TRACEABILITY-MATRIX-TEMPLATE.md), [IaT/SCORING-RUBRIC.md](../../IaT/SCORING-RUBRIC.md).
 - Show & Tell: [SHOW-AND-TELL.md](../../SHOW-AND-TELL.md), config in [showtell/config.yaml](../config.yaml);
   generator at [scripts/generate_exec_summary.py](../../scripts/generate_exec_summary.py).
 

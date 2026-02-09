@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Final Review & Reflection — One-Shot R&D V1.0
 
 ## Summary

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # One-Shot R&D Session Summary
 ![Signal Right, Turn Left](images/gemini-signal-turn.webp)
 

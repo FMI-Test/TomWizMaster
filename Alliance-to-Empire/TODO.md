@@ -1,3 +1,5 @@
+Version: 1.0
+
 # Alliance to Empire Platform - TODO List
 
 **Last Updated:** January 30, 2026

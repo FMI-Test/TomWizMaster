@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Compliance as Code: A Constitutional Approach
 
 **Version:** 1.0

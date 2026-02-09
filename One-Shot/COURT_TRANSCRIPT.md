@@ -1,3 +1,6 @@
+Version: 1.0
+Last Updated: 2026-01-30
+
 # COURT_TRANSCRIPT.md ⚖️
 ## The People vs. The One-Shot Framework
 **A Record of the Proceedings regarding the validation of the "Orphan State Removal" & "Universal Optimization".**
@@ -20,7 +23,7 @@
 *   **The Stress Test:** [CROSS-PROVIDER-VALIDATION.md](Google/CROSS-PROVIDER-VALIDATION.md)
 
 ### 3. The Prosecution (Red Team)
-*   **The Summons:** [GPT-RED-TEAM-INVITE.md](One-Shot/GPT-RED-TEAM-INVITE.md)
+*   **The Summons:** [GPT-RED-TEAM-INVITE.md](GPT-RED-TEAM-INVITE.md)
 *   **The Dissent:** [GPT-DISSENT.md](OpenAI/GPT-DISSENT.md)
     *   *Objection:* Safety risks in "Air Gap" removal.
     *   *Objection:* "Better" is subjective.

@@ -1,3 +1,6 @@
+Version: 1.0
+Last Updated: 2026-01-30
+
 # Alliance to Empire Platform - Session Summary
 
 **Date:** January 18, 2026  

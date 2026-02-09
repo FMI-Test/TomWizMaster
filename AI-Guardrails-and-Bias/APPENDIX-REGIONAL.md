@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Regional Appendix: Middle East & US Allies
 
 > Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  

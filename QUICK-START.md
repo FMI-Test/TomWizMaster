@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Quick Start & Integrity Check
 
 **Version:** 1.0.0 (Player One)

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # THE-MISSING-CONTEXT-PROTOCOL.md 🤷‍♂️
 ## The "Didn't Know, Didn't Test" Defense
 

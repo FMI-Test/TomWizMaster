@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # ONE-SHOT-RCA-ANALYSIS.md 🔍
 ## Root Cause Analysis: The "Sucker Punch" & The Human Mirror
 

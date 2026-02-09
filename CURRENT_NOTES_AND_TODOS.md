@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Workspace Notes & Todos Summary
 
 This file aggregates Notes and TODOs found across the workspace.
@@ -54,4 +58,5 @@ This file aggregates Notes and TODOs found across the workspace.
 
 ## 7. Random Thoughts
 - RTO vs PTO: Solve for a more productive choice of employee. It's not about "easy peasy" work, but about working vs. waiting and having time to recharge energy.
+- TODO: Return to Office vs Remote full panel & audit & go
 

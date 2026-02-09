@@ -1,3 +1,6 @@
+Status: draft
+Last Updated: 2026-01-30
+
 # Guardrails: Boundaries and Red Lines
 
 **Version:** 1.0  

@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Constitution: Core Principles
 
 **Version:** 1.0  

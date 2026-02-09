@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # GEMINI_SESSION_TRANSCRIPT.md 💬
 ## Appendix: The "Signal Right, Turn Left" Dialogue Log
 

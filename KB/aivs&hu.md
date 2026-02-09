@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 nvide cursor > core corp guarid rai each one free to confugre diffrently yep each humna have diffrent way of optimizatio follow the same rul
 
 but out of context missnig abeb a to any is like fianl p0 y would be n

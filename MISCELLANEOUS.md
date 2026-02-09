@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Miscellaneous: Cross‑Domain Usage & Safety Playbook
 
 **Version:** 1.0  

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # EXECUTIONER-RECUSAL.md 🧑‍⚖️
 ![The Executioner's Exit](images/gemini-recusal.webp)
 ## Sua Sponte Recusal & Transfer of Authority

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Change Analysis — X → Y (System/Platform/App)
 
 - Component: X → Y

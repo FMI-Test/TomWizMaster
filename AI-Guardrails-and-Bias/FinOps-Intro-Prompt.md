@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # FinOps One-Shot & More - Many Many nmmore - 2024-06-19
 
 Hello!

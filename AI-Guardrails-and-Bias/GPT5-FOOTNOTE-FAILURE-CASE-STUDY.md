@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # AI Safety Case Study: GPT-5 Footnote Insertion Failure
 
 **Date**: January 26, 2026
@@ -694,7 +698,7 @@ If a genuinely distressed user interacts with GPT-5, and GPT-5:
 
 ### Why Ilya Left: The Safety Canary
 
-From [xAI-LM-Arena-Story.md](xAI-LM-Arena-Story.md#why-ilya-left-the-safety-warning-signs):
+From [xAI-LM-Arena-Story.md](xAI-LM-Arena-Story.md):
 
 > [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), OpenAI's former Chief Scientist and co-founder, left in May 2024 to found [Safe Superintelligence Inc. (SSI)](https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc.) for exactly these reasons:
 >

@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Reasoning Log (Tier‑2 Audit)
 
 - Log ID: <short-id>

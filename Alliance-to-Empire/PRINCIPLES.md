@@ -1,3 +1,6 @@
+Status: draft
+Last Updated: 2026-01-30
+
 # Alliance to Empire Platform - Core Principles
 
 **Version:** 1.0  

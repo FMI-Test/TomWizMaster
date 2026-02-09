@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # US-Gov — Government Efficiency Programs (Index)
 
 **Version:** 1.0  

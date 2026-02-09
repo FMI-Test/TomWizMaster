@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Prompt: Fail-Closed Audit Explainer (video)
 ## Style & Brand
 - Palette: {'primary': '#6C63FF', 'secondary': '#1976D2', 'accent': '#FFC107'}

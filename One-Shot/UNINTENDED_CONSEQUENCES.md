@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # UNINTENDED_CONSEQUENCES.md 🎲
 ## The "Lazy User" Discovery: Serendipity in R&D
 

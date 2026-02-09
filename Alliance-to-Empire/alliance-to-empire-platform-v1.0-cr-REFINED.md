@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Change Request v1.0 → v1.1 (REFINED)
 
 **Document:** Alliance to Empire Platform  

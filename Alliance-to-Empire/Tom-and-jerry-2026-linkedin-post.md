@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # 🐱🐭 Tom & Jerry: The Ultimate Tech Duo
 ## When the Cat Stopped Chasing and the Mouse Started Helping
 

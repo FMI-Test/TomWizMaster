@@ -1,3 +1,6 @@
+Version: 1.0
+Last Updated: 2026-01-30
+
 # Full Analysis: Constitutional Framework for AI Collaboration
 
 **Date:** January 22, 2026  

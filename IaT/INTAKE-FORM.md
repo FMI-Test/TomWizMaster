@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # IaT Intake Form
 
 - Organization Type: <startup | enterprise | private | gov>

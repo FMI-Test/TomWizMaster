@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 Hisroy of Tom & Jerry
 Tom & Jerry is an iconic American animated franchise centered on the slapstick rivalry between Tom, a cat, and Jerry, a mouse, created by William Hanna and Joseph Barbera in 1940, known for its many classic theatrical shorts produced by MGM, later evolving into TV shows and films featuring their chaotic, often violent, but always entertaining pursuit. The duo's adventures focus on Tom's failed attempts to catch Jerry, showcasing resilience and persistence through endless cartoon violence, leading to numerous adaptations and enduring popularity. 
 

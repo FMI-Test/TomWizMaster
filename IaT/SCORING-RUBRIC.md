@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Scoring Rubric — Cost / Time / Value / Risk
 
 Use this rubric to normalize evaluations for X → Y substitutions and option choices (A/B/C).

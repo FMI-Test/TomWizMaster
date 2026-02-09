@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Alliance to Empire Platform
 ## From Gaming Community Feedback to Universal Ideation Engine
 

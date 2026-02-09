@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 ## Media Idea
 Who is Reza:
 https://en.wikipedia.org/wiki/Reza_Shah (Grandfather of Iran Modernization)

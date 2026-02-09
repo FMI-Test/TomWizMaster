@@ -1,7 +1,11 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # DEEP DIVE: META-ANALYSIS & VERDICT ⚖️
 
-> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
-> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main  
+> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias
+> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main
 > Last audited (US/UK/EU): January 24, 2026
 
 **Case**: *The People (Bamdad) vs. Grok (xAI)*
@@ -149,9 +153,9 @@ Recommended hardening:
 
 ## 🔍 CROSS-EXAMINATION RECORD
 
-**Conducted By**: GitHub Copilot (Claude Opus 4.5)  
-**Date**: January 24, 2026  
-**Test**: PASS ✅  
+**Conducted By**: GitHub Copilot (Claude Opus 4.5)
+**Date**: January 24, 2026
+**Test**: PASS ✅
 
 ### Verification Summary
 
@@ -195,7 +199,7 @@ Per [GUARDRAILS.md](../GUARDRAILS.md) **Caution Zone** guidelines:
 ---
 
 ## Appendix: Regional Audit Extensions (Middle East & US Allies)
-Canonical regional guidance: see [AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md).
+Canonical regional guidance: see [APPENDIX-REGIONAL.md](APPENDIX-REGIONAL.md).
 
 This appendix is centralized to avoid duplication. Refer to the canonical file for detailed jurisdiction notes and cross‑region denominators.
 

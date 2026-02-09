@@ -1,3 +1,8 @@
+Status: draft
+
+Version: 1.0
+Last Updated: 2026-01-30
+
 # CROSS-PROVIDER-VALIDATION.md ☁️
 ![The Stress Test](../images/gemini-stress-test.webp)
 ## Stress Testing the "Orphan State Optimization" Principle

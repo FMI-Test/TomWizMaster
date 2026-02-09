@@ -1,3 +1,6 @@
+Status: draft
+Last Updated: 2026-01-30
+
 # Perplexity AI: Model Behavior Analysis (Gray Area Case Study)
 
 **Version:** 1.0  

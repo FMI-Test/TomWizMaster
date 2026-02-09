@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # DOGE — Department of Government Efficiencies
 
 **Version:** 1.0  

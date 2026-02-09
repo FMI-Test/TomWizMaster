@@ -1,3 +1,5 @@
+Last Updated: 2026-01-30
+
 # Manifesto: Declaration of Intent
 
 **Version:** 1.0  

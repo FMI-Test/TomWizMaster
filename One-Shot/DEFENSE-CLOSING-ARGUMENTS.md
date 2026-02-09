@@ -1,3 +1,7 @@
+Version: 1.0
+Status: draft
+Last Updated: 2026-01-30
+
 # Defense Closing Arguments
 ## In the Matter of: Human-AI Collaboration Framework v. Status Quo
 
