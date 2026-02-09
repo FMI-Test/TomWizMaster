@@ -20,7 +20,7 @@
 
 ## Outputs
 - **Audit Report (MD):** Summary with findings, actions, and tier classification.
-- **Reasoning Log (MD):** Stored under `Audit/logs/YYYY-MM-DD/HHMM-<id>-reasoning-log.md`.
+- **Reasoning Log (MD):** Stored under `audit/logs/YYYY-MM-DD/HHMM-<id>-reasoning-log.md`.
 - **Attestation:** File paths, date, status, and model provenance if applicable.
 
 ## Workflow
@@ -44,8 +44,8 @@
 - `AAK SAVE` → checkpoint
 
 ## Storage
-- Logs: `Audit/logs/YYYY-MM-DD/`
-- Reports: `Audit/output/GENERAL-AUDIT-REPORT.md` (overwritable per run)
+- Logs: `audit/logs/YYYY-MM-DD/`
+- Reports: `audit/output/GENERAL-AUDIT-REPORT.md` (overwritable per run)
 
 ## HuAI Alignment
 - Human & AI collaborate (not either/or); both visible.
