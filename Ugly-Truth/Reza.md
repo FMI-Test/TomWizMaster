@@ -104,20 +104,19 @@ Oh shit then October 7 happen
 
 And these smart Israelis missed Khmanehi is not the head, he is a pawn directed by a carefully crafted agenda in daily bulletins and closed groups to feed him and control him … not one but many factions. Know the personality feed directed media to get the desired outcome! Duh! as simple as that.
 
-
+---
 
 Trump orders the Soleimani strike — and dominoes start falling, heads start rolling. Now the next move is critical. A Royal mess cleanup!
 
-
-
+---
 US should find a way to engage like Faezeh Hashemi, Tajzadeh and many IR of Iran body who saw the pain who are coming from the inside and know better why ideological system fail what was the behind scene play who 
 directed but at the end no objective achieved and all fall like house of cards which costs every ones darely … From outside a Think Thanks to execute! A plan with clear value/cost not that we are here talking they are killing and Iranian get killed ... this is what the Shah wished!
 
-
+---
 
 The question is which moves at what cost with what value … Iran won’t pay a penny if you want to fix it, find a way & clean your shit!
 
-
+---
 
 You want a simpler solution? You ARE The Crown Prince. And MBS is right there. You should talk to him!
 
@@ -150,9 +149,9 @@ Find a Way.
 Best,
 Bamdad
 https://www.linkedin.com/in/bamdad-fakhran/
-
-Nothing left to say all know it aall tell it all:
-Just saw a Farssi comment Sulivan, Karter, Obama and the clear thought which is similar to mine. Not sure we both reached the smae conclusion or ...
+---
+Nothing left to say all know it all tell it all:
+Just saw a Farsi comment Sulivan, Carter, Obama and the clear thought which is similar to mine. Not sure we both reached the smae conclusion or ...
 
 Some References for future review and why This Ugly Truth now known by many:
 [بازار رشت ایستاده در شعله‌های سرکوب؛ از شمشیر آغا محمدخان تا رگبار خامنه‌ای](https://www.independentpersian.com/node/418835/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%B4%D8%AA-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%B4%D8%B9%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%DA%A9%D9%88%D8%A8%D8%9B-%D8%A7%D8%B2-%D8%B4%D9%85%D8%B4%DB%8C%D8%B1-%D8%A2%D8%BA%D8%A7-%D9%85%D8%AD%D9%85%D8%AF%D8%AE%D8%A7%D9%86-%D8%AA%D8%A7-%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AE%D8%A7%D9%85%D9%86%D9%87)  
