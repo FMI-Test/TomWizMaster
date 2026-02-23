@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Completed end-to-end release automation: merged PR, synced branches (rady-player-one-go.ai, stg, rc), updated audit architecture with human context and AI boundaries, created changelog tracking, expanded Cons documentation with 10 unresolved issues + 10 accepted tradeoffs, and finalized all attestations.
+Completed end-to-end release automation: merged PR, synced branches (ready-player-one-go.ai, stg, rc), updated audit architecture with human context and AI boundaries, created changelog tracking, expanded Cons documentation with 10 unresolved issues + 10 accepted tradeoffs, and finalized all attestations.
 
 **Result:** stg and rc branches aligned at commit `316bc27`, release 1.2.2 live, comprehensive governance documentation in place.
 
@@ -58,7 +58,7 @@ Completed end-to-end release automation: merged PR, synced branches (rady-player
 |--------|-------------|--------|--------|
 | rc | 316bc27 | ✅ Aligned | ✅ Yes |
 | stg | 316bc27 | ✅ Aligned | ✅ Yes |
-| rady-player-one-go.ai | 7772438 | ✅ Synced | ✅ Yes |
+| ready-player-one-go.ai | 7772438 | ✅ Synced | ✅ Yes |
 
 **Verification:** `git diff origin/stg origin/rc` returns empty (perfect sync).
 

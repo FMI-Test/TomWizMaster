@@ -14,7 +14,7 @@ Automate full release cycle: merge PR, sync branches, run audit, document change
 
 ### Phase 1: Branch Sync & PR Merge (Completed)
 - Merged PR #17 (Exclude generated artifact directories) into rc
-- Synced rady-player-one-go.ai with rc changes
+- Synced ready-player-one-go.ai with rc changes
 - Synced stg with rc changes
 - All branches aligned and pushed
 
