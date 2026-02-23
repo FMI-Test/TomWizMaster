@@ -52,6 +52,6 @@ We utilize a **3-Tier Waterfall Strategy** to insure stability while allowing fo
 
 ## 3. Latest Cleanup (Feb 2026)
 
-*   **Consolidated:** `rady-player-one-go.ai` merged into `stg`.
+*   **Consolidated:** `ready-player-one-go.ai` merged into `stg`.
 *   **Deleted:** `pre`, `uat` (Obsolete/Diverged).
 *   **Reset:** `rc` reset to match `stg`.
