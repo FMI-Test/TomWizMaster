@@ -98,7 +98,7 @@ What could go wrong?
 
 Oh shit then October 7 happen
 
-And these smart Israelis missed Khmanehi is not the head, he is a pawn directed by a carefully crafted agenda in daily bulletins and closed groups to feed him and control him … not one but many factions. Know the personality feed directed media to get the desired outcome! Duh! as simple as that.
+And these smart Israelis missed Khamenei is not the head, he is a pawn directed by a carefully crafted agenda in daily bulletins and closed groups to feed him and control him … not one but many factions. Know the personality feed directed media to get the desired outcome! Duh! as simple as that.
 
 
 
@@ -107,7 +107,7 @@ Trump orders the Soleimani strike — and dominoes start falling, heads start ro
 
 
 US should find a way to engage like Faezeh Hashemi, Tajzadeh and many IR of Iran body who saw the pain who are coming from the inside and know better why ideological system fail what was the behind scene play who 
-directed but at the end no objective achieved and all fall like house of cards which costs every ones darely … From outside a Think Thanks to execute! A plan with clear value/cost not that we are here talking they are killing and Iranian get killed ... this is what the Shah wished!
+directed but at the end no objective achieved and all fall like house of cards which costs every ones darely … From outside a Think Tank to execute! A plan with clear value/cost not that we are here talking they are killing and Iranian get killed ... this is what the Shah wished!
 
 
 
