@@ -50,8 +50,8 @@ if confirm "Clean up One-Shot/GEMINI-INVITE.md?"; then
     backup_file "One-Shot/GEMINI-INVITE.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot|One-Shot|g' \
-        -e 's|/Users/bamdad/www/WSO/||g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot|One-Shot|g' \
+        -e 's|/workspaces/WSO/||g' \
         "One-Shot/GEMINI-INVITE.md"
     
     rm "One-Shot/GEMINI-INVITE.md.bak"
@@ -62,9 +62,9 @@ if confirm "Clean up One-Shot/GPT-RED-TEAM-INVITE.md?"; then
     backup_file "One-Shot/GPT-RED-TEAM-INVITE.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/README.md|One-Shot/README.md|g' \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/Google/|One-Shot/Google/|g' \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/OpenAI/|One-Shot/OpenAI/|g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot/README.md|One-Shot/README.md|g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot/Google/|One-Shot/Google/|g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot/OpenAI/|One-Shot/OpenAI/|g' \
         "One-Shot/GPT-RED-TEAM-INVITE.md"
     
     rm "One-Shot/GPT-RED-TEAM-INVITE.md.bak"
@@ -75,8 +75,8 @@ if confirm "Clean up One-Shot/Google/JURY-DELIBERATION-PACKET.md?"; then
     backup_file "One-Shot/Google/JURY-DELIBERATION-PACKET.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/OpenAI/GPT-DISSENT.md|One-Shot/OpenAI/GPT-DISSENT.md|g' \
-        -e 's|/Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/Google/FINAL-VERDICT.md|One-Shot/Google/FINAL-VERDICT.md|g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot/OpenAI/GPT-DISSENT.md|One-Shot/OpenAI/GPT-DISSENT.md|g' \
+        -e 's|/workspaces/WSO/GenAI-R\&D/One-Shot/Google/FINAL-VERDICT.md|One-Shot/Google/FINAL-VERDICT.md|g' \
         "One-Shot/Google/JURY-DELIBERATION-PACKET.md"
     
     rm "One-Shot/Google/JURY-DELIBERATION-PACKET.md.bak"
@@ -87,7 +87,7 @@ if confirm "Clean up Alliance-to-Empire/AI-PERSONA.md?"; then
     backup_file "Alliance-to-Empire/AI-PERSONA.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/|[workspace root]/|g' \
+        -e 's|/workspaces/WSO/|[workspace root]/|g' \
         "Alliance-to-Empire/AI-PERSONA.md"
     
     rm "Alliance-to-Empire/AI-PERSONA.md.bak"
@@ -98,7 +98,7 @@ if confirm "Clean up Alliance-to-Empire/TODO.md?"; then
     backup_file "Alliance-to-Empire/TODO.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/kb/|KB/|g' \
+        -e 's|/workspaces/WSO/kb/|KB/|g' \
         "Alliance-to-Empire/TODO.md"
     
     rm "Alliance-to-Empire/TODO.md.bak"
@@ -109,7 +109,7 @@ if confirm "Clean up Alliance-to-Empire/SUMMARY.md?"; then
     backup_file "Alliance-to-Empire/SUMMARY.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/WSO/kb/|KB/|g' \
+        -e 's|/workspaces/WSO/kb/|KB/|g' \
         "Alliance-to-Empire/SUMMARY.md"
     
     rm "Alliance-to-Empire/SUMMARY.md.bak"
@@ -120,7 +120,7 @@ if confirm "Clean up HELLO-WORLD.md?"; then
     backup_file "HELLO-WORLD.md"
     
     sed -i.bak \
-        -e 's|source: /Users/bamdad/www/WSO/GenAI-R\&D/One-Shot/images/|source: One-Shot/images/|g' \
+        -e 's|source: /workspaces/WSO/GenAI-R\&D/One-Shot/images/|source: One-Shot/images/|g' \
         "HELLO-WORLD.md"
     
     rm "HELLO-WORLD.md.bak"
@@ -136,8 +136,8 @@ if confirm "Clean up AI-Guardrails-and-Bias/DEEP-DiVE.md?"; then
     backup_file "AI-Guardrails-and-Bias/DEEP-DiVE.md"
     
     sed -i.bak \
-        -e 's|git -C /Users/bamdad/www/GenAI-RD|git|g' \
-        -e 's|/Users/bamdad/www/GenAI-RD/|./|g' \
+        -e 's|git -C /workspaces/GenAI-RD|git|g' \
+        -e 's|/workspaces/GenAI-RD/|./|g' \
         "AI-Guardrails-and-Bias/DEEP-DiVE.md"
     
     rm "AI-Guardrails-and-Bias/DEEP-DiVE.md.bak"
@@ -148,8 +148,8 @@ if confirm "Clean up AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md?"; then
     backup_file "AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md"
     
     sed -i.bak \
-        -e 's|git -C /Users/bamdad/www/GenAI-RD|git|g' \
-        -e 's|/Users/bamdad/www/GenAI-RD/|./|g' \
+        -e 's|git -C /workspaces/GenAI-RD|git|g' \
+        -e 's|/workspaces/GenAI-RD/|./|g' \
         "AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md"
     
     rm "AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md.bak"
@@ -160,7 +160,7 @@ if confirm "Clean up media/README.md?"; then
     backup_file "media/README.md"
     
     sed -i.bak \
-        -e 's|/Users/bamdad/www/GenAI-RD/.venv/bin/python|python3|g' \
+        -e 's|/workspaces/GenAI-RD/.venv/bin/python|python3|g' \
         "media/README.md"
     
     rm "media/README.md.bak"

@@ -9,7 +9,7 @@
 ## Context
 - Project: Core Framework
 - Files: ['README.md', 'COMPLIANCE.md', 'AUDIT-ARCHITECTURE.md', 'FRICTION-PROTOCOL.md']
-- Image sources: ['/Users/bamdad/www/GenAI-RD/images', '/Users/bamdad/www/GenAI-RD/Alliance-to-Empire/images', '/Users/bamdad/www/GenAI-RD/AI-Guardrails-and-Bias/images', '/Users/bamdad/www/GenAI-RD/Economy/images', '/Users/bamdad/www/GenAI-RD/One-Shot/images', '/Users/bamdad/www/GenAI-RD/US-Gov/images', '/Users/bamdad/www/GenAI-RD/Ugly-Truth/images']
+- Image sources: ['/workspaces/GenAI-RD/images', '/workspaces/GenAI-RD/Alliance-to-Empire/images', '/workspaces/GenAI-RD/AI-Guardrails-and-Bias/images', '/workspaces/GenAI-RD/Economy/images', '/workspaces/GenAI-RD/One-Shot/images', '/workspaces/GenAI-RD/US-Gov/images', '/workspaces/GenAI-RD/Ugly-Truth/images']
 ## Requirements
 - Format: webp | Size/Duration: 1280x640
 - Intended audience: All | Targets: ['execs', 'engineers', 'genz']

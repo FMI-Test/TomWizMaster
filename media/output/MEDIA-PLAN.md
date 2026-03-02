@@ -9,7 +9,7 @@
 ## Discovery
 - Project: Core Framework
 - Context files: ['README.md', 'COMPLIANCE.md', 'AUDIT-ARCHITECTURE.md', 'FRICTION-PROTOCOL.md']
-- Image dirs: ['/Users/bamdad/www/GenAI-RD/images', '/Users/bamdad/www/GenAI-RD/Alliance-to-Empire/images', '/Users/bamdad/www/GenAI-RD/AI-Guardrails-and-Bias/images', '/Users/bamdad/www/GenAI-RD/Economy/images', '/Users/bamdad/www/GenAI-RD/One-Shot/images', '/Users/bamdad/www/GenAI-RD/US-Gov/images', '/Users/bamdad/www/GenAI-RD/Ugly-Truth/images']
+- Image dirs: ['/workspaces/GenAI-RD/images', '/workspaces/GenAI-RD/Alliance-to-Empire/images', '/workspaces/GenAI-RD/AI-Guardrails-and-Bias/images', '/workspaces/GenAI-RD/Economy/images', '/workspaces/GenAI-RD/One-Shot/images', '/workspaces/GenAI-RD/US-Gov/images', '/workspaces/GenAI-RD/Ugly-Truth/images']
 
 ## Assets by Audience
 ### Audience: Executives

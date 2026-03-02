@@ -194,7 +194,7 @@
 
 | Pattern | Count | Action |
 |---------|-------|--------|
-| `/Users/bamdad/www` | 36 | ✅ Automated cleanup |
+| `/workspaces` | 36 | ✅ Automated cleanup |
 | `/Users/bamdad` | 40 | ✅ Automated cleanup |
 | `/Users/` | 41 | ✅ Automated cleanup |
 | `/home/` | 0 | ✅ None needed |
