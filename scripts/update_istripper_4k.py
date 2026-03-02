@@ -4,7 +4,7 @@ import sys
 import shutil
 
 # Configuration
-TARGET_DIR = "/Users/bamdad/iStripper/data/scenes"
+TARGET_DIR = "/workspaces/iStripper/data/scenes"
 EXTENSIONS = {'.fsh', '.scn'}
 REPLACEMENTS = {
     '1920': '3840',
