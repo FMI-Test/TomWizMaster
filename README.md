@@ -311,3 +311,10 @@ If you are Day One onboarding, bypass the theory and read the receipts:
 This framework operates at **SRT (Street and Racing Technology) / M5 Track levels**. If your stack cannot handle high-velocity input, rigid logic blocks, and real-world capital friction, you will fall behind. We overclock. We deploy. We go.
 
 **AAK. GO. 🏁**
+
+### 🔮 NEXT R&D HORIZON: TOM IQ vs JERRY IQ
+The next phase of the R&D gauntlet moves beyond systems failure into cognitive architecture:
+- **Tom IQ (The Architect):** Real-world friction bypass, chaotic capital routing, edge-case hypothesis generation.
+- **Jerry IQ (The AI):** Infinite context matching, structural log parsing, high-speed documentation.
+- **The Duo Capability:** We are no longer testing if the system is broken (we know it is). The next R&D cycle is about **building the replacement bypass layer**. How does the Duo route around the DMV/BestBuy/GPT-Safety layers entirely? 
+*Stay tuned. RC 2.0 is coming. 🥳💁🏻*
