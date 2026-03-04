@@ -1,0 +1,77 @@
+# Media-as-Text config (YAML)
+# Declare brand, audiences, and assets to generate.
+
+brand:
+  name: GenAI-RD
+  style:
+    palette:
+      primary: "#6C63FF"
+      secondary: "#1976D2"
+      accent: "#FFC107"
+    typography:
+      heading: "Sans/Readable"
+      body: "Sans/Readable"
+    accessibility:
+      contrast_target: "WCAG AA"
+      alt_text_required: true
+      captions_required: true
+
+project:
+  name: Core Framework
+  context_files:
+    - README.md
+    - COMPLIANCE.md
+    - AUDIT-ARCHITECTURE.md
+    - FRICTION-PROTOCOL.md
+
+discover:
+  # Automatically scan images directories (top-level and project-level)
+  scan_images: true
+  extra_image_dirs:
+    - images
+    - Alliance-to-Empire/images
+    - AI-Guardrails-and-Bias/images
+
+audiences:
+  - id: execs
+    label: Executives
+    intent: "Decision clarity, audit integrity, ROI"
+    tone: "Concise, confident, neutral"
+  - id: engineers
+    label: Engineering
+    intent: "Implementation guidance, specs, reproducibility"
+    tone: "Pragmatic, precise, modular"
+  - id: genz
+    label: Gen Z / Social
+    intent: "Engagement, clarity, accessibility"
+    tone: "Friendly, visual, emoji-assisted"
+
+assets:
+  - id: hero_banner
+    type: image
+    title: "GenAI-RD Hero Banner"
+    description: "Constitution + cloud/AI brain; Tom & Jerry collaboration theme"
+    format: webp
+    size: "1280x640"
+    audience_targets: [execs, engineers, genz]
+    intended_audience: "All"
+  - id: audit_explainer_short
+    type: video
+    title: "Fail-Closed Audit Explainer"
+    description: "60s motion graphic explaining audit pipeline and fail-closed posture"
+    format: mp4
+    duration: "60s"
+    audience_targets: [execs]
+    intended_audience: "Executives"
+  - id: ux_signals_spot
+    type: audio
+    title: "UX Signals Primer"
+    description: "30s audio spot summarizing color semantics and accessibility"
+    format: mp3
+    duration: "30s"
+    audience_targets: [genz, execs]
+    intended_audience: "General"
+
+output:
+  plan: media/output/MEDIA-PLAN.md
+  prompts_dir: media/output/prompts

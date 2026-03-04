@@ -1,0 +1,32 @@
+# Show & Tell configuration (YAML)
+# You can add comments and a change_log here.
+
+title: GenAI R&D — Show & Tell
+exec_summary_sources:
+  - README.md
+  - COMPLIANCE.md
+  - FRICTION-PROTOCOL.md
+  - AUDIT-ARCHITECTURE.md
+  - audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+
+deck_sections:
+  - title: Overview
+    file: README.md
+  - title: Guardrails
+    file: GUARDRAILS.md
+  - title: Friction Protocol
+    file: FRICTION-PROTOCOL.md
+  - title: Audit Architecture
+    file: AUDIT-ARCHITECTURE.md
+  - title: Model & Provenance
+    file: audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+
+emoji_palette: EMOJI-PALETTE.yaml
+
+output:
+  exec_summary: showtell/output/EXEC-SUMMARY.md
+  deck: showtell/output/SLIDE-DECK.md
+
+change_log:
+  - date: 2026-01-25
+    note: Initial config created
