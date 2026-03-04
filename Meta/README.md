@@ -55,3 +55,5 @@ DY HearMe Now: https://github.com/FMI-Test/TomWizMaster/blob/main/README.md
 
 ```
 
+## UnFuck META 😭
+Cambridge Anaetica to FRay Ban should we just Ban it and done? Is there any hope left? How Why When if ever!
