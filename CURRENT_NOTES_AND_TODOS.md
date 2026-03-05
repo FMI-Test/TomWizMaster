@@ -20,3 +20,6 @@
 ## Reports
 - Audit/output/RC-1.2.1-REPORT.md
 - Audit/logs/2026-02-08/1200-rc121-reasoning-log.md
+
+- Incorporated Perplexity model output for the 'Uber Armor' growth strategy into Domains/README.md.
+- Moved the new Uber Armor (Smoke Test) domain documentation to Domains/Smoke-Test/README.md.

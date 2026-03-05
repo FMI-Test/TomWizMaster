@@ -1,0 +1,156 @@
+Running Kill Chain Execution Protocol...
+Tue Mar  3 05:02:30 PST 2026
+Setting executable permissions...
+--------------------------------------------------
+EXECUTING: code/python/api-calls.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/api-calls.py", line 7, in <module>
+    from utils import *
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/tom-wiz-master-update-iso-data.py
+Downloading from https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.json...
+Error downloading: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/cf.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/cf.py", line 6, in <module>
+    from utils import *
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/models.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/models.py", line 5, in <module>
+    from flask_restplus import fields, marshal
+ModuleNotFoundError: No module named 'flask_restplus'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/app-bak.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/app-bak.py", line 18, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/oas-api-enhancer.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/oas-api-enhancer.py", line 11, in <module>
+    import oas
+ModuleNotFoundError: No module named 'oas'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/caspian-build-site.py
+Building Caspian from /Users/twm/www/Caspian to /Users/twm/www/Caspian/dist...
+Processing Takeout-and-Delivery.php...
+Processing index.php...
+Processing Restaurant-Menu.php...
+Processing Catering.php...
+Processing Reviews.php...
+Processing Contacts.php...
+Build Complete.
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/team.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/team.py", line 7, in <module>
+    from utils import *
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/collect-metrics.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/collect-metrics.py", line 9, in <module>
+    from TimeIt import *
+ModuleNotFoundError: No module named 'TimeIt'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/invalid-usage.py
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/utils.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/time-it.py
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/list-pkgs.py
+listPkgs() ...............................
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/list-pkgs.py", line 58, in <module>
+    res = listPkgs()
+  File "/Users/twm/www/code/python/list-pkgs.py", line 18, in listPkgs
+    req = subprocess.Popen(
+        ('dpkg', '-l'),
+        stdout=subprocess.PIPE)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 1038, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 1989, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'dpkg'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/gen-data.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/gen-data.py", line 4, in <module>
+    from cf import *
+  File "/Users/twm/www/code/python/cf.py", line 6, in <module>
+    from utils import *
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/app.py
+Traceback (most recent call last):
+  File "/Users/twm/www/code/python/app.py", line 6, in <module>
+    from utils import *
+  File "/Users/twm/www/code/python/utils.py", line 12, in <module>
+    import lorem
+ModuleNotFoundError: No module named 'lorem'
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/llm-council-main.py
+Hello from llm-council!
+EXIT CODE: 0
+STATUS: SUCCESS
+--------------------------------------------------
+EXECUTING: code/python/wso-extract-data.py
+Exported to /Users/twm/www/WSO/wso_content.json
+EXIT CODE: 0
+STATUS: SUCCESS

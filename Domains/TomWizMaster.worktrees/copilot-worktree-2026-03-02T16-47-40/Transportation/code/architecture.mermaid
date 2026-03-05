@@ -1,0 +1,20 @@
+graph TD
+    UserDriver[Driver App (Spanish)] <-->|WebSocket Audio Stream| APIG[AWS API Gateway (WebSocket)]
+    UserPassenger[Passenger App (English)] <-->|WebSocket Audio Stream| APIG
+
+    subgraph AWS Cloud
+        APIG -->|Route| LambdaHandlers[AWS Lambda Handler]
+
+        LambdaHandlers -->|1. Stream Audio| Transcribe[Amazon Transcribe Streaming]
+        Transcribe -->|2. Text (Source)| LambdaLogic[Translation Logic]
+        LambdaLogic -->|3. Text (Source)| Translate[Amazon Translate]
+        Translate -->|4. Text (Target)| LambdaLogic
+        LambdaLogic -->|5. Text (Target)| Polly[Amazon Polly]
+        Polly -->|6. Audio (Target)| LambdaHandlers
+    end
+
+    LambdaHandlers -->|Return Audio| APIG
+
+    style UserDriver fill:#f9f,stroke:#333,stroke-width:2px
+    style UserPassenger fill:#9ff,stroke:#333,stroke-width:2px
+    style AWS Cloud fill:#eee,stroke:#333,stroke-width:1px
