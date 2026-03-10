@@ -10,20 +10,10 @@
 | TBD | TBD | TBD | TBD |
 | TBD | TBD | TBD | TBD |
 
-## Approval
-- **Reviewed by:** DARA S-TEAM  
-- **Approved by:** TOM  
-- **Business Sponsor:** UBER  
-- **Business Unit:** POC  
-- **Approval Date:** 26-2-2 0000 PST LOC   
-- **Status:** PROD-READY
-
-GO !!! GO !!! GO !!!
-
-ACTION CUT DEMO DAY
-
-DAY ONE!!! 
-
-GOGOGOG
-
-ADD NANAO BANANA PROMPTS FOR APPROVAL APPROVED APPROVEED APPROVERS TOP TO SHITTIEST ...
+## Approval (DRAFT – placeholders)
+- **Reviewed by:** TBD  
+- **Approved by:** TBD  
+- **Business Sponsor:** TBD  
+- **Business Unit:** TBD  
+- **Approval Target Date (est.):** TBD (YYYY-MM-DD)  
+- **Status:** DRAFT – NOT PROD-READY
