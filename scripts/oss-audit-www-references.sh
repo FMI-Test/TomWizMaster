@@ -3,7 +3,7 @@
 # Purpose: Comprehensive 100x audit of sensitive file paths for OSS release
 # Human-in-the-Loop: Generates report for review before cleanup
 
-set -euo pipefail
+set -eo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 AUDIT_OUTPUT_DIR="${REPO_ROOT}/Audit/output"

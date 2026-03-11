@@ -3,7 +3,7 @@
 # Purpose: Semi-automated cleanup with human confirmation at each step
 # Human-in-the-Loop: Prompts y/n at each cleanup stage
 
-set -euo pipefail
+set -eo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "${REPO_ROOT}"
