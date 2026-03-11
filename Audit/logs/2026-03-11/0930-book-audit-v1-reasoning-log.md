@@ -54,6 +54,7 @@ Run a complete end-to-end audit of the Book repository (`/Users/WSO/www/Book`) u
 - `[2026-03-11 09:30]` Tool: run_in_terminal — Prince-of-Persia.md structure — 4+ duplicate header blocks found
 - `[2026-03-11 09:30]` Tool: run_in_terminal — worktree path check — 3 prunable worktrees at `/Users/twm/`
 - `[2026-03-11 09:30]` Tool: create_file — Files: this log + BOOK-AUDIT-2026-03-11-0930.md
+- `[2026-03-11 09:30]` Commit: `fa3357cf0bb2d45b029ba2d362b757f7c6f77d9d` pushed to origin/smoke
 
 ---
 
