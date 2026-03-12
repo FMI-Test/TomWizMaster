@@ -1,3 +1,5 @@
+![INPUT-COC-TEMPLATE](images/INPUT-COC-TEMPLATE.png)
+
 # Input Chain-of-Custody (Tier‑2)
 
 - Log ID: <short-id>

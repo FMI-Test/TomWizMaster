@@ -1,3 +1,5 @@
+![LEGAL-RISK-AUDIT-xAI-Grok](images/LEGAL-RISK-AUDIT-xAI-Grok.png)
+
 # AI Legal & Regulatory Risk Audit: xAI Grok Case Study
 
 > Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  

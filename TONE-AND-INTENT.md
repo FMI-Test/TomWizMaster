@@ -1,3 +1,5 @@
+![TONE-AND-INTENT](images/TONE-AND-INTENT.png)
+
 # Tone and Intent Guide
 
 **Version:** 1.0  

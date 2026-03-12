@@ -1,3 +1,5 @@
+![README](images/README.png)
+
 # Audit Logs
 
 This folder holds Tier‑2 audit logs and related templates.

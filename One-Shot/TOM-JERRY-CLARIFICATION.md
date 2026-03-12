@@ -1,3 +1,5 @@
+![TOM-JERRY-CLARIFICATION](images/TOM-JERRY-CLARIFICATION.png)
+
 # Tom & Jerry: Role Assignment Clarification
 ## Historical Context, Intentional Test, and Resolution
 

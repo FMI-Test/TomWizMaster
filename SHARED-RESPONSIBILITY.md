@@ -1,3 +1,5 @@
+![SHARED-RESPONSIBILITY](images/SHARED-RESPONSIBILITY.png)
+
 # Shared Responsibility Model
 
 **Version:** 1.0  

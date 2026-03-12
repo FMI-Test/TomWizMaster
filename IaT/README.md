@@ -1,3 +1,5 @@
+![README](images/README.png)
+
 # Infrastructure‑as‑Text (IaT) Framework
 
 **Version:** 1.0

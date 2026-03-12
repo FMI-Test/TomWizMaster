@@ -1,3 +1,5 @@
+![QUICK-START](images/QUICK-START.png)
+
 # Quick Start & Integrity Check
 
 **Version:** 1.0.0 (Player One)

@@ -1,3 +1,5 @@
+![Two-words-of-arithmetic](images/Two-words-of-arithmetic.png)
+
 # Two Words of Arithmetic (دو کلمه حرف حساب)
 
 ## Reader's Guide

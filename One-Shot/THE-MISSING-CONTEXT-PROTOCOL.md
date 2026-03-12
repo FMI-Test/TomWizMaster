@@ -1,3 +1,5 @@
+![THE-MISSING-CONTEXT-PROTOCOL](images/THE-MISSING-CONTEXT-PROTOCOL.png)
+
 # THE-MISSING-CONTEXT-PROTOCOL.md 🤷‍♂️
 ## The "Didn't Know, Didn't Test" Defense
 

@@ -1,3 +1,5 @@
+![PERPLEXITY-UX-ANALYSIS](images/PERPLEXITY-UX-ANALYSIS.png)
+
 # Perplexity AI: Model Behavior Analysis (Gray Area Case Study)
 
 **Version:** 1.0  

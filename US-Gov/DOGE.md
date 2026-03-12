@@ -1,3 +1,5 @@
+![DOGE](images/DOGE.png)
+
 # DOGE — Department of Government Efficiencies
 
 **Version:** 1.0  

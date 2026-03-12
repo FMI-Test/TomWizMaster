@@ -1,3 +1,5 @@
+![GPT5-FOOTNOTE-FAILURE-CASE-STUDY](images/GPT5-FOOTNOTE-FAILURE-CASE-STUDY.png)
+
 # AI Safety Case Study: GPT-5 Footnote Insertion Failure
 
 **Date**: January 26, 2026

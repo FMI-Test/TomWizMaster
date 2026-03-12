@@ -1,3 +1,5 @@
+![THE-HUMAN-STRESS-TEST](images/THE-HUMAN-STRESS-TEST.png)
+
 # THE-HUMAN-STRESS-TEST.md 🔄
 ## The Reverse Turing Test: Who is Testing Whom?
 

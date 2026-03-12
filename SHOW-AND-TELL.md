@@ -1,3 +1,5 @@
+![SHOW-AND-TELL](images/SHOW-AND-TELL.png)
+
 # Show & Tell — From Docs to Slides/PDF/Exec Summary
 
 **Version:** 1.0

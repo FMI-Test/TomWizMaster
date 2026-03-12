@@ -1,3 +1,5 @@
+![REFERENCE-ARCHITECTURE](images/REFERENCE-ARCHITECTURE.png)
+
 # Reference Architecture — Patterns & Variants
 
 ## Variants

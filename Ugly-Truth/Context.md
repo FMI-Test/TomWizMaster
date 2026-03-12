@@ -1,3 +1,5 @@
+![Context](images/Context.png)
+
 # Context
 
 > **COMPLIANCE NOTICE:**
