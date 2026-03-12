@@ -1,3 +1,5 @@
+\![READ.me](images/READ.me.png)
+
 # Why Amodi is dead wrong - I prove it hh\ere 123!
 
 ## Easy peasy!

@@ -1,3 +1,5 @@
+\![COMPLIANCE](images/COMPLIANCE.png)
+
 # Compliance as Code: A Constitutional Approach
 
 **Version:** 1.0

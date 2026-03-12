@@ -1,3 +1,5 @@
+\![THINKING-VISIBILITY-PROTOCOL](images/THINKING-VISIBILITY-PROTOCOL.png)
+
 # Thinking Visibility & Tier‑2 Audit Protocol
 
 Purpose: Ensure reasoning and decision traces are consistently visible, auditable, and bound to outputs for R&D and high‑stake workflows without exposing confidential chain‑of‑thought. This protocol defines what to capture, how to store it, and signals to control audit behavior.

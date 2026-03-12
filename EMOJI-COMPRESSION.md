@@ -1,3 +1,5 @@
+\![EMOJI-COMPRESSION](images/EMOJI-COMPRESSION.png)
+
 # Emoji Compression — Quick Status Language
 
 **Version:** 1.0

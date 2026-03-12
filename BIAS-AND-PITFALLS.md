@@ -1,3 +1,5 @@
+\![BIAS-AND-PITFALLS](images/BIAS-AND-PITFALLS.png)
+
 # Bias & Pitfalls — Collaboration Playbook
 
 **Version:** 1.0  

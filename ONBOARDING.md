@@ -1,3 +1,5 @@
+\![ONBOARDING](images/ONBOARDING.png)
+
 # Comprehensive Onboarding Guide
 
 **Version:** 1.2.2

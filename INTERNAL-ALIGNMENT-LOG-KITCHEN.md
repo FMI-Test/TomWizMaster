@@ -1,3 +1,5 @@
+\![INTERNAL-ALIGNMENT-LOG-KITCHEN](images/INTERNAL-ALIGNMENT-LOG-KITCHEN.png)
+
 # Internal Alignment Log: "The Kitchen" (Raw + / -)
 
 **Version:** 1.0  

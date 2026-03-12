@@ -1,3 +1,5 @@
+\![OSS-RELEASE-TODO](images/OSS-RELEASE-TODO.png)
+
 # OSS Release Preparation: TODO List
 
 **Version:** 1.0.0

@@ -1,3 +1,5 @@
+\![DEEP-DIVE](images/DEEP-DIVE.png)
+
 # Architecture Deep Dive
 
 **Version:** 1.2.2

@@ -1,3 +1,5 @@
+\![OSS-RELEASE-READINESS](images/OSS-RELEASE-READINESS.png)
+
 # OSS Release Readiness Framework
 
 **Version:** 1.0.0

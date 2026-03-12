@@ -1,3 +1,5 @@
+\![PUBLISH_PREP](images/PUBLISH_PREP.png)
+
 # Publishing Preparation: GenAI-Courtroom-Protocols 🌍
 
 **Proposed Repository Name:** `GenAI-Courtroom-Protocols`

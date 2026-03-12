@@ -1,3 +1,5 @@
+\![CONTRIBUTING](images/CONTRIBUTING.png)
+
 # Contributing
 
 Thanks for your interest in contributing.

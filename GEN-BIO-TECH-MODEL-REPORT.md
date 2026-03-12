@@ -1,3 +1,5 @@
+\![GEN-BIO-TECH-MODEL-REPORT](images/GEN-BIO-TECH-MODEL-REPORT.png)
+
 # Generative BioTech Model Report
 
 ## Why "Raptor"?

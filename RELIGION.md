@@ -1,3 +1,5 @@
+\![RELIGION](images/RELIGION.png)
+
 # RELIGION: THE META-ANALYSIS
 
 ## 1. Summary Detail: The Operating Systems of Humanity

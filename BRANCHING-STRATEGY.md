@@ -1,3 +1,5 @@
+\![BRANCHING-STRATEGY](images/BRANCHING-STRATEGY.png)
+
 # GenAI-RD Branching Strategy & Protocol
 
 ## 1. Hierarchy & Tiers
