@@ -1,3 +1,5 @@
+![hero-banner.prompt](../../../images/hero-banner.prompt.png)
+
 # Prompt: GenAI-RD Hero Banner (image)
 ## Style & Brand
 - Palette: {'primary': '#6C63FF', 'secondary': '#1976D2', 'accent': '#FFC107'}

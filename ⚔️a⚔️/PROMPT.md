@@ -1,3 +1,5 @@
+![PROMPT](../images/PROMPT.png)
+
 AK GO
 Goal: Generate IaT outputs from intake.
 Boundaries: Domain‑agnostic; respect COMPLIANCE, GUARDRAILS, SECURITY‑PROTOCOL.

@@ -1,3 +1,5 @@
+![CROSS-PROVIDER-VALIDATION](../../images/CROSS-PROVIDER-VALIDATION.png)
+
 # CROSS-PROVIDER-VALIDATION.md ☁️
 ![The Stress Test](../images/gemini-stress-test.webp)
 ## Stress Testing the "Orphan State Optimization" Principle

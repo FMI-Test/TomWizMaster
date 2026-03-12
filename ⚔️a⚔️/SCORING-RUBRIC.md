@@ -1,3 +1,5 @@
+![SCORING-RUBRIC](../images/SCORING-RUBRIC.png)
+
 # Scoring Rubric — Cost / Time / Value / Risk
 
 Use this rubric to normalize evaluations for X → Y substitutions and option choices (A/B/C).

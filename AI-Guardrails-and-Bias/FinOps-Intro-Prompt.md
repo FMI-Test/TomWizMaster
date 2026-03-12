@@ -1,3 +1,5 @@
+![FinOps-Intro-Prompt](../images/FinOps-Intro-Prompt.png)
+
 # FinOps One-Shot & More - Many Many nmmore - 2024-06-19
 
 Hello!

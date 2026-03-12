@@ -1,3 +1,5 @@
+![100K-ROI-ANALYSIS](../images/100K-ROI-ANALYSIS.png)
+
 # The $100k Month: ROI Analysis & Real Value
 
 **Date:** March 1, 2026

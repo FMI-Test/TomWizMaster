@@ -1,3 +1,5 @@
+![GEMINI-REVIEW](../../images/GEMINI-REVIEW.png)
+
 # GEMINI-REVIEW.md 🔮
 ![The Owl of Material Design](../images/gemini-owl-avatar.webp)
 ## Peer Review: GenAI-R&D/One-Shot Framework

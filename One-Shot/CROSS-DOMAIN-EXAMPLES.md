@@ -1,3 +1,5 @@
+![CROSS-DOMAIN-EXAMPLES](../images/CROSS-DOMAIN-EXAMPLES.png)
+
 # Cross-Domain Pattern Application Examples
 ## Universal Optimization: Faster, Better, Cheaper Across Verticals
 

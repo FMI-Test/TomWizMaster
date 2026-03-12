@@ -1,3 +1,5 @@
+![README](../images/README.png)
+
 # 🚬 Smoke Branch — Anti-Pattern Test Suite
 
 **Version:** 1.0  

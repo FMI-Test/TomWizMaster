@@ -1,3 +1,5 @@
+![LESSONS-LEARNED](../images/LESSONS-LEARNED.png)
+
 # Lessons Learned (One-Shot R&D)
 
 ## Key Takeaways

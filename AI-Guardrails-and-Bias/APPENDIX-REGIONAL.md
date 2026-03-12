@@ -1,3 +1,5 @@
+![APPENDIX-REGIONAL](../images/APPENDIX-REGIONAL.png)
+
 # Regional Appendix: Middle East & US Allies
 
 > Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  

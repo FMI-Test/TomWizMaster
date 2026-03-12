@@ -1,3 +1,5 @@
+![meddia-idea](../images/meddia-idea.png)
+
 ## Media Idea
 Who is Reza:
 https://en.wikipedia.org/wiki/Reza_Shah (Grandfather of Iran Modernization)

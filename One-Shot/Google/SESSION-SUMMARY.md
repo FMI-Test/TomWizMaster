@@ -1,3 +1,5 @@
+![SESSION-SUMMARY](../../images/SESSION-SUMMARY.png)
+
 # SESSION_SUMMARY.md 📜
 ## The "Signal Right, Turn Left" Session
 

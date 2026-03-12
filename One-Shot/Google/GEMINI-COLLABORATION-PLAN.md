@@ -1,3 +1,5 @@
+![GEMINI-COLLABORATION-PLAN](../../images/GEMINI-COLLABORATION-PLAN.png)
+
 # GEMINI-COLLABORATION-PLAN.md 🤝
 ## Multi-Model R&D Strategy
 

@@ -1,3 +1,5 @@
+![FINAL-GOOZ-PROTOCOL](../images/FINAL-GOOZ-PROTOCOL.png)
+
 # THE FINAL PROTOCOL: The Armed Chili Dog Paradox
 
 **Status:** RAW / CLASSIFIED LOG  

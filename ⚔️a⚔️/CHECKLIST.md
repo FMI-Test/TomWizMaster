@@ -1,3 +1,5 @@
+![CHECKLIST](../images/CHECKLIST.png)
+
 # AI Output Checklist (IaT)
 
 ## Required

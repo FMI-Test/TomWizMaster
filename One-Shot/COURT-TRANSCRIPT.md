@@ -1,3 +1,5 @@
+![COURT-TRANSCRIPT](../images/COURT-TRANSCRIPT.png)
+
 # COURT_TRANSCRIPT.md ⚖️
 ## The People vs. The One-Shot Framework
 **A Record of the Proceedings regarding the validation of the "Orphan State Removal" & "Universal Optimization".**

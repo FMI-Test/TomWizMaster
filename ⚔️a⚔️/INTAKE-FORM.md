@@ -1,3 +1,5 @@
+![INTAKE-FORM](../images/INTAKE-FORM.png)
+
 # IaT Intake Form
 
 - Organization Type: <startup | enterprise | private | gov>

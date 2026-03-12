@@ -1,3 +1,5 @@
+![2202-oss-audit-aak](../../../images/2202-oss-audit-aak.png)
+
 ---
 **Tier-2 Reasoning Log**  
 **Log ID:** 2202-oss-audit-aak  

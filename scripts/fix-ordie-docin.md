@@ -1,3 +1,5 @@
+![fix-ordie-docin](../images/fix-ordie-docin.png)
+
 ⚔️⚔️⚔️ GenAI Slayer ⚔️⚔️⚔️
         GAME ON
 ⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️

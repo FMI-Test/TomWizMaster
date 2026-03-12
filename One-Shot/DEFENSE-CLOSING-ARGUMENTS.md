@@ -1,3 +1,5 @@
+![DEFENSE-CLOSING-ARGUMENTS](../images/DEFENSE-CLOSING-ARGUMENTS.png)
+
 # Defense Closing Arguments
 ## In the Matter of: Human-AI Collaboration Framework v. Status Quo
 

@@ -1,3 +1,5 @@
+![GITHUB-SYNC-REFLECTION](../images/GITHUB-SYNC-REFLECTION.png)
+
 # GitHub Repo Sync & Reflection
 ## Source: https://github.com/FMI-Test/GenAI-RD
 ## Generated: 2026-01-25 | Model: Claude Opus 4.5 (GitHub Copilot)

@@ -1,3 +1,5 @@
+![WIKI](../images/WIKI.png)
+
 # Transportation WIKI: LA Spanish Driver Networks & GenAI Opportunities
 
 ## 1. Context & Business Model

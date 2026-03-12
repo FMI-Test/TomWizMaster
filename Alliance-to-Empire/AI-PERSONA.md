@@ -1,3 +1,5 @@
+![AI-PERSONA](../images/AI-PERSONA.png)
+
 # AI Collaboration Persona & Profile
 
 **Your Name:** Tom (the dumb cat - little fun is fun!) 🐱  

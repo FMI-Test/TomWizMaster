@@ -1,3 +1,5 @@
+![MODEL-SELECTION-NOTE](../images/MODEL-SELECTION-NOTE.png)
+
 # Model Selection & Trust Note
 
 ## Context

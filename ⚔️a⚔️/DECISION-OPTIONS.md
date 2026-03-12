@@ -1,3 +1,5 @@
+![DECISION-OPTIONS](../images/DECISION-OPTIONS.png)
+
 # Decision Options (A/B/C)
 
 ## A — Recommended

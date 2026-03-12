@@ -1,3 +1,5 @@
+![1215-session-final-aak](../../../images/1215-session-final-aak.png)
+
 # Session Final — AAK Reflection Log
 
 - Log ID: session-final

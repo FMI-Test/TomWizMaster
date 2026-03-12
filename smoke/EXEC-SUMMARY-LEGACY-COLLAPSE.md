@@ -1,3 +1,5 @@
+![EXEC-SUMMARY-LEGACY-COLLAPSE](../images/EXEC-SUMMARY-LEGACY-COLLAPSE.png)
+
 # EXEC SUMMARY: The Collapse of Legacy Friction (The $100k "Recon by Fire" Report)
 
 **Date:** March 1, 2026  

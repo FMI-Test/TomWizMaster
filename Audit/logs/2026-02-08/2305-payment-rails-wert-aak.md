@@ -1,3 +1,5 @@
+![2305-payment-rails-wert-aak](../../../images/2305-payment-rails-wert-aak.png)
+
 # AAK: Payment Rails Update (Wert Supported Countries)
 
 Date: 2026-02-08

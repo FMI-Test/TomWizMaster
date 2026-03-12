@@ -1,3 +1,5 @@
+![THE-HUMAN-COST-ANALYSIS](../images/THE-HUMAN-COST-ANALYSIS.png)
+
 # THE_HUMAN_COST_ANALYSIS.md 🔋
 ## The Biological Burden: "Wrestling the Trinity"
 

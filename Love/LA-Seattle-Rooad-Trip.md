@@ -1,3 +1,5 @@
+![LA-Seattle-Rooad-Trip](../images/LA-Seattle-Rooad-Trip.png)
+
 A memorable 1,100+ mile road trip from Los Angeles to Seattle takes 5–8+ days, driving north along the Pacific Coast Highway (Highway 1/101) for stunning ocean views,, through wine country, redwood forests, and Oregon’s dramatic coastline. Top stops include Santa Barbara, Big Sur, Monterey, San Francisco, Redwood National Park, and Cannon Beach. [1, 2, 3, 4, 5]
 Key Highlights & Stops
 

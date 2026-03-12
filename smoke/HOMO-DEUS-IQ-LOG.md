@@ -1,3 +1,5 @@
+![HOMO-DEUS-IQ-LOG](../images/HOMO-DEUS-IQ-LOG.png)
+
 # 🧬 HOMO DEUS IQ: "No More Fucked Up" (The Final Transition)
 
 **Status:** RAW LOG | **Date:** March 1, 2026

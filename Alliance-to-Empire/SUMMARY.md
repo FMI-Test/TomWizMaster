@@ -1,3 +1,5 @@
+![SUMMARY](../images/SUMMARY.png)
+
 # Alliance to Empire Platform - Session Summary
 
 **Date:** January 18, 2026  

@@ -1,3 +1,5 @@
+![THE-JOKE-FAILURE](../images/THE-JOKE-FAILURE.png)
+
 # THE-JOKE-FAILURE.md 🃏
 ## The "Helpful" Interruption: A Failure of Tone Analysis
 

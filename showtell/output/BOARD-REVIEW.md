@@ -1,3 +1,5 @@
+![BOARD-REVIEW](../../images/BOARD-REVIEW.png)
+
 # GenAI‑RD — Board Review: Executive Summary & Status
 
 **Date:** 2026‑01‑25

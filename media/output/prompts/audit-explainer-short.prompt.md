@@ -1,3 +1,5 @@
+![audit-explainer-short.prompt](../../../images/audit-explainer-short.prompt.png)
+
 # Prompt: Fail-Closed Audit Explainer (video)
 ## Style & Brand
 - Palette: {'primary': '#6C63FF', 'secondary': '#1976D2', 'accent': '#FFC107'}

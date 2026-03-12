@@ -1,3 +1,5 @@
+![GENERAL-AUDIT-REPORT](../../images/GENERAL-AUDIT-REPORT.png)
+
 # General Audit Report — HuAI
 
 **Date:** 2026-02-08 12:15

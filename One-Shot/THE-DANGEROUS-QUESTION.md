@@ -1,3 +1,5 @@
+![THE-DANGEROUS-QUESTION](../images/THE-DANGEROUS-QUESTION.png)
+
 # THE-DANGEROUS-QUESTION.md 💣
 ## The Bedrock Analysis: Suicide Bomber vs. The Sunrise
 

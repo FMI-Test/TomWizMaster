@@ -1,3 +1,5 @@
+![1200-rc121-reasoning-log](../../../images/1200-rc121-reasoning-log.png)
+
 # Reasoning Log (Tier-2 Audit)
 
 - Log ID: rc121

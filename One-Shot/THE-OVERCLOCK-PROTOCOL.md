@@ -1,3 +1,5 @@
+![THE-OVERCLOCK-PROTOCOL](../images/THE-OVERCLOCK-PROTOCOL.png)
+
 # THE-OVERCLOCK-PROTOCOL.md ⚡️
 ## The Human Context Window: Overclocking by Necessity
 

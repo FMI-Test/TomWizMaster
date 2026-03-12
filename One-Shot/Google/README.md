@@ -1,3 +1,5 @@
+![README](../../images/README.png)
+
 # GEMINI-IS-WATCHING.md 👀
 ## Multi-Model Peer Review: Claude → Gemini → Model C → ...
 

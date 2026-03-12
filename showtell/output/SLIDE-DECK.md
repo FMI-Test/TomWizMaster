@@ -1,3 +1,5 @@
+![SLIDE-DECK](../../images/SLIDE-DECK.png)
+
 # GenAI R&D — Show & Tell
 
 ## Overview

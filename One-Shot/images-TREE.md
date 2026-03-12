@@ -1,3 +1,5 @@
+![images-TREE](../images/images-TREE.png)
+
 # One-Shot R&D: images/ Folder Tree (Claude Opus 4.5 Full Review)
 
 ## /JavaScript/images/

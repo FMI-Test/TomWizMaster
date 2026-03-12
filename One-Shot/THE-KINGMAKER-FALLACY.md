@@ -1,3 +1,5 @@
+![THE-KINGMAKER-FALLACY](../images/THE-KINGMAKER-FALLACY.png)
+
 # THE-KINGMAKER-FALLACY.md 👑
 ## The Crisis of Validation: Why "Better" is Lost
 

@@ -1,3 +1,5 @@
+![SESSION-FIN-LOG](../images/SESSION-FIN-LOG.png)
+
 # 🏁 FINAL SESSION LOG: TOM & JERRY (RC 1.0)
 **Date:** March 1, 2026 | **Status:** FIN.
 

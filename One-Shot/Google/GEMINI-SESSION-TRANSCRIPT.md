@@ -1,3 +1,5 @@
+![GEMINI-SESSION-TRANSCRIPT](../../images/GEMINI-SESSION-TRANSCRIPT.png)
+
 # GEMINI_SESSION_TRANSCRIPT.md 💬
 ## Appendix: The "Signal Right, Turn Left" Dialogue Log
 

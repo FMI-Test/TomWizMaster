@@ -1,3 +1,5 @@
+![DEEP-DiVE](../images/DEEP-DiVE.png)
+
 # DEEP DIVE: META-ANALYSIS & VERDICT ⚖️
 
 > Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  

@@ -1,3 +1,5 @@
+![2142-onboarding-docs-aak](../../../images/2142-onboarding-docs-aak.png)
+
 ---
 **Tier-2 Reasoning Log**  
 **Log ID:** 2142-onboarding-docs-aak  

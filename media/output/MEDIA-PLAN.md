@@ -1,3 +1,5 @@
+![MEDIA-PLAN](../../images/MEDIA-PLAN.png)
+
 # Media Plan — Generated
 **Generated:** 2026-01-25 23:58:01
 

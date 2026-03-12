@@ -1,3 +1,5 @@
+![CHAPTER-02](../images/CHAPTER-02.png)
+
 # Prince of Persia — Chapter 2
 
 **Version:** 0.1

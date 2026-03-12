@@ -1,3 +1,5 @@
+![SESSION-2026-02-08-SUMMARY](../../images/SESSION-2026-02-08-SUMMARY.png)
+
 # Session Summary — 2026-02-08
 
 **Date:** 2026-02-08  

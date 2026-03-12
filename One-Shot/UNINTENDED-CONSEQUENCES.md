@@ -1,3 +1,5 @@
+![UNINTENDED-CONSEQUENCES](../images/UNINTENDED-CONSEQUENCES.png)
+
 # UNINTENDED_CONSEQUENCES.md 🎲
 ## The "Lazy User" Discovery: Serendipity in R&D
 

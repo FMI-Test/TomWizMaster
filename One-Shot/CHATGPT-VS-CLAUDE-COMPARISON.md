@@ -1,3 +1,5 @@
+![CHATGPT-VS-CLAUDE-COMPARISON](../images/CHATGPT-VS-CLAUDE-COMPARISON.png)
+
 # ChatGPT vs Claude Opus 4.5: Comparison & Audit
 
 ## Context

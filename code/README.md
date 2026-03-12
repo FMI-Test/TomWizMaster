@@ -1,3 +1,5 @@
+![README](../images/README.png)
+
 # Code Infrastructure
 
 This directory contains the project's source code, build artifacts, staging area, and packages.

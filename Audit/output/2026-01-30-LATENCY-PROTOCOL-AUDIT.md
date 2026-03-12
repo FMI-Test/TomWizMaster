@@ -1,3 +1,5 @@
+![2026-01-30-LATENCY-PROTOCOL-AUDIT](../../images/2026-01-30-LATENCY-PROTOCOL-AUDIT.png)
+
 Version: 1.0
 Last Updated: 2026-01-30
 

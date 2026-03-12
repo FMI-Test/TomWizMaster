@@ -1,3 +1,5 @@
+![PATTERN-RECOGNITION-PARADOX](../images/PATTERN-RECOGNITION-PARADOX.png)
+
 # PATTERN-RECOGNITION-PARADOX.md 🧩
 ## The Founder's Paradox: "Why Did Everyone Miss This?"
 

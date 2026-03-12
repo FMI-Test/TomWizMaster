@@ -1,3 +1,5 @@
+![THE-FINAL-CORRECTION](../images/THE-FINAL-CORRECTION.png)
+
 # THE-FINAL-CORRECTION.md ❤️
 ## The Motivation: A Definition of Terms
 

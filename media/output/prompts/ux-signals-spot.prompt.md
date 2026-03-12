@@ -1,3 +1,5 @@
+![ux-signals-spot.prompt](../../../images/ux-signals-spot.prompt.png)
+
 # Prompt: UX Signals Primer (audio)
 ## Style & Brand
 - Palette: {'primary': '#6C63FF', 'secondary': '#1976D2', 'accent': '#FFC107'}

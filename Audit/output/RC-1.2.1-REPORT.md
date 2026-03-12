@@ -1,3 +1,5 @@
+![RC-1.2.1-REPORT](../../images/RC-1.2.1-REPORT.png)
+
 # RC Release Report — 1.2.1
 
 **Date:** 2026-02-08
