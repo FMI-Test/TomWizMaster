@@ -1,3 +1,5 @@
+![GUARDRAILS](images/GUARDRAILS.png)
+
 # Guardrails: Boundaries and Red Lines
 
 **Version:** 1.0  

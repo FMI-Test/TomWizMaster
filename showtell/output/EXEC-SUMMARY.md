@@ -1,3 +1,5 @@
+![EXEC-SUMMARY](images/EXEC-SUMMARY.png)
+
 # Executive Summary — GenAI R&D — Show & Tell
 
 ## Source: README.md

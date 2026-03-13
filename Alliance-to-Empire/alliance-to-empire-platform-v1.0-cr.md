@@ -1,3 +1,5 @@
+![alliance-to-empire-platform-v1.0-cr](images/alliance-to-empire-platform-v1.0-cr.png)
+
 #startup-opportunities / Ignored Requirements / "Capital Requirements" / One personn, low cost POC - Missing low cost rapid protoyping pilot
 
 "ideaforge/ File Structure" looks great but other sections are missaligned with this. Keep it but refinne the rest.

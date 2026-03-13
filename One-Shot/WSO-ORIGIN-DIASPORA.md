@@ -1,3 +1,5 @@
+![WSO-ORIGIN-DIASPORA](images/WSO-ORIGIN-DIASPORA.png)
+
 # WSO-ORIGIN-DIASPORA.md 🕸️
 ## Correction of Record: The Meaning of WSO
 

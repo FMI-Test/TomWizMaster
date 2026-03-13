@@ -1,3 +1,5 @@
+![README](images/README.png)
+
 # Media‑as‑Text Pipeline
 
 **Version:** 1.0

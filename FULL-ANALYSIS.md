@@ -1,3 +1,5 @@
+![FULL-ANALYSIS](images/FULL-ANALYSIS.png)
+
 # Full Analysis: Constitutional Framework for AI Collaboration
 
 **Date:** January 22, 2026  

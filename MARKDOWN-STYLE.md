@@ -1,3 +1,5 @@
+![MARKDOWN-STYLE](images/MARKDOWN-STYLE.png)
+
 # Markdown Style Guide — Consistency & Tone
 
 **Version:** 1.0

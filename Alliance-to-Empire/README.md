@@ -1,3 +1,5 @@
+![README](images/README.png)
+
 # Alliance to Empire Platform
 
 **From Discord Feedback to AI-Powered Ideation Engine**

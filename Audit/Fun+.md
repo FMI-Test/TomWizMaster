@@ -1,3 +1,5 @@
+![Fun+](images/Fun+.png)
+
 Fun a...z it is up to U&M !? 🤪⚔️👆🏁🤞🤷‍♂️Fun a.....z it is up to U&M !? 🤪⚔️👆🏁🤞🤷‍♂️
 
 read end-to-end & fully, comprehend, reflect repo: https://github.com/FMI-Test/TomWizMaster
