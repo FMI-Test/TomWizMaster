@@ -4,7 +4,7 @@
 
 **Version:** 1.0
 **Status:** Live
-**Last Updated:** 2026-01-25
+**Last Updated:** 2026-02-08
 
 Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails. We fail closed (zero‑tolerance) on audit pipeline integrity breaches.
 
@@ -13,6 +13,8 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 - **Traceability:** Link inputs → decisions → outputs → attestations.
 - **Visibility:** Structured reasoning summaries (not raw chain‑of‑thought).
 - **Integrity:** Continuous checksums, anomaly detection, and fail‑closed gating.
+- **Human Context:** Capture intent, constraints, time sensitivity, and decision owner.
+- **AI Use Boundary:** Audit outputs are for repository governance, not training data.
 
 ## Pipeline
 1. Input capture (raw + normalized + diff) → `audit/templates/INPUT-COC-TEMPLATE.md`
@@ -22,6 +24,21 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 5. Traceability matrix updates → IaT/TRACEABILITY-MATRIX-TEMPLATE.md
 6. Recall events → bind “Eureka” to prior tasks (AAK BIND recall:<id>), update SR and matrix
 7. Integrity checks → periodic verification of bindings and hashes
+8. Auto-doc control → generated reports live under Audit/output and are excluded from audit inputs
+
+## Auto-Documentation (Generated Artifacts)
+- Store generated audit reports under `Audit/output/` and logs under `Audit/logs/`.
+- Exclude generated artifacts from future audit inputs to prevent recursion and false positives.
+- Stamp each generated report with date, scope, and tool provenance.
+
+## Dependencies (Internal)
+- CONSTITUTION.md
+- GUARDRAILS.md
+- SHARED-RESPONSIBILITY.md
+- COMPLIANCE.md
+- THINKING-VISIBILITY-PROTOCOL.md
+- SECURITY-PROTOCOL.md
+- IaT/TRACEABILITY-MATRIX-TEMPLATE.md
 
 ## Fail‑Closed Behavior (Zero‑Tolerance)
 - If input→output binding breaks or hash mismatch occurs:

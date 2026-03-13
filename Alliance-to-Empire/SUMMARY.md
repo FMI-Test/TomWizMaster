@@ -67,7 +67,7 @@
 - Document setup
 
 ### Step 6: WSO KB Transfer Prep (1 hour)
-- Review `/Users/bamdad/www/WSO/kb/` directory
+- Review `KB/` directory
 - Identify relevant patterns for IdeaForge
 - Create "WSO-relevant-for-ideaforge.md" context file
 - Set up read-only access for AI
