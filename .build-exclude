@@ -3,5 +3,5 @@ Love/
 Meta/
 Ugly-Truth/
 Audit/
-scripts/oss-audit-www-references.sh
-scripts/oss-cleanup-www-references.sh
+code/scripts/oss-audit-www-references.sh
+code/scripts/oss-cleanup-www-references.sh

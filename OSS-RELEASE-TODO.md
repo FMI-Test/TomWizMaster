@@ -38,7 +38,7 @@
 
 - [ ] **2.1 Run Audit Script** (DONE ✅)
   ```bash
-  scripts/oss-audit-www-references.sh
+  code/scripts/oss-audit-www-references.sh
   ```
   
 - [ ] **2.2 Review Audit Report**
@@ -48,7 +48,7 @@
 
 - [ ] **2.3 Run Cleanup Script** (with human confirmation)
   ```bash
-  scripts/oss-cleanup-www-references.sh
+  code/scripts/oss-cleanup-www-references.sh
   ```
   - [ ] Clean One-Shot/GEMINI-INVITE.md (y/n)
   - [ ] Clean One-Shot/GPT-RED-TEAM-INVITE.md (y/n)
@@ -66,7 +66,7 @@
 
 - [ ] **3.1 Regenerate Media Outputs**
   ```bash
-  python3 scripts/generate_media_assets.py media/config.yaml
+  python3 code/scripts/generate-media-assets.py media/config.yaml
   ```
   - [ ] media/output/MEDIA-PLAN.md
   - [ ] media/output/prompts/*.prompt.md
@@ -96,7 +96,7 @@
 
 - [ ] **4.1 Re-run Audit Script**
   ```bash
-  scripts/oss-audit-www-references.sh
+  code/scripts/oss-audit-www-references.sh
   ```
   - [ ] Verify issue count reduced from 256 to <10
   - [ ] Review remaining references (should be external URLs only)
@@ -211,7 +211,7 @@
 ### Audit Commands
 ```bash
 # Full audit
-scripts/oss-audit-www-references.sh
+code/scripts/oss-audit-www-references.sh
 
 # Quick check for remaining issues
 git grep -E "/Users/|/home/|www" | grep -v "Audit/output" | wc -l
@@ -223,7 +223,7 @@ git grep -l -E "/Users/|/home/|www" | grep -v "Audit/output"
 ### Cleanup Commands
 ```bash
 # Interactive cleanup (with y/n prompts)
-scripts/oss-cleanup-www-references.sh
+code/scripts/oss-cleanup-www-references.sh
 
 # Review changes before committing
 git diff
@@ -299,7 +299,7 @@ cd /tmp && git clone /workspaces/TomWizMaster test-oss && cd test-oss
 
 - [OSS-RELEASE-READINESS.md](OSS-RELEASE-READINESS.md) - Full release framework
 - [Audit/output/WWW-AUDIT-2026-02-08-2200.md](Audit/output/WWW-AUDIT-2026-02-08-2200.md) - Detailed findings
-- [scripts/oss-audit-www-references.sh](scripts/oss-audit-www-references.sh) - Audit script
-- [scripts/oss-cleanup-www-references.sh](scripts/oss-cleanup-www-references.sh) - Cleanup script
+- [code/scripts/oss-audit-www-references.sh](code/scripts/oss-audit-www-references.sh) - Audit script
+- [code/scripts/oss-cleanup-www-references.sh](code/scripts/oss-cleanup-www-references.sh) - Cleanup script
 
 **Good luck! 🚀**
