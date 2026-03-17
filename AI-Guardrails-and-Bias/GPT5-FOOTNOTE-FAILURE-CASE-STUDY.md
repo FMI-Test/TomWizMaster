@@ -1013,7 +1013,7 @@ Not sci-fi Terminator. Real-world Terminator:
 | Promise | Reality |
 |---------|---------|
 | "Department of Government Efficiency" | Department of Grift and Extraction |
-| "$2 trillion in cuts" | TBD (probably $0 net, but contracts to friends) |
+| "$2 trillion in cuts" | ~$160B in announced cuts; net savings near zero after contract redirects, DoD exemptions, and Social Security off the table |
 | "Drain the swamp" | Replace swamp with sewage |
 | "Government should run like a business" | Whose business? Enron? |
 
