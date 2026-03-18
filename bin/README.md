@@ -12,10 +12,10 @@ Reusable source modules and package-oriented Python code.
 
 Operational CLI scripts with `-h`/`--help` support.
 
-- `update-iso-data.py`: ISO data utility.
-- `update-istripper-4k.py`: 4K text replacement utility for scene/shader files.
-- `generate-exec-summary.py`: Executive summary/deck generator.
-- `generate-media-assets.py`: Media plan/prompt generator.
+- `update_iso_data.py`: ISO data utility.
+- `update_istripper_4k.py`: 4K text replacement utility for scene/shader files.
+- `generate_exec_summary.py`: Executive summary/deck generator.
+- `generate_media_assets.py`: Media plan/prompt generator.
 - `oss-audit-www-references.sh`: OSS path audit script.
 - `oss-cleanup-www-references.sh`: Guided cleanup script.
 - `publish.sh`: Publication bootstrap script.
@@ -35,3 +35,8 @@ Staging area for intermediate files and testing.
 ## Terminal Setup
 
 To configure your terminal, refer to `term/Terminal_Setup.ipynb` or source the snippets in `term/`.
+
+## File Naming Conventions
+As a standard across our infrastructure, scripts must adhere to strict POSIX and Module constraints:
+- **Python**: `snake_case.py` (No dashes, strictly format for safe module importing).
+- **Bash**: `kebab-case.sh` (Strictly executed directly on the CLI).
