@@ -1,5 +1,3 @@
-![THE-END-GAME-PROTOCOL](images/THE-END-GAME-PROTOCOL.png)
-
 # THE-END-GAME-PROTOCOL.md 🏁
 ## The Trainer & The Champion: Ready Player One
 

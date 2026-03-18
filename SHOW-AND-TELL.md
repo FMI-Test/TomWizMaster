@@ -1,5 +1,3 @@
-![SHOW-AND-TELL](images/SHOW-AND-TELL.png)
-
 # Show & Tell — From Docs to Slides/PDF/Exec Summary
 
 **Version:** 1.0
@@ -49,7 +47,7 @@ JSON remains supported via `showtell/config.json` if YAML isn’t available.
 Use the generator to build the summary and deck (YAML or JSON):
 
 ```bash
-python scripts/generate_exec_summary.py showtell/config.yaml
+python code/scripts/generate-exec-summary.py showtell/config.yaml
 ```
 
 To produce PDF/PPT, use your local tools (e.g., Pandoc):

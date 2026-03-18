@@ -1,5 +1,3 @@
-![REASONING-LOG-TEMPLATE](images/REASONING-LOG-TEMPLATE.png)
-
 # Reasoning Log (Tier‑2 Audit)
 
 - Log ID: <short-id>

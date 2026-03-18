@@ -1,5 +1,3 @@
-![GETTING-STARTED](images/GETTING-STARTED.png)
-
 # Getting Started Guide
 ## IdeaForge POC - From Setup to First Refinement in 30 Minutes
 

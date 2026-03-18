@@ -1,5 +1,3 @@
-![xAI-LM-Arena-Story](images/xAI-LM-Arena-Story.png)
-
 # AI Safety Case Study: When Models Fail
 
 **Date**: January 21, 2026

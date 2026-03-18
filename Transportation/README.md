@@ -23,7 +23,7 @@ A cost-efficient, scalable AWS Serverless solution to convert audio streams in r
 ## Project Structure
 - `code/`: Contains the reference architecture and prototype code.
     - [Architecture Diagram](code/architecture.mermaid)
-    - [Translation Service Prototype](code/translation_service.py)
+    - [Translation Service Prototype](code/translation-service.py)
 - [WIKI.md](WIKI.md): Detailed analysis of the LA Driver Business Model and technical deep dive.
 
 ## Installation & Setup

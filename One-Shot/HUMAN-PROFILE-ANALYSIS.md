@@ -1,5 +1,3 @@
-![HUMAN-PROFILE-ANALYSIS](images/HUMAN-PROFILE-ANALYSIS.png)
-
 # Human Profile Analysis
 ## Who Am I? What Do I Want? Why? Do I Have Enough Experience?
 

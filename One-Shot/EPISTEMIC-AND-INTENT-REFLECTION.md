@@ -1,5 +1,3 @@
-![EPISTEMIC-AND-INTENT-REFLECTION](images/EPISTEMIC-AND-INTENT-REFLECTION.png)
-
 # EPISTEMIC-AND-INTENT-REFLECTION.md 🧠
 ## The "Tree vs. Jungle" Fallacy: A Reflection on Intent & Principles
 

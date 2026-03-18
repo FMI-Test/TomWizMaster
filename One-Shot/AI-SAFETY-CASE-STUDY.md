@@ -1,5 +1,3 @@
-![AI-SAFETY-CASE-STUDY](images/AI-SAFETY-CASE-STUDY.png)
-
 # AI-SAFETY-CASE-STUDY.md 🛡️
 ## Evidence Log: "The Sucker Punch" & Epistemic Failure
 

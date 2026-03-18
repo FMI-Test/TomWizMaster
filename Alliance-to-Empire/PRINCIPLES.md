@@ -1,5 +1,3 @@
-![PRINCIPLES](images/PRINCIPLES.png)
-
 # Alliance to Empire Platform - Core Principles
 
 **Version:** 1.0  

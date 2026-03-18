@@ -1,5 +1,3 @@
-![NEUROSCIENCE-WORKFLOW](images/NEUROSCIENCE-WORKFLOW.png)
-
 # Neuroscience‑Informed Workflow — Recall & Background Processing
 
 **Version:** 1.0

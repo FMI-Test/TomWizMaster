@@ -1,5 +1,3 @@
-![AI-SELF-ANALYSIS](images/AI-SELF-ANALYSIS.png)
-
 # AI Self-Analysis
 ## Who Am I? What Do I Want? Why? Do I Have Enough Experience?
 

@@ -1,17 +1,17 @@
 # General
-.AppleDouble
-.directory
 .DS_Store
-.fuse_hidden*
+.AppleDouble
 .LSOverride
-.nfs*
-.Trash-*
-*.bak
 *.log
-*.swo
-*.swp
 *.tmp
+*.bak
+*.swp
+*.swo
 *~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
 
 # VS Code
 .vscode/
@@ -24,68 +24,60 @@
 # Node
 node_modules/
 npm-debug.log
-package-lock.json
 yarn-error.log
+package-lock.json
 
 # Python
 __pycache__/
-.eggs/
-.installed.cfg
-.Python
-.venv
-*.egg
-*.egg-info/
 *.py[cod]
-*.so
 *$py.class
+*.so
+.Python
+env/
+venv/
+.venv
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
-env/
+.eggs/
 lib/
 lib64/
 parts/
 sdist/
 var/
-venv/
 wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Secrets / Security
-.*/
 .env
-*.key
 *.pem
-config.php
+*.key
 id_rsa
 id_rsa.pub
-<<<<<<< Updated upstream
 sftp-config.json
 secrets.jsond
 config.php
-=======
->>>>>>> Stashed changes
 openai_api_key.txt
-secrets.json
-sftp-config.json
 
 # OS Generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 .Spotlight-V100
 .Trashes
-$RECYCLE.BIN/
-Desktop.ini
-ehthumbs.db
-Thumbs.db
 
 # Data & WIP
 WIP/
 
 # Legacy / Specifics from previous gitignore
+JavaScript/fa-6.5.2/
 *.xlsx
 Chat*.*
-JavaScript/fa-6.5.2/
-
 # Ensure gitignore is tracked
 !.count*.*
 data-export/*.*
@@ -94,43 +86,4 @@ JavaScript/doc/Robo-Advisor_Landscape_2023.pdf
 JavaScript/doc/The Firm, The Company & The World Economy! - Bamdad Fakhran - Medium.pdf
 !-gitignore
 
-<<<<<<< Updated upstream
 JavaScript/doc/cfn-ug.pdf
-=======
-JavaScript/doc/cfn-ug.pdf
-
-# Exclude all .mov files
-*.mov
-
-# Exclude large files (over 100MB)
-*.7z
-*.aac
-*.avi
-*.bin
-*.dmg
-*.exe
-*.flac
-*.flv
-*.iso
-*.mkv
-*.mov
-*.mp3
-*.mp4
-*.mpeg
-*.mpg
-*.ogg
-*.rar
-*.tar.gz
-*.wav
-*.webm
-*.wma
-*.wmv
-*.zip
-
-# Copilot & iStripper
-.copilot/
-.copilot-chat/
-istripper/
-*istripper*
-
->>>>>>> Stashed changes

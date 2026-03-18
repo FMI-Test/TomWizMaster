@@ -1,5 +1,3 @@
-![HELLO-WORLD](images/HELLO-WORLD.png)
-
 # Gen AI R&D Reflection   
 Hello World!  
   

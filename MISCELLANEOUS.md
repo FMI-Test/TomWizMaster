@@ -1,5 +1,3 @@
-![MISCELLANEOUS](images/MISCELLANEOUS.png)
-
 # Miscellaneous: Cross‑Domain Usage & Safety Playbook
 
 **Version:** 1.0  

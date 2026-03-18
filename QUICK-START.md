@@ -1,6 +1,3 @@
-![QUICK-START](images/QUICK-START.png)
-
-# Quick Start & Integrity Check
 # Quick Start — Rapid Onboarding
 
 **Version:** 1.2.2

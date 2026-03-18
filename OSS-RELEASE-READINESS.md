@@ -164,7 +164,7 @@ This document provides a **comprehensive checklist and workflow** for releasing 
 **OSS Readiness:** **READY** (with minor cleanup)
 
 **Cleanup Required:**
-- [x] Remove legacy WSO file path references (e.g., `/Users/bamdad/www/WSO/`)
+- [x] Remove legacy WSO file path references (e.g., `/workspaces/WSO/`)
 - [ ] Update GEMINI-INVITE.md, GPT-RED-TEAM-INVITE.md file paths to relative paths
 - [ ] Remove personal computer screenshots (if any contain sensitive data)
 - [ ] Sanitize file names with special characters (⚔️ emojis may cause issues on some systems)

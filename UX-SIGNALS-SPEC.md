@@ -1,5 +1,3 @@
-![UX-SIGNALS-SPEC](images/UX-SIGNALS-SPEC.png)
-
 # UX Signals Spec (Colors & Layout)
 
 **Version:** 1.0

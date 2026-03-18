@@ -1,5 +1,3 @@
-![READINESS-ASSESSMENT-RCA](images/READINESS-ASSESSMENT-RCA.png)
-
 # Readiness Assessment: Full Compliance RCA
 ## Probing Questions for Highly Regulated Domains
 

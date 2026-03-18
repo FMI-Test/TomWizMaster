@@ -1,5 +1,3 @@
-![SECURITY-PROTOCOL](images/SECURITY-PROTOCOL.png)
-
 # Security & Escalation Protocol (Gatekeeper)
 
 **Version:** 1.0

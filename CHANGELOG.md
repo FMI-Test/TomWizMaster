@@ -7,8 +7,8 @@ All notable changes to this repository are documented in this file.
 ### Added
 - **OSS-RELEASE-READINESS.md:** Comprehensive OSS release framework with 5-phase checklist, security clearance templates, Apache 2.0 license guidance, and staging workflow
 - **OSS-RELEASE-TODO.md:** Actionable 15-task checklist with 7 phases (Decisions → Cleanup → Manual → Verification → Documentation → Preparation → Public)
-- **scripts/oss-audit-www-references.sh:** 100x audit script for internal path references (256 issues identified)
-- **scripts/oss-cleanup-www-references.sh:** Semi-automated cleanup script with human-in-the-loop y/n confirmations
+- **code/scripts/oss-audit-www-references.sh:** 100x audit script for internal path references (256 issues identified)
+- **code/scripts/oss-cleanup-www-references.sh:** Semi-automated cleanup script with human-in-the-loop y/n confirmations
 - **Audit/output/WWW-AUDIT-2026-02-08-2200.md:** Comprehensive audit report identifying /Users/, /home/, C:\, and www/WSO references
 - **Audit/logs/2026-02-08/2202-oss-audit-aak.md:** Tier-2 reasoning log for OSS audit session
 - **CONTRIBUTING.md:** Contribution guidelines for OSS collaborators

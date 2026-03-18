@@ -1,5 +1,3 @@
-![UI-UX-FRICTION-PLAYBOOK](images/UI-UX-FRICTION-PLAYBOOK.png)
-
 # UI/UX Friction Playbook — Human ↔ AI Co‑Work
 
 **Version:** 1.0  

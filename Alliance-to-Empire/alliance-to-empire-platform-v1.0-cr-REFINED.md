@@ -1,5 +1,3 @@
-![alliance-to-empire-platform-v1.0-cr-REFINED](images/alliance-to-empire-platform-v1.0-cr-REFINED.png)
-
 # Change Request v1.0 → v1.1 (REFINED)
 
 **Document:** Alliance to Empire Platform  

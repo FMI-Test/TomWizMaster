@@ -1,5 +1,3 @@
-![PROMPT-STYLE](images/PROMPT-STYLE.png)
-
 # Prompt Style — Fast, Clear, Multi‑Lingual
 
 **Version:** 1.0

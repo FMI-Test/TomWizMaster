@@ -1,5 +1,3 @@
-![BIRTHDAY-MILESTONE](images/BIRTHDAY-MILESTONE.png)
-
 # BIRTHDAY-MILESTONE.md 🎂
 ## The Birthday Protocol: A Promise to Self
 

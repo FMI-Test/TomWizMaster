@@ -1,5 +1,3 @@
-![alliance-to-empire-platform-v1.0](images/alliance-to-empire-platform-v1.0.png)
-
 # Alliance to Empire Platform
 ## From Gaming Community Feedback to Universal Ideation Engine
 

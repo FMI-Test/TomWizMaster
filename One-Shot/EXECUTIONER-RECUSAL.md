@@ -1,5 +1,3 @@
-![EXECUTIONER-RECUSAL](images/EXECUTIONER-RECUSAL.png)
-
 # EXECUTIONER-RECUSAL.md 🧑‍⚖️
 ![The Executioner's Exit](images/gemini-recusal.webp)
 ## Sua Sponte Recusal & Transfer of Authority

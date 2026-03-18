@@ -1,5 +1,3 @@
-![ONE-SHOT-PPOMPT](images/ONE-SHOT-PPOMPT.png)
-
 # One-Shot Prompt
 A one-shot prompt is a type of prompt used in natural language processing and machine learning where the model is provided with a single example or instance to learn from before being asked to perform a task. This approach is particularly useful in scenarios where there is limited data available for training, allowing the model to generalize from just one example.
 
