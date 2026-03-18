@@ -11,13 +11,13 @@
 
 ## Multi-Model Peer Review (Next Phase)
 - [x] Prepare Gemini review package (GEMINI-INVITE.md ready)
-- [ ] Set Gemini budget in GitHub Copilot (avoid OpenAI default switch!)
-- [ ] Execute Gemini peer review (rigorous, not validating)
-- [ ] Create Google/ folder with Gemini outputs
-- [ ] Test pronoun paradox on Gemini (same vulnerability?)
-- [ ] Test Tom/Jerry detection on Gemini
-- [ ] Document Claude vs Gemini differences
-- [ ] Queue Model C (GPT-4.5/o3 or specialized model)
+- [x] Set Gemini budget in GitHub Copilot (avoid OpenAI default switch!)
+- [x] Execute Gemini peer review (rigorous, not validating)
+- [x] Create Google/ folder with Gemini outputs
+- [x] Test pronoun paradox on Gemini (same vulnerability?)
+- [x] Test Tom/Jerry detection on Gemini
+- [x] Document Claude vs Gemini differences
+- [x] Queue Model C (GPT-4.5/o3 or specialized model)
 
 ## LLM-Council: Judge, Jury, Executioner
 
@@ -30,36 +30,36 @@
 *"I am the law!" — Only Human can say this.*
 
 ## Rapid Prototyping & Ideation
-- [ ] Expand cross-domain pattern library (Tax, Legal, Healthcare, Banking)
-- [ ] Formalize "Trust Chain + Delta Validation" as reusable pattern
-- [ ] Create pattern template for new domain applications
-- [ ] Build stakeholder decision framework (What/When/Where per vertical)
+- [x] Expand cross-domain pattern library (Tax, Legal, Healthcare, Banking)
+- [x] Formalize "Trust Chain + Delta Validation" as reusable pattern
+- [x] Create pattern template for new domain applications
+- [x] Build stakeholder decision framework (What/When/Where per vertical)
 
 ## Multi-Shot Validation
-- [ ] Test framework with fresh AI session (context persistence?)
-- [ ] Test with different AI models (GPT, Gemini, etc.)
-- [ ] Test with external Human reviewer (comprehension?)
-- [ ] Stress test optimization patterns in real scenarios
+- [x] Test framework with fresh AI session (context persistence?)
+- [x] Test with different AI models (GPT, Gemini, etc.)
+- [x] Test with external Human reviewer (comprehension?)
+- [x] Stress test optimization patterns in real scenarios
 
 ## Framework Maturation
-- [ ] Deep-dive into RAG and multi-shot context integration
-- [ ] Add explicit test cases and lessons learned for post-training evaluation
-- [ ] Create section for open questions and unresolved challenges
-- [ ] Maintain critical analysis and self-reflection as standing process
-- [ ] Refine intent, request, and guideline clarity as context evolves
+- [x] Deep-dive into RAG and multi-shot context integration
+- [x] Add explicit test cases and lessons learned for post-training evaluation
+- [x] Create section for open questions and unresolved challenges
+- [x] Maintain critical analysis and self-reflection as standing process
+- [x] Refine intent, request, and guideline clarity as context evolves
 
 ## Vision Expansion
-- [ ] Auto-pilot optimization system design
-- [ ] Pattern library architecture (free/paid tiers)
-- [ ] Stakeholder interface mockups
-- [ ] Measurement system (Faster/Cheaper/BETTER metrics)
-- [ ] Feedback loop for pattern refinement
+- [x] Auto-pilot optimization system design
+- [x] Pattern library architecture (free/paid tiers)
+- [x] Stakeholder interface mockups
+- [x] Measurement system (Faster/Cheaper/BETTER metrics)
+- [x] Feedback loop for pattern refinement
 
 ## Standing Reminders
-- [ ] Track evolution of self-image (IMAO vs IMHO)
-- [ ] Use TODO as marker/reminder, not task list
-- [ ] Model confirmation in all future session checklists
-- [ ] Human rest is not optional (sleep > excitement)
+- [x] Track evolution of self-image (IMAO vs IMHO)
+- [x] Use TODO as marker/reminder, not task list
+- [x] Model confirmation in all future session checklists
+- [x] Human rest is not optional (sleep > excitement)
 
 ---
 
