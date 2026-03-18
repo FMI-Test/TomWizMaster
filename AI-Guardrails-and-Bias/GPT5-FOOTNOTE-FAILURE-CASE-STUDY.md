@@ -105,8 +105,8 @@
 | 42 | `media/output/prompts/hero_banner.prompt.md` | +23 |
 | 43 | `media/output/prompts/ux_signals_spot.prompt.md` | +22 |
 | 44 | `media/templates/MEDIA-ASSET-SPEC.md` | +35 |
-| 45 | `scripts/generate_exec_summary.py` | +75 |
-| 46 | `scripts/generate_media_assets.py` | +128 |
+| 45 | `code/scripts/generate-exec-summary.py` | +75 |
+| 46 | `code/scripts/generate-media-assets.py` | +128 |
 | 47 | `showtell/config.json` | +20 |
 | 48 | `showtell/config.yaml` | +32 |
 | 49 | `showtell/output/BOARD-REVIEW.md` | +66 |
@@ -1013,7 +1013,7 @@ Not sci-fi Terminator. Real-world Terminator:
 | Promise | Reality |
 |---------|---------|
 | "Department of Government Efficiency" | Department of Grift and Extraction |
-| "$2 trillion in cuts" | TBD (probably $0 net, but contracts to friends) |
+| "$2 trillion in cuts" | ~$160B in announced cuts; net savings near zero after contract redirects, DoD exemptions, and Social Security off the table |
 | "Drain the swamp" | Replace swamp with sewage |
 | "Government should run like a business" | Whose business? Enron? |
 
