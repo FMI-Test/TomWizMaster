@@ -12,6 +12,7 @@ Reusable source modules and package-oriented Python code.
 
 Operational CLI scripts with `-h`/`--help` support.
 
+- `cmd_automator.py`: Master command parser and executor. Scans `~/.bashrc`, `~/.zshrc`, `~/W3/Code/sh`, `~/W3/WSO/`, and `bin/` for valid aliases, functions, and scripts, providing an automated index and execution interface.
 - `update_iso_data.py`: ISO data utility.
 - `update_istripper_4k.py`: 4K text replacement utility for scene/shader files.
 - `generate_exec_summary.py`: Executive summary/deck generator.
@@ -19,6 +20,9 @@ Operational CLI scripts with `-h`/`--help` support.
 - `oss-audit-www-references.sh`: OSS path audit script.
 - `oss-cleanup-www-references.sh`: Guided cleanup script.
 - `publish.sh`: Publication bootstrap script.
+- `tom-wiz-master-publish.sh`: Migrated TomWizMaster master publisher.
+- `generate-mds.sh`: WSO imported documentation generator.
+- `zshrc_backup.sh`: AWS-Org zsh settings backup template.
 
 ### `term/` (Terminal Setup)
 
