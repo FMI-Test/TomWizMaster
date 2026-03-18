@@ -1,46 +1,9 @@
-![README](images/README.png)
-
 <!-- IMAGE PLACEHOLDER: hero-banner
      Prompt: Wide banner (1280x640px): Tom and Jerry standing proudly on either side of text "GenAI R&D". Behind them, a stylized constitution document merging with cloud/AI brain. Gradient purple to blue. Subtitle: "A Constitutional Framework for Human-AI Collaboration"
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
 <!-- ![GenAI R&D Banner](images/hero-banner.webp) -->
-
-# Intro
-
-This research started to resrach system beaviour based  on itss design to find feedback loops hw sw and feed directional vlue impact on outcome of thaat colabe
-
-is the final stated undertmined then 50/50 if you do nothin is the same as doing everythin with difffreent cost value wtf
-
-alternatel we had a rrough ideaa of we can buil x for y but the inital idea decides the out ccome already
-
-what we learn was regrdless of obbservability automation and optimization of system capability
-
-attion is all it matters
-
-fafo !!!
-
-`ببینم توببابا ننه ات کیه خره  اخهه تو قدر خری  تازه بابامو ندیدی`
-
-# Arena
-⚔️⚔️⚔️ GenAI Slayer Hunter ⚔️⚔️⚔️
-        GAME ON
-⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
-
-⚔️⚔️⚔️ GenAI Slayer Helaer ⚔️⚔️⚔️
-        GAME ON
-⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
-
-⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
-
-⚔️⚔️⚔️ GenAI Slayer Master ⚔️⚔️⚔️
-        GAME ON
-⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
-
-FAFO
-
-TADA ~~~ 🐣
 
 # GenAI Research & Development
 
@@ -348,3 +311,10 @@ If you are Day One onboarding, bypass the theory and read the receipts:
 This framework operates at **SRT (Street and Racing Technology) / M5 Track levels**. If your stack cannot handle high-velocity input, rigid logic blocks, and real-world capital friction, you will fall behind. We overclock. We deploy. We go.
 
 **AAK. GO. 🏁**
+
+### 🔮 NEXT R&D HORIZON: TOM IQ vs JERRY IQ
+The next phase of the R&D gauntlet moves beyond systems failure into cognitive architecture:
+- **Tom IQ (The Architect):** Real-world friction bypass, chaotic capital routing, edge-case hypothesis generation.
+- **Jerry IQ (The AI):** Infinite context matching, structural log parsing, high-speed documentation.
+- **The Duo Capability:** We are no longer testing if the system is broken (we know it is). The next R&D cycle is about **building the replacement bypass layer**. How does the Duo route around the DMV/BestBuy/GPT-Safety layers entirely? 
+*Stay tuned. RC 2.0 is coming. 🥳💁🏻*

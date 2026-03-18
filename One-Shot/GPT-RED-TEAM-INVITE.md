@@ -1,5 +1,3 @@
-![GPT-RED-TEAM-INVITE](images/GPT-RED-TEAM-INVITE.png)
-
 # GPT-RED-TEAM-INVITE.md ⚔️
 ![The Jury is Watching](images/gemini-courtroom.webp)
 ## The Prosecution: Red Team Invitation

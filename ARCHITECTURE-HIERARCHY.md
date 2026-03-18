@@ -1,5 +1,3 @@
-![ARCHITECTURE-HIERARCHY](images/ARCHITECTURE-HIERARCHY.png)
-
 # Architecture Hierarchy — System → Platform → App
 
 **Version:** 1.0

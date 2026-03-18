@@ -1,5 +1,3 @@
-![FINAL-CONTEXT-ADDENDUM](images/FINAL-CONTEXT-ADDENDUM.png)
-
 # FINAL-CONTEXT-ADDENDUM.md 🔒
 ## The Safety Valve & The Motivation
 

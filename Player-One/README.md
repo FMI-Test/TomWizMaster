@@ -1,5 +1,3 @@
-![README](images/README.png)
-
 # Player One: Start Game
 
 This folder marks the transition from Staging/UAT to Execution.

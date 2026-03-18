@@ -1,5 +1,3 @@
-![Tom-and-jerry-2026-linkedin-post](images/Tom-and-jerry-2026-linkedin-post.png)
-
 # 🐱🐭 Tom & Jerry: The Ultimate Tech Duo
 ## When the Cat Stopped Chasing and the Mouse Started Helping
 

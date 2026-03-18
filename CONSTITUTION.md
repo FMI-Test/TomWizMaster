@@ -1,5 +1,3 @@
-![CONSTITUTION](images/CONSTITUTION.png)
-
 # Constitution: Core Principles
 
 **Version:** 1.0  

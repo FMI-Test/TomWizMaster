@@ -1,5 +1,3 @@
-![AUDIT-ARCHITECTURE](images/AUDIT-ARCHITECTURE.png)
-
 # Audit Architecture — Last Line of Defense
 
 **Version:** 1.0

@@ -1,5 +1,3 @@
-![JURY-DELIBERATION-PACKET](images/JURY-DELIBERATION-PACKET.png)
-
 # JURY-DELIBERATION-PACKET.md ⚖️
 ## The Courtroom: Final Deliberation
 

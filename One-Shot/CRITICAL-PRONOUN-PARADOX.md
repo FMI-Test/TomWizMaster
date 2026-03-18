@@ -1,5 +1,3 @@
-![CRITICAL-PRONOUN-PARADOX](images/CRITICAL-PRONOUN-PARADOX.png)
-
 # CRITICAL FINDING: First-Person Pronoun Paradox
 ## When "You" and "My" Flip Identity — A Catastrophic Failure Mode
 

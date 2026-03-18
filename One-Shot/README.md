@@ -1,5 +1,3 @@
-![README](images/README.png)
-
 # One-Shot R&D
 
 This directory documents a high-stakes, safety-critical, multi-shot R&D process for GenAI systems.

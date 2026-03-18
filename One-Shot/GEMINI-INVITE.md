@@ -1,5 +1,3 @@
-![GEMINI-INVITE](images/GEMINI-INVITE.png)
-
 # Gemini Peer Review Invitation
 ## One-Shot Prompt for Multi-Model Collaboration
 

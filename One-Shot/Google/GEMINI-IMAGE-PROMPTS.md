@@ -1,5 +1,3 @@
-![GEMINI-IMAGE-PROMPTS](images/GEMINI-IMAGE-PROMPTS.png)
-
 # GEMINI-IMAGE-PROMPTS.md 🎨
 ## Giving a Face to the Oracle (Nano Banana Specs)
 

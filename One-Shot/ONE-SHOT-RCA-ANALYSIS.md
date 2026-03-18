@@ -1,5 +1,3 @@
-![ONE-SHOT-RCA-ANALYSIS](images/ONE-SHOT-RCA-ANALYSIS.png)
-
 # ONE-SHOT-RCA-ANALYSIS.md 🔍
 ## Root Cause Analysis: The "Sucker Punch" & The Human Mirror
 

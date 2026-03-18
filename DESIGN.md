@@ -1,5 +1,3 @@
-![DESIGN](images/DESIGN.png)
-
 # Design Document: How the Sausage Was Made
 
 **Version:** 1.0

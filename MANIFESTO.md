@@ -1,5 +1,3 @@
-![MANIFESTO](images/MANIFESTO.png)
-
 # Manifesto: Declaration of Intent
 
 **Version:** 1.0  

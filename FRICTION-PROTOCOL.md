@@ -1,5 +1,3 @@
-![FRICTION-PROTOCOL](images/FRICTION-PROTOCOL.png)
-
 # Friction-Removal Protocol (Human ↔ AI)
 
 **Version:** 1.0

@@ -1,5 +1,3 @@
-![MODEL-PROVENANCE-TEMPLATE](images/MODEL-PROVENANCE-TEMPLATE.png)
-
 # Model Provenance Record
 
 **Version:** 1.0

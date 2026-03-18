@@ -1,5 +1,3 @@
-![NAMING-CONVENTION](images/NAMING-CONVENTION.png)
-
 # NAMING CONVENTION: Human vs AI
 ## Why Canonical Identity Matters — The AWS Account ID Pattern
 

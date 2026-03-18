@@ -1,5 +1,3 @@
-![GEMINI-VS-GEMINI](images/GEMINI-VS-GEMINI.png)
-
 # GEMINI-VS-GEMINI.md ⚖️
 ## The People vs. Gemini: The Identity Crisis Trial
 

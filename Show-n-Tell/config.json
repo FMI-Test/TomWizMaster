@@ -1,0 +1,20 @@
+{
+  "title": "GenAI R&D — Show & Tell",
+  "exec_summary_sources": [
+    "README.md",
+    "COMPLIANCE.md",
+    "FRICTION-PROTOCOL.md",
+    "AUDIT-ARCHITECTURE.md"
+  ],
+  "deck_sections": [
+    { "title": "Overview", "file": "README.md" },
+    { "title": "Guardrails", "file": "GUARDRAILS.md" },
+    { "title": "Friction Protocol", "file": "FRICTION-PROTOCOL.md" },
+    { "title": "Audit Architecture", "file": "AUDIT-ARCHITECTURE.md" }
+  ],
+  "emoji_palette": "EMOJI-PALETTE.yaml",
+  "output": {
+    "exec_summary": "showtell/output/EXEC-SUMMARY.md",
+    "deck": "showtell/output/SLIDE-DECK.md"
+  }
+}

@@ -1,5 +1,3 @@
-![TODO](images/TODO.png)
-
 # TODO: Next-Level R&D Markers
 
 ## Immediate (Session Complete)
