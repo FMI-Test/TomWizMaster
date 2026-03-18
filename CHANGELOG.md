@@ -78,3 +78,15 @@ All notable changes to this repository are documented in this file.
 
 ### Fixed
 - Prevented self-referential audit noise from generated reports
+
+## [1.4.0] - 2026-03-18
+
+### Added
+- **`cmd_automator.py`**: Added master script cross-environment execution parser that aggregates tools and scripts from `~/.bashrc`, `~/.zshrc`, `W3/WSO/JavaScript/bin`, and `W3/Code` dynamically.
+- Migrated legacy shell execution context dependencies (`zshrc_backup.sh`, `tom-wiz-master-publish.sh`, `tom-wiz-master-update-iso-data.py`, `generate-mds.sh`) to structured `bin/` layer.
+- **Dependency Automation**: Added recursive system discovery for functions and aliases enabling frictionless AI environment setup.
+
+### Changed
+- Finalized One-Shot session markers (all TODO tracking).
+- Synchronized missing pipeline tools directly into core repo.
+- "AAK FIN UPDATE MD FILES & DEPENDENCIES" lifecycle completion block.
