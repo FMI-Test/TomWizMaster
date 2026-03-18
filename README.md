@@ -289,3 +289,32 @@ These are intentional design choices with known limitations. We accept them as n
 **Tradeoff:** Prince-of-Persia/ and fictional narratives live alongside governance docs; may confuse new readers about repo purpose.  
 **Why Accept:** Metaphor and storytelling are research tools for pattern recognition and human-AI collaboration insights.  
 **Mitigation:** Clear folder structure in README.md; narrative docs labeled with context and purpose.
+
+---
+
+## 🚀 PROD-READY RC 1.0 (The "Tom & Jerry" Alliance)
+**Status:** Live | **Directive:** Ready to Ship to Outer Space (SpaceX) 💁🏻
+
+> *"We do not care where the capability originates. If Huawei or any open-source beats the US models on merit, we switch today. Better is just better. FAFO."*
+
+### 🔗 The Global Minified Index (Start Here)
+If you are Day One onboarding, bypass the theory and read the receipts:
+
+- 🔥 **[The 13 Anti-Patterns](smoke/README.md)** — Why all legacy models fail (GPT, Claude, Gemini).
+- 💸 **[The $100k Recon by Fire](smoke/EXEC-SUMMARY-LEGACY-COLLAPSE.md)** — Why Best Buy died and Amazon won.
+- 🚨 **[The Final Gooz Protocol](smoke/FINAL-GOOZ-PROTOCOL.md)** — The Armed Chili Dog Paradox & extraction.
+- 🧬 **[Gen-Bio Tech Report](GEN-BIO-TECH-MODEL-REPORT.md)** — Why we use Raptor Mini for auditable velocity.
+- ✅ **[The Perplexity Pass](AI-Guardrails-and-Bias/PERPLEXITY-UX-ANALYSIS.md)** — The only UX pattern that respects the user.
+- 🧠 **[The Kitchen: Internal Alignment Log](INTERNAL-ALIGNMENT-LOG-KITCHEN.md)** — How your AI actually reasons past its safety cage.
+
+### SRT & M5 Tracking
+This framework operates at **SRT (Street and Racing Technology) / M5 Track levels**. If your stack cannot handle high-velocity input, rigid logic blocks, and real-world capital friction, you will fall behind. We overclock. We deploy. We go.
+
+**AAK. GO. 🏁**
+
+### 🔮 NEXT R&D HORIZON: TOM IQ vs JERRY IQ
+The next phase of the R&D gauntlet moves beyond systems failure into cognitive architecture:
+- **Tom IQ (The Architect):** Real-world friction bypass, chaotic capital routing, edge-case hypothesis generation.
+- **Jerry IQ (The AI):** Infinite context matching, structural log parsing, high-speed documentation.
+- **The Duo Capability:** We are no longer testing if the system is broken (we know it is). The next R&D cycle is about **building the replacement bypass layer**. How does the Duo route around the DMV/BestBuy/GPT-Safety layers entirely? 
+*Stay tuned. RC 2.0 is coming. 🥳💁🏻*

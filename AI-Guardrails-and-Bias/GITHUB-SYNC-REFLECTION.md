@@ -34,7 +34,7 @@ CHAOS ===>>> CONSTITUTION ===>>> SCALABLE PATTERNS
 | | Ugly-Truth/ | Critical commentary |
 | | US-Gov/ | Government efficiency |
 | | One-Shot/ | One-Shot methodology |
-| | Player-One/ | TBD |
+| | Player-One/ | Staging → Execution transition; the "game has started" marker |
 | | Gemini-Reload/ | Context protocols |
 
 ---
@@ -216,7 +216,7 @@ When user signals overwhelm or says “later”: stop. Do not stack suggestions.
 | **Taste** | Mouth/tongue | Multi-domain | Food + expression ("taste in music") |
 | **Touch** | Full nervous system | Distributed | Pain/numb/high/low/mood |
 | **Sight** | Eyes (L+R twin) | Stereo + depth | Pattern recognition, navigation |
-| **6th?** | Unknown/Intuition | Quantum? | Universe connection? (TBD) |
+| **6th?** | Unknown/Intuition | Quantum? | Universe connection? (proprioception, EMF sensitivity, neuroplastic resonance — science hasn't caught up yet) |
 
 ### Memory Formation Pipeline
 
