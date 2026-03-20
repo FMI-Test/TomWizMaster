@@ -83,12 +83,14 @@ MORE MORE MORE GOGOGOGOGOG!
 ## Further Readings & Essays 
 * [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
 * [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
+* [The Purity Protocol: Think Pure, Talk Pure, Act Pure](PURITY-PROTOCOL.md)
+* [Release Candidate (RC) V 3.0: The Infinite Scale Architecture](RC-V-3.0.md)
 
 ## Read Book & TomWizMaster Repo
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
 
-## Purity Protocolo
+## Purity Protocol
 Think Pure, Talk Pure, Act Pure
-پندار نیک، رفتار نیک، پندار نیک
+پندار نیک، گفتار نیک، کردار نیک
 
 
