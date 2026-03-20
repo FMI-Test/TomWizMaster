@@ -48,6 +48,17 @@ You don't force hyper-productive tier-0 engineers to write docs.
 * **The Hack:** Shadow them. Make them record a Loom video while they blast through the task. Pair them with a junior whose *only mission* is to document their every move. Then, take that tacit knowledge and BAKE IT INTO THE IAC OR PIPELINE. Let the system enforce the SOP.
 
 ### 7. Core Delivery KPIs (The Blood Work)
+Vanity metrics hide failure. These are the brutal metrics to govern throughput:
+* **Cycle Time:** From the moment code is committed to deployment in production. Shrink this to minutes.
+* **Deployment Frequency:** How often we ship. High frequency equals low risk.
+* **Change Failure Rate:** When we push, does it break? Tracked ruthlessly.
+* **Mean Time To Recovery (MTTR):** We accept failure, but we demand immediate resurrection.
+
+### 8. Automation or Extinction
+* **The Rule:** If an operation is performed manually more than twice, it gets codified.
+* **Infrastructure as Code (IaC):** Terraform, CloudFormation, Bicep. Not clicking in the console. Hand-crafted environments are legacy artifacts; they are destroyed and replaced with templates.
+
+*This isn't managing. This is warfare. Command the board.*
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 
 * **Resource Utilization:** Are our top tier engineers burning out while others coast? 
@@ -68,3 +79,6 @@ QA isn't a final check; it's a continuous, unrelenting force.
 * **Min 40-60 (Execution & Autopsy):** Kill the 2-3 genuinely critical items. Once stabilized, execute a blistering post-mortem to discover why the automated guardrails didn't catch 30 massive failures before they hit. 
 
 MORE MORE MORE GOGOGOGOGOG!
+
+## Read Book & TomWizMaster Repo
+How Many Accidents? Or Pure planing or When all Things Considered Comes Together. Who did Universe Build MeUsThemOursTheirs It!?

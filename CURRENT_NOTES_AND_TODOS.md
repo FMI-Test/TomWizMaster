@@ -1,15 +1,15 @@
 # Workspace Notes & Todos Summary
 
-**Last Updated:** 2026-02-08
+**Last Updated:** 2026-03-19
 
 ## Recent Updates
+- Completed `FirED🫦😜💕/README.md` Sec 7 & 8 (KPIs & Automation).
+- Ran full repo audit and published updated `REPO-INTEGRITY-AUDIT.md`.
+- Consolidated release notes into `CHANGELOG.md` under an Unreleased block.
+- Drafted Prince of Persia progression.
 - RC 1.2.1 report drafted and bound to AAK log.
-- README Cons section updated.
-- Prince of Persia Chapter 2 draft created.
 
 ## Todos
-- Run full repo audit and publish updated audit report.
-- Consolidate release notes into a single changelog.
 - Review metadata consistency (Version/Status/Last Updated) across core docs.
 
 ## Gaps

@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased] - 2026-03-19
+
+### Added
+- Updated `CURRENT_NOTES_AND_TODOS.md` status.
+- Ran full repo audit via `repo_audit.py` updating `REPO-INTEGRITY-AUDIT.md`.
+- Finished Section 7 (Core Delivery KPIs) and Section 8 (Automation) in `FirED🫦😜💕/README.md`.
+- Advanced Prince of Persia Chapter draft.
+
 All notable changes to this repository are documented in this file.
 
 ## [1.3.0-rc1] - 2026-02-08
