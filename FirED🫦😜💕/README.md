@@ -1,7 +1,7 @@
 Code: 531 019 
 Call: 800 741-7610
 
-Lead Org of 350 FTE & Contractors as a Project Lead (My Official Title in TechM) in Tech Mahindra and contracted TO GE ... Soon I owened th end to end CoreTech Tier 0 Access, Control, & Authority become Trusted Advisor responsible for CoreTech then Migration of 100s AWS Accounts and Orgs and this SH* & TH* SH* to GE Vernova (Enegry & Nuclear) with Comm & GOV-Cloud AWS Accounts etc. GE HealhtCare with its CT Scans and ... to GE Aerospace whihc makes Jet Engine for DoD, Air Force One, & Boeing hence Gov-Cloud Regions & Regulation with NIST, Compliance, Cyber, GuardRails and coding all as fully automated a XXLarge Scele Mission Impossible.
+Lead Org of 350 FTE & Contractors as a Project Lead (My Official Title in TechM) in Tech Mahindra and contracted TO GE ... Soon I owned the end-to-end CoreTech Tier 0 Access, Control, & Authority, becoming a Trusted Advisor responsible for CoreTech, then Migration of 100s of AWS Accounts and Orgs and this SH* & TH* SH* to GE Vernova (Energy & Nuclear) with Comm & GOV-Cloud AWS Accounts etc. GE HealthCare with its CT Scans and ... to GE Aerospace which makes Jet Engines for DoD, Air Force One, & Boeing hence Gov-Cloud Regions & Regulation with NIST, Compliance, Cyber, GuardRails and coding all as fully automated a XXLarge Scale Mission Impossible.
 
 More Money ... Money Money Money 
 https://www.youtube.com/watch?v=ETxmCCsMoD0&list=RDETxmCCsMoD0&start_radio=1
