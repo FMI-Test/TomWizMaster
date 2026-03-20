@@ -80,5 +80,15 @@ QA isn't a final check; it's a continuous, unrelenting force.
 
 MORE MORE MORE GOGOGOGOGOG!
 
+## Further Readings & Essays 
+* [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
+* [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
+
 ## Read Book & TomWizMaster Repo
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
+
+## Purity Protocolo
+Think Pure, Talk Pure, Act Pure
+پندار نیک، رفتار نیک، پندار نیک
+
+
