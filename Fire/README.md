@@ -17,7 +17,7 @@ GOGOGOGOGOG AAK FIN!? AK
 # 🚀 THE XXLARGE-SCALE MISSION IMPOSSIBLE PLAYBOOK 🚀
 *How to Lead 350+ FTEs & Dominate Tier 0 Access across GE Vernova, HealthCare, & Aerospace*
 
-![MIx](images/MIx.png)
+![Mix](images/Mix.jpg)
 
 When you're migrating hundreds of Gov-Cloud AWS accounts, handling DoD compliance, and answering for Air Force One jet engine tech—you don't just "manage" work. YOU DOMINATE IT. 
 
@@ -25,7 +25,7 @@ Here is the weaponized, ultra-high-octane blueprint for operational supremacy an
 
 ### 1. The Relentless Operating Cadence
 
-![Cadence](images/Cadence.png)
+![Cadence](images/Cadence.jpg)
 
 A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 * **Daily (15-Min Blitz):** Async or sync stand-ups. Purely blockers. No BS status updates. If you aren't blocked, stay heads down. 
@@ -70,7 +70,7 @@ You don't force hyper-productive tier-0 engineers to write docs.
 
 ### 7. Core Delivery KPIs (The Blood Work)
 
-![KPI](images/KPI.png)
+![KPI](images/KPI.jog)
 
 Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 * **Cycle Time:** From the moment code is committed to deployment in production. Shrink this to minutes.
@@ -80,14 +80,14 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 8. Automation or Extinction
 
-![Automation](images/Automation.png)
+![Automation](images/Automation.jpg)
 
 * **The Rule:** If an operation is performed manually more than twice, it gets codified.
 * **Infrastructure as Code (IaC):** Terraform, CloudFormation, Bicep. Not clicking in the console. Hand-crafted environments are legacy artifacts; they are destroyed and replaced with templates.
 
 *This isn't managing. This is warfare. Command the board.*
 
-![Skirmish](images/Skirmish.png)
+![Skirmish](images/Skirmish.jpg)
 
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 
@@ -96,21 +96,21 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 8. Shift-Left QA for Gov-Cloud & Infrastructure
 
-![QA](images/QA.png)
+![QA](images/QA.jpg)
 
 QA isn't a final check; it's a continuous, unrelenting force.
 * **The Process:** Automated GuardRails for NIST, compliance, and cyber baked into the CI/CD pipeline. Peer-review gates *before* formal QA. If it doesn't meet the "Definition of Done," the pipeline snaps it in half.
 
 ### 9. Commanding Global Teams Across Time Zones
 
-![Commanders](images/Commanders.png)
+![Commanders](images/Commanders.jpg)
 
 * **The Philosophy:** Default asynchronous and FLAWLESS hand-offs.
 * **The Execution:** Strict "core overlapping hours" for unblocking fires. The rest is pure, uninterrupted DEEP WORK. End-of-day hand-offs must be surgically precise—links, state, explicit next commands—so the next time zone grabs the baton at full sprint.
 
 ### 10. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
 
-![Commanders](images/Commanders.png)
+![Commanders](images/Commanders.jpg)
 
 * **Min 0-10 (Containment):** Establish the blast radius. Is GE Healthcare or Vernova down? Find the common root cause. 
 * **Min 10-20 (Comms):** Broadcast the holding statement. "Fires acknowledged. Assessing impact. ETAs imminent." Stop the stakeholder panic.
@@ -121,7 +121,7 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Further Readings & Essays 
 
-![Commanders](images/Commanders.png)
+![Commanders](images/Commanders.jpg)
 
 * [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
 * [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
@@ -130,13 +130,13 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Read Book & TomWizMaster Repo
 
-![Commanders](images/Commanders.png)
+![Commanders](images/Commanders.jpg)
 
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
 
 ## Purity Protocol
 
-![Commanders](images/Commanders.png)
+![Commanders](images/Commanders.jpg)
 
 Think Pure, Talk Pure, Act Pure
 پندار نیک، گفتار نیک، کردار نیک
