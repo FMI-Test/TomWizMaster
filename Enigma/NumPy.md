@@ -1,5 +1,5 @@
 # Number Statioan
-![Chronicles_of_the_Azure_Horizon](images/Chronicles_of_the_Azure_Horizon.mp4)
+![Chronicles_of_the_Azure_Horizon](images/Tiger2HumoDeus.png)
 
 https://www.radiozamaneh.com/882372
 https://github.com/FMI-Test/TomWizMaster
