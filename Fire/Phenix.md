@@ -174,8 +174,8 @@ The same pattern that applied to California applied to Iran through Alexander, t
 | **Intelligence failure** | Warnings ignored | Warnings ignored | Warnings ignored |
 | **Response** | Total war (Pacific + Europe) | "War on Terror" (Afghanistan + Iraq) | Gaza ground invasion |
 | **Overreaction?** | Japanese internment camps | Patriot Act, Iraq War | Civilian casualties in Gaza |
-| **Long-term outcome** | US global superpower | Endless wars, $8T spent, ISIS emerged | Regional escalation, TBD |
-| **Who benefited** | Military-industrial complex | Defense contractors, surveillance state | TBD |
+| **Long-term outcome** | US global superpower | Endless wars, $8T spent, ISIS emerged | Regional escalation, To Be Determined |
+| **Who benefited** | Military-industrial complex | Defense contractors, surveillance state | To Be Determined |
 
 **The pattern: Shock → Mobilization → Overreaction → Blowback → New enemies created.**
 
