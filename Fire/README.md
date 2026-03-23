@@ -35,7 +35,7 @@ A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 
 ### 2. ONE Single Source of Truth & FORCED Adoption
 
-![Adoption](images/pipeines.png)
+![Adoption](images/pipelines.png)
 
 * **The Weapon:** Jira/Asana injected straight into the core communication stack and repositories.
 * **Forcing It:** Mandates are weak. You drive adoption by making the tool the *ONLY* path to survival. "If it’s not in the system, IT DOES NOT EXIST." Automate ticket creation directly from deployment pipelines so the makers don't even have to lift a finger. Zero admin burden, total compliance.
@@ -121,7 +121,7 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Further Readings & Essays 
 
-![Infrastructure](images/pipeines.png)
+![Infrastructure](images/pipelines.png)
 
 * [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
 * [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
