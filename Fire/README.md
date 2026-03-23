@@ -17,7 +17,7 @@ GOGOGOGOGOG AAK FIN!? AK
 # 🚀 THE XXLARGE-SCALE MISSION IMPOSSIBLE PLAYBOOK 🚀
 *How to Lead 350+ FTEs & Dominate Tier 0 Access across GE Vernova, HealthCare, & Aerospace*
 
-![Mix](images/MIx.png)
+![Mix](images/Mix.png)
 
 When you're migrating hundreds of Gov-Cloud AWS accounts, handling DoD compliance, and answering for Air Force One jet engine tech—you don't just "manage" work. YOU DOMINATE IT. 
 
