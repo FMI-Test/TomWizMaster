@@ -7,13 +7,11 @@ Security fixes are released for the latest published version. Users running olde
 versions are encouraged to upgrade to the most recent release to receive security updates.
 ## Reporting a Vulnerability
 
-If you believe you have found a security vulnerability in this project, please report it **privately** using one of the following methods:
+If you believe you have found a security vulnerability in this project, please report it **privately** using GitHub Security Advisories:
 
 - **GitHub Security Advisories**: Use the “Report a vulnerability” link in the **Security** tab of this repository to open a private security advisory with the maintainers.
-- **Email**: Send details to our security contact at `security@example.com`.
 
 When reporting, please include as much of the following information as possible:
-
 - A clear description of the issue and its potential impact.
 - Steps to reproduce the vulnerability, including any sample code, payloads, or configuration needed.
 - The version(s) of the project you tested, and relevant environment details (OS, language/runtime versions, configuration).
