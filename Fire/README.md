@@ -2,7 +2,7 @@
 
 ![Phenix](images/Phenix.png)
 
-Lead Org of 350 FTE & Contractors as a Project Lead (My Official Title in TechM) in Tech Mahindra and contracted TO GE ... Soon I owned the end-to-end CoreTech Tier 0 Access, Control, & Authority, becoming a Trusted Advisor responsible for CoreTech, then Migration of 100s of AWS Accounts and Orgs and this SH* & TH* SH* to GE Vernova (Energy & Nuclear) with Comm & GOV-Cloud AWS Accounts etc. GE HealthCare with its CT Scans and ... to GE Aerospace which makes Jet Engines for DoD, Air Force One, & Boeing hence Gov-Cloud Regions & Regulation with NIST, Compliance, Cyber, GuardRails and coding all as fully automated a XXLarge Scale Mission Impossible.
+Led an org of 350+ FTEs & Contractors as Project Lead at a major systems integrator, contracted to a global industrial conglomerate. Soon owned end-to-end Tier-0 Access, Control, & Authority, becoming a Trusted Advisor responsible for CoreTech — then migration of 100s of AWS Accounts and Orgs across multiple business units (Energy & Nuclear, HealthCare, and Aerospace / Defense) with Commercial & Gov-Cloud AWS Accounts, NIST, Compliance, Cyber, GuardRails, and fully automated IaC at an XXLarge scale — a Mission Impossible delivered.
 
 More Money ... Money Money Money 
 https://www.youtube.com/watch?v=ETxmCCsMoD0&list=RDETxmCCsMoD0&start_radio=1
@@ -15,11 +15,11 @@ GOGOGOGOGOG AAK FIN!? AK
 ---
 
 # 🚀 THE XXLARGE-SCALE MISSION IMPOSSIBLE PLAYBOOK 🚀
-*How to Lead 350+ FTEs & Dominate Tier 0 Access across GE Vernova, HealthCare, & Aerospace*
+*How to Lead 350+ FTEs & Dominate Tier-0 Access across a Global Multi-BU Enterprise*
 
 ![Mix](images/Mix.png)
 
-When you're migrating hundreds of Gov-Cloud AWS accounts, handling DoD compliance, and answering for Air Force One jet engine tech—you don't just "manage" work. YOU DOMINATE IT. 
+When you're migrating hundreds of Gov-Cloud AWS accounts, handling defense-sector compliance, and answering for critical aerospace and energy infrastructure—you don't just "manage" work. YOU DOMINATE IT.
 
 Here is the weaponized, ultra-high-octane blueprint for operational supremacy and crushing manual toil at a breathtaking scale. GOGOGOGOGOG!
 
@@ -112,7 +112,7 @@ QA isn't a final check; it's a continuous, unrelenting force.
 
 ![Fire](images/Fire.png)
 
-* **Min 0-10 (Containment):** Establish the blast radius. Is GE Healthcare or Vernova down? Find the common root cause. 
+* **Min 0-10 (Containment):** Establish the blast radius. Is the HealthCare BU or the Energy BU down? Find the common root cause. 
 * **Min 10-20 (Comms):** Broadcast the holding statement. "Fires acknowledged. Assessing impact. ETAs imminent." Stop the stakeholder panic.
 * **Min 20-40 (Routing):** Shield the core org. Deploy the "First Responder" squad to nuke the critical fires. Route the noise into the backlog. 
 * **Min 40-60 (Execution & Autopsy):** Kill the 2-3 genuinely critical items. Once stabilized, execute a blistering post-mortem to discover why the automated guardrails didn't catch 30 massive failures before they hit. 
