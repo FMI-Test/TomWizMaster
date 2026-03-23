@@ -21,7 +21,7 @@ You can only Fire & Forget if you have:
 
 ### ETF: The Financial Fire & Forget
 
-![ETF VGT](images/etf-vgt'.png)
+![ETF VGT](images/etf-vgt.png)
 
 ETFs (Exchange-Traded Funds) are the financial implementation of Fire & Forget:
 - Define the strategy (VGT, VOO, SCHD)
