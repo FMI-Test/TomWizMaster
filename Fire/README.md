@@ -94,21 +94,21 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 * **Resource Utilization:** Are our top tier engineers burning out while others coast? 
 * **Rework/Defect Rate:** What percentage of our code gets kicked back by Cyber, NIST, or QA? Identify the systemic failures and crush them.
 
-### 8. Shift-Left QA for Gov-Cloud & Infrastructure
+### 9. Shift-Left QA for Gov-Cloud & Infrastructure
 
 ![QA](images/gr.png)
 
 QA isn't a final check; it's a continuous, unrelenting force.
 * **The Process:** Automated GuardRails for NIST, compliance, and cyber baked into the CI/CD pipeline. Peer-review gates *before* formal QA. If it doesn't meet the "Definition of Done," the pipeline snaps it in half.
 
-### 9. Commanding Global Teams Across Time Zones
+### 10. Commanding Global Teams Across Time Zones
 
 ![Commanding](images/comeion.png)
 
 * **The Philosophy:** Default asynchronous and FLAWLESS hand-offs.
 * **The Execution:** Strict "core overlapping hours" for unblocking fires. The rest is pure, uninterrupted DEEP WORK. End-of-day hand-offs must be surgically precise—links, state, explicit next commands—so the next time zone grabs the baton at full sprint.
 
-### 10. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
+### 11. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
 
 ![Fire](images/Fire.png)
 
