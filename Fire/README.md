@@ -42,7 +42,7 @@ A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 
 ### 3. Nuking Chronically Late Projects
 
-![Nuke](images/Extintion.png)
+![Nuke](images/Extinction.png)
 
 * **The Problem:** Scope bleed and start-stop dependencies waiting on other teams.
 * **The Kill Shot:** IRONCLAD Work-In-Progress (WIP) limits. A ruthless "Definition of Ready." Nothing enters execution until all assets and requirements are locked in a vault. Decouple dependencies, explode the throughput.
@@ -87,7 +87,7 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 *This isn't managing. This is warfare. Command the board.*
 
-![Extinction](images/Extintion.png)
+![Extinction](images/Extinction.png)
 
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 

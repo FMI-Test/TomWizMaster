@@ -35,7 +35,7 @@ Dollar-cost averaging IS Fire & Forget for money. The same asynchronous pattern.
 
 # Zero Tolerance
 
-![Infrastructure](images/pipeines.png)
+![Infrastructure](images/pipelines.png)
 
 Means Zero Tolerance for any **Architectural Failure**. 
 
