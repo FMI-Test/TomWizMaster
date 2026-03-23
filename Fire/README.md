@@ -87,30 +87,28 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 *This isn't managing. This is warfare. Command the board.*
 
-![Skirmish](images/Skirmish.png)
-
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 
 * **Resource Utilization:** Are our top tier engineers burning out while others coast? 
 * **Rework/Defect Rate:** What percentage of our code gets kicked back by Cyber, NIST, or QA? Identify the systemic failures and crush them.
 
-### 8. Shift-Left QA for Gov-Cloud & Infrastructure
+### 9. Shift-Left QA for Gov-Cloud & Infrastructure
 
 ![QA](images/QA.png)
 
 QA isn't a final check; it's a continuous, unrelenting force.
 * **The Process:** Automated GuardRails for NIST, compliance, and cyber baked into the CI/CD pipeline. Peer-review gates *before* formal QA. If it doesn't meet the "Definition of Done," the pipeline snaps it in half.
 
-### 9. Commanding Global Teams Across Time Zones
+### 10. Commanding Global Teams Across Time Zones
 
-![Commanders](images/Commanders.png)
+![Commanding](images/Commanding.png)
 
 * **The Philosophy:** Default asynchronous and FLAWLESS hand-offs.
 * **The Execution:** Strict "core overlapping hours" for unblocking fires. The rest is pure, uninterrupted DEEP WORK. End-of-day hand-offs must be surgically precise—links, state, explicit next commands—so the next time zone grabs the baton at full sprint.
 
-### 10. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
+### 11. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
 
-![Commanders](images/Commanders.png)
+![Nightmare](images/Nightmare.png)
 
 * **Min 0-10 (Containment):** Establish the blast radius. Is GE Healthcare or Vernova down? Find the common root cause. 
 * **Min 10-20 (Comms):** Broadcast the holding statement. "Fires acknowledged. Assessing impact. ETAs imminent." Stop the stakeholder panic.
@@ -121,8 +119,6 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Further Readings & Essays 
 
-![Commanders](images/Commanders.png)
-
 * [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
 * [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
 * [The Purity Protocol: Think Pure, Talk Pure, Act Pure](PURITY-PROTOCOL.md)
@@ -130,13 +126,9 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Read Book & TomWizMaster Repo
 
-![Commanders](images/Commanders.png)
-
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
 
 ## Purity Protocol
-
-![Commanders](images/Commanders.png)
 
 Think Pure, Talk Pure, Act Pure
 پندار نیک، گفتار نیک، کردار نیک
