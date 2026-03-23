@@ -9,7 +9,7 @@
 
 ---
 
-![Gemini Is Watching](images/gemini-watching.webp)  
+![Gemini Is Watching](../images/gemini-owl-avatar.webp)  
 *Coming soon: The owl watches...*
 
 ---

@@ -17,7 +17,7 @@ GOGOGOGOGOG AAK FIN!? AK
 # 🚀 THE XXLARGE-SCALE MISSION IMPOSSIBLE PLAYBOOK 🚀
 *How to Lead 350+ FTEs & Dominate Tier 0 Access across GE Vernova, HealthCare, & Aerospace*
 
-![MIx](images/MIx.png)
+![Mix](images/Mix.png)
 
 When you're migrating hundreds of Gov-Cloud AWS accounts, handling DoD compliance, and answering for Air Force One jet engine tech—you don't just "manage" work. YOU DOMINATE IT. 
 
@@ -25,7 +25,7 @@ Here is the weaponized, ultra-high-octane blueprint for operational supremacy an
 
 ### 1. The Relentless Operating Cadence
 
-![Cadence](images/Cadence.png)
+![Cadence](images/itil.png)
 
 A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 * **Daily (15-Min Blitz):** Async or sync stand-ups. Purely blockers. No BS status updates. If you aren't blocked, stay heads down. 
@@ -35,21 +35,21 @@ A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 
 ### 2. ONE Single Source of Truth & FORCED Adoption
 
-![Adoption](images/Adoption.png)
+![Adoption](images/pipelines.png)
 
 * **The Weapon:** Jira/Asana injected straight into the core communication stack and repositories.
 * **Forcing It:** Mandates are weak. You drive adoption by making the tool the *ONLY* path to survival. "If it’s not in the system, IT DOES NOT EXIST." Automate ticket creation directly from deployment pipelines so the makers don't even have to lift a finger. Zero admin burden, total compliance.
 
 ### 3. Nuking Chronically Late Projects
 
-![Nuke](images/Nuke.png)
+![Nuke](images/Extintion.png)
 
 * **The Problem:** Scope bleed and start-stop dependencies waiting on other teams.
 * **The Kill Shot:** IRONCLAD Work-In-Progress (WIP) limits. A ruthless "Definition of Ready." Nothing enters execution until all assets and requirements are locked in a vault. Decouple dependencies, explode the throughput.
 
 ### 4. PMs: From "Message Passers" to BATTLE COMMANDERS
 
-![PM](images/PM.png)
+![PM](images/Priority.png)
 
 PMs who don't understand the underlying architecture are useless routers.
 * **The Evolution:** PMs become Product Owners and absolute gatekeepers. They shield the production team from the noise. They take raw requests, translate them into hardcore technical specifications, and violently push back on undocumented garbage. Makers only see clean, actionable specs.
@@ -70,7 +70,7 @@ You don't force hyper-productive tier-0 engineers to write docs.
 
 ### 7. Core Delivery KPIs (The Blood Work)
 
-![KPI](images/KPI.png)
+![KPI](images/vgt.png)
 
 Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 * **Cycle Time:** From the moment code is committed to deployment in production. Shrink this to minutes.
@@ -80,12 +80,14 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 8. Automation or Extinction
 
-![Automation](images/Automation.png)
+![Automation](images/python.png)
 
 * **The Rule:** If an operation is performed manually more than twice, it gets codified.
 * **Infrastructure as Code (IaC):** Terraform, CloudFormation, Bicep. Not clicking in the console. Hand-crafted environments are legacy artifacts; they are destroyed and replaced with templates.
 
 *This isn't managing. This is warfare. Command the board.*
+
+![Extinction](images/Extintion.png)
 
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 
@@ -94,21 +96,21 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 9. Shift-Left QA for Gov-Cloud & Infrastructure
 
-![QA](images/QA.png)
+![QA](images/gr.png)
 
 QA isn't a final check; it's a continuous, unrelenting force.
 * **The Process:** Automated GuardRails for NIST, compliance, and cyber baked into the CI/CD pipeline. Peer-review gates *before* formal QA. If it doesn't meet the "Definition of Done," the pipeline snaps it in half.
 
 ### 10. Commanding Global Teams Across Time Zones
 
-![Commanding](images/Commanding.png)
+![Commanding](images/comeion.png)
 
 * **The Philosophy:** Default asynchronous and FLAWLESS hand-offs.
 * **The Execution:** Strict "core overlapping hours" for unblocking fires. The rest is pure, uninterrupted DEEP WORK. End-of-day hand-offs must be surgically precise—links, state, explicit next commands—so the next time zone grabs the baton at full sprint.
 
 ### 11. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
 
-![Nightmare](images/Nightmare.png)
+![Fire](images/Fire.png)
 
 * **Min 0-10 (Containment):** Establish the blast radius. Is GE Healthcare or Vernova down? Find the common root cause. 
 * **Min 10-20 (Comms):** Broadcast the holding statement. "Fires acknowledged. Assessing impact. ETAs imminent." Stop the stakeholder panic.
@@ -119,6 +121,8 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Further Readings & Essays 
 
+![Infrastructure](images/pipelines.png)
+
 * [The Architecture of Fire: From SIGKILL to "Fire & Forget"](THE-ARCHITECTURE-OF-FIRE.md)
 * [Accident vs. Optimization: The Cosmic Pipeline](ACCIDENT-VS-OPTIMIZATION.md)
 * [The Purity Protocol: Think Pure, Talk Pure, Act Pure](PURITY-PROTOCOL.md)
@@ -126,9 +130,13 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Read Book & TomWizMaster Repo
 
+![Download](images/powerbank.png)
+
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
 
 ## Purity Protocol
+
+![Purity](images/taste.png)
 
 Think Pure, Talk Pure, Act Pure
 پندار نیک، گفتار نیک، کردار نیک
