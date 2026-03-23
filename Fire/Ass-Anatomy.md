@@ -43,7 +43,7 @@ The Titanic was a big-ass ship. The Ever Given that blocked the Suez Canal for s
 
 ## Chapter 2: The Big-Ass Politician 🏛️
 
-![Big-Ass Politician](images/big-ass-poletitian.png)
+![Big-Ass Politician](images/big-ass-politician.png)
 
 Every era produces them. Massive personalities with outsized influence, operating at a scale where the blast radius of a single tweet reshapes markets.
 
