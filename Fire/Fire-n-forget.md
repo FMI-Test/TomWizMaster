@@ -71,7 +71,7 @@ You tell me why I wash myself — it's like garbage collection for the garbage c
 
 JASON — really? CPU & GPU to build WHAT THE HELL?
 
-Back to the WB (Workbench), BIOS, Memory, I/O — sound familiar? Why are we going to build the whole stack again? Again. Yeap. Again.
+Back to the WB (Workbench), BIOS, Memory, I/O — sound familiar? Why are we going to build the whole stack again? Again. Yep. Again.
 
 Because every era rebuilds the stack:
 

@@ -77,6 +77,9 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 * **Deployment Frequency:** How often we ship. High frequency equals low risk.
 * **Change Failure Rate:** When we push, does it break? Tracked ruthlessly.
 * **Mean Time To Recovery (MTTR):** We accept failure, but we demand immediate resurrection.
+* **Say-to-Do Ratio:** Did we ship what we promised?
+* **Resource Utilization:** Are our top tier engineers burning out while others coast?
+* **Rework/Defect Rate:** What percentage of our code gets kicked back by Cyber, NIST, or QA? Identify the systemic failures and crush them.
 
 ### 8. Automation or Extinction
 
@@ -89,10 +92,7 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ![Extinction](images/Extinction.png)
 
-* **Cycle Time:** From pipeline injection to delivery execution.  
-* **Say-to-Do Ratio:** Did we ship what we promised? 
-* **Resource Utilization:** Are our top tier engineers burning out while others coast? 
-* **Rework/Defect Rate:** What percentage of our code gets kicked back by Cyber, NIST, or QA? Identify the systemic failures and crush them.
+
 
 ### 9. Shift-Left QA for Gov-Cloud & Infrastructure
 
