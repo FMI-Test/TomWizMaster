@@ -101,7 +101,7 @@
   
 - [ ] **WSO Knowledge Base Transfer**
   - [ ] Identify relevant WSO content for POC context
-  - [ ] Review `/Users/bamdad/www/WSO/kb/` directory
+  - [ ] Review `KB/` directory
   - [ ] Extract reusable patterns from WSO codebase
   - [ ] Document what AI should know about WSO
   - [ ] Set up read-only access for AI to WSO files

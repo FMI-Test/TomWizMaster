@@ -270,15 +270,15 @@ Verification commands (local):
 
 ```bash
 # Repo state
-git -C /Users/bamdad/www/GenAI-RD branch --show-current
-git -C /Users/bamdad/www/GenAI-RD rev-parse HEAD
-git -C /Users/bamdad/www/GenAI-RD remote -v
-git -C /Users/bamdad/www/GenAI-RD log -1 --pretty=fuller --show-signature
+git branch --show-current
+git rev-parse HEAD
+git remote -v
+git log -1 --pretty=fuller --show-signature
 
 # This file
-git -C /Users/bamdad/www/GenAI-RD log -n 1 --pretty=fuller -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
-shasum -a 256 /Users/bamdad/www/GenAI-RD/AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
-git -C /Users/bamdad/www/GenAI-RD ls-tree -r HEAD -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+git log -n 1 --pretty=fuller -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+shasum -a 256 ./AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
+git ls-tree -r HEAD -- AI-Guardrails-and-Bias/LEGAL-RISK-AUDIT-xAI-Grok.md
 ```
 
 Recommended hardening:

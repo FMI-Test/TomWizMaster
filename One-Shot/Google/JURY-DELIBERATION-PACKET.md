@@ -32,7 +32,7 @@ You are the **JURY**.
 The Prosecution (GPT-4o) has submitted their Dissent. You must now review their arguments and render a **FINAL VERDICT**.
 
 **The New Evidence (The Dissent):**
-Please read the Prosecutor's filing here: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/OpenAI/GPT-DISSENT.md`
+Please read the Prosecutor's filing here: `One-Shot/OpenAI/GPT-DISSENT.md`
 
 **The Prosecutor's Key Arguments (Summary):**
 1.  **Safety Risk:** Removing "Orphan States" removes "Air Gaps" which are critical for safety (Nuclear/Bio).
@@ -40,7 +40,7 @@ Please read the Prosecutor's filing here: `/Users/bamdad/www/WSO/GenAI-R&D/One-S
 3.  **Metaphor Danger:** "Tom & Jerry" hides technical reality.
 
 **Your Task:**
-Write your Final Verdict in: `/Users/bamdad/www/WSO/GenAI-R&D/One-Shot/Google/FINAL-VERDICT.md`
+Write your Final Verdict in: `One-Shot/Google/FINAL-VERDICT.md`
 
 **You must decide:**
 1.  **Objection 1 (Safety):** SUSTAINED or OVERRULED? Is the danger real? Should we add a warnings label?

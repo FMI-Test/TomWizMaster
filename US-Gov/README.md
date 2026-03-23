@@ -11,6 +11,7 @@
 
 ## Canonical Framework
 - DOGE (Department of Government Efficiencies): see [DOGE.md](DOGE.md)
+- **$1T for $1 Proposal (AAK GO):** see [Uncle-SAM.md](Uncle-SAM.md) — TomBiz via TomWiz Mastery, Centurion-class endorsement
 - Constitutional docs: [../CONSTITUTION.md](../CONSTITUTION.md), [../GUARDRAILS.md](../GUARDRAILS.md), [../SHARED-RESPONSIBILITY.md](../SHARED-RESPONSIBILITY.md), [../COMPLIANCE.md](../COMPLIANCE.md)
 - Chain-of-custody & regional guidance: [../AI-Guardrails-and-Bias/DEEP-DiVE.md](../AI-Guardrails-and-Bias/DEEP-DiVE.md), [../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md](../AI-Guardrails-and-Bias/APPENDIX-REGIONAL.md)
 

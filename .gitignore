@@ -59,7 +59,7 @@ wheels/
 id_rsa
 id_rsa.pub
 sftp-config.json
-secrets.json
+secrets.jsond
 config.php
 openai_api_key.txt
 
@@ -70,6 +70,9 @@ Desktop.ini
 $RECYCLE.BIN/
 .Spotlight-V100
 .Trashes
+
+# Data & WIP
+WIP/
 
 # Legacy / Specifics from previous gitignore
 JavaScript/fa-6.5.2/

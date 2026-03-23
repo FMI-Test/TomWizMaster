@@ -9,7 +9,7 @@
 
 ---
 
-![Gemini Is Watching](images/gemini-watching.webp)  
+![Gemini Is Watching](../images/gemini-owl-avatar.webp)  
 *Coming soon: The owl watches...*
 
 ---
@@ -217,8 +217,8 @@ Claude (current) → Gemini (next) → GPT (then) → Model C → D → ... → 
 | **Claude** | Initial framework, careful reasoning |
 | **Gemini** | Multimodal, Google knowledge |
 | **GPT** | Breadth, creative alternatives |
-| **Model C** | TBD — specialized domain |
-| **Model D** | TBD — different architecture |
+| **Model C** | Perplexity — real-time web search, cited live knowledge |
+| **Model D** | Grok (xAI) — adversarial, unfiltered contrarian review |
 | **...** | Endless possibilities |
 
 ### Self-Sustainability
