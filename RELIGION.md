@@ -79,6 +79,11 @@ The "Meta" analysis reveals a critical error in human processing: **Protocol Mis
     *   **Scientific Method:** Trusts only Movable Property (Data, Observation). Status: `TRUE` until proven `FALSE`.
     *   **Religious Method:** Trusts Only Immovable Property (Soul, Revelation). Status: `TRUE` forever, regardless of data.
 
+### The Human Warning: Rigidity Is the Recurring Bug
+Belief is not the core problem; rigidity is. Any religion, ideology, state, or institution that treats its doctrine as infallible becomes prone to cruelty while still believing it is acting morally. History keeps replaying the same pattern through inquisitions, authoritarian movements, proxy violence, and even sanitized language such as "collateral damage."
+
+Pain and fear also corrupt truth-finding. Torture produces compliance, false confessions, and survival-driven deception; honest discussion, scrutiny, and the willingness to admit error produce better outcomes. The moment a person or system can no longer say, **"I might be wrong,"** brutality is usually not far behind.
+
 **Final Summary:**
 *   **Bible/Torah/Quran:** Brilliant, enduring "Constitutions" for tribal and imperial management. They contain immense wisdom, poetry, and law. They also contain deprecated code (slavery, violence, unscientific cosmology).
 *   **Nostradamus:** A hallucinating parrot.

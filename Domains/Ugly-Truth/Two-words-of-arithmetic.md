@@ -59,7 +59,7 @@ https://www.linkedin.com/pulse/tom-jerry-ultimate-tech-duo-bamdad-fakhran-bycmc/
 
 Suggestion: The “Reza” google doc can be for Crown Prince Eyes only
 
-Should I wait to hear back or should I publish? Can I afford to not tell a point of view when people are losing their lives and loved ones daily around the world from Iran to Israel, from Palestianian & Arabs to Ukrainians to Russians … For a context look up Omid Djalili joking about his encounter with US Border officer which in response to his origin he reply I borned and Raised in the UK but ethically I am Iranian that makes me Ukranians … is not a joke it is a deep message of Unity & Similarly … GDM we are in the same boat.
+Should I wait to hear back, or should I publish? Can I afford **not** to share a point of view when people are losing their lives and loved ones daily around the world—from Iran to Israel, from Palestinians and Arabs to Ukrainians and Russians? For context, look up Omid Djalili joking about his encounter with a US border officer. In response to a question about his origin, he says, in effect: **"I was born and raised in the UK, but ethnically I am Iranian"**—a line that points to a deeper message of shared humanity and overlap. It is not just a joke; it is a reminder that, similarly, we are all in the same boat.
 
 Pitfall: Paradoxical, hard to reason with a long tail of complex topics and codes which might sound something but makes the completely opposite point of what it seems at the face value.
 
