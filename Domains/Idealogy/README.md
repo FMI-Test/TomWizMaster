@@ -72,7 +72,7 @@ If the above two are ancient, entrenched paradigms, then Scientology is modern i
 Whether it's Stoicism, Marxism, Capitalism, or Nihilism. They all start as valid, neutral lenses to view the world. But give them to humans, and we'll immediately form "in-groups" and "out-groups." We create purity tests. A philosophical framework is a tool, not a suicide pact. We shouldn't be dying for these ideas—the ideas should be working for us.
 
 ### Personal Note — Faith, Doubt, and Self-Correction
-Religion can inspire discipline, charity, and meaning, but it can also make decent people do terrible things while genuinely believing they are doing moral work. The safer pattern is humility: the moment you realize you might be wrong, dig deeper instead of doubling down. See [`../../RELIGION.md`](../../RELIGION.md) for the broader meta-analysis rather than duplicating it here.
+Religion can inspire discipline, charity, and meaning, but it can also make decent people do terrible things while genuinely believing they are doing moral work. The safer pattern is humility: the moment you realize you might be wrong, dig deeper instead of doubling down. See [`../../RELIGION.md`](../../RELIGION.md) for the broader meta-analysis instead of duplicating it here.
 
 ![Philosophy](images/Philosophy.png)
 
