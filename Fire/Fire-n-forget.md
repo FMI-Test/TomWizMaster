@@ -1,6 +1,6 @@
 # Fire & Forget
 
-![Fire & Forget](images/Fire.png)
+![Fire & Forget](images/Fire.webp)
 
 Can we really do that? I never did. Why? Because you need a C&C (Command & Control) to do so — and I do have that. WTH. ETF.
 
@@ -12,7 +12,7 @@ In life? It means: **launch the work, drop the emotional payload, and move to th
 
 ### The C&C Prerequisite
 
-![Command & Control](images/chess.png)
+![Command & Control](images/chess.webp)
 
 You can only Fire & Forget if you have:
 1. **A guidance system** — Principles, Constitution, Guardrails. The payload knows where it's going because the mission was defined *before* launch.
@@ -64,7 +64,7 @@ You tell me why I wash myself — it's like garbage collection for the garbage c
 
 ## The Full Stack: WB → BIOS → Memory → I/O
 
-![AI Era](images/ai.png)
+![AI Era](images/ai.webp)
 
 
 [YT: Playlist reference](https://www.youtube.com/watch?v=p-Z3YrHJ1sU&list=RDdmvt45jOR5M&index=4)
@@ -93,7 +93,7 @@ The question isn't "why again?" — it's "what layer are we rebuilding this time
 
 ## The Fire & Forget Protocol (Summary)
 
-![Fire](images/Fire.png)
+![Fire](images/Fire.webp)
 
 | Phase | Action | Anti-Pattern |
 |-------|--------|-------------|

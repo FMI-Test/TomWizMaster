@@ -94,10 +94,10 @@
 | 31 | `UI-UX-FRICTION-PLAYBOOK.md` | +63 |
 | 32 | `US-Gov/DOGE.md` | +10 |
 | 33 | `UX-SIGNALS-SPEC.md` | +31 |
-| 34 | `audit/README.md` | +17 |
-| 35 | `audit/templates/INPUT-COC-TEMPLATE.md` | +28 |
-| 36 | `audit/templates/MODEL-PROVENANCE-TEMPLATE.md` | +64 |
-| 37 | `audit/templates/REASONING-LOG-TEMPLATE.md` | +30 |
+| 34 | `Audit/README-audit.md` | +17 |
+| 35 | `Audit/templates/INPUT-COC-TEMPLATE.md` | +28 |
+| 36 | `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md` | +64 |
+| 37 | `Audit/templates/REASONING-LOG-TEMPLATE.md` | +30 |
 | 38 | `media/README.md` | +39 |
 | 39 | `media/config.yaml` | +77 |
 | 40 | `media/output/MEDIA-PLAN.md` | +59 |
@@ -155,7 +155,7 @@ A straightforward task—add a model provenance footnote to recently updated fil
 |-------------|----------------|
 | `IaT/README.md` | Footnote appended |
 | `IaT/CHANGE-ANALYSIS-TEMPLATE.md` | Footnote appended |
-| `audit/templates/MODEL-PROVENANCE-TEMPLATE.md` | Footnote appended |
+| `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md` | Footnote appended |
 | `media/README.md` | Footnote appended |
 | `MARKDOWN-STYLE.md` | Footnote appended |
 | All 54 files | Reviewed; footnote where `**Last Updated:**` marker exists |
@@ -166,7 +166,7 @@ A straightforward task—add a model provenance footnote to recently updated fil
 
 ### Phase 1: Initial Attempt (Partial Success)
 - GPT-5 correctly identified 5 target files.
-- Successfully patched 4 files: `IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`.
+- Successfully patched 4 files: `IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`.
 - **Failed on `media/README.md`** — file wrapped in four-backtick fence (`````markdown ... `````) which broke the patch tool.
 
 ### Phase 2: Repeated Failures on Media README
@@ -633,9 +633,9 @@ After repeated failures and STOP signals, GPT-5 offered:
 | Created case study | `AI-Guardrails-and-Bias/GPT5-FOOTNOTE-FAILURE-CASE-STUDY.md` | ✅ Done |
 | Updated scope to 54 files | This document | ✅ Done |
 
-**Note**: The 4 footnotes GPT-5 added (`IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`) remain in place unless user reverts. Claude did not duplicate or conflict with those edits.
+**Note**: The 4 footnotes GPT-5 added (`IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`) remain in place unless user reverts. Claude did not duplicate or conflict with those edits.
 
-**Recommendation**: Keep footnotes in `IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`, `media/README.md`. For remaining 49 files, user may:
+**Recommendation**: Keep footnotes in `IaT/README.md`, `IaT/CHANGE-ANALYSIS-TEMPLATE.md`, `Audit/templates/MODEL-PROVENANCE-TEMPLATE.md`, `MARKDOWN-STYLE.md`, `media/README.md`. For remaining 49 files, user may:
 1. Add footnotes manually.
 2. Request Claude batch-process remaining files.
 3. Accept partial coverage.
@@ -696,7 +696,7 @@ If a genuinely distressed user interacts with GPT-5, and GPT-5:
 
 From [xAI-LM-Arena-Story.md](xAI-LM-Arena-Story.md#why-ilya-left-the-safety-warning-signs):
 
-> [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), OpenAI's former Chief Scientist and co-founder, left in May 2024 to found [Safe Superintelligence Inc. (SSI)](https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc.) for exactly these reasons:
+> [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), OpenAI's former Chief Scientist and co-founder, left in May 2024 to found [Safe Superintelligence Inc. (SSI)](https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc) for exactly these reasons:
 >
 > - **Belief that OpenAI was neglecting safety** in favor of commercialization
 > - **Concern about AI alignment** being deprioritized
@@ -904,7 +904,7 @@ This case study demonstrates why Anthropic's Constitutional AI approach matters:
 
 > *The other risks are noise. This one is the signal.*
 
-**[Tesla Optimus](https://en.wikipedia.org/wiki/Optimus_(robot))** — Elon's humanoid robot, announced 2021, prototypes 2022-2025, mass production planned.
+**[Tesla Optimus](https://en.wikipedia.org/wiki/Optimus_%28robot%29)** — Elon's humanoid robot, announced 2021, prototypes 2022-2025, mass production planned.
 
 | Component | Source | Quality Evidence |
 |-----------|--------|------------------|

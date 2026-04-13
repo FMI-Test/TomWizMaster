@@ -46,7 +46,7 @@ Store secrets separately; do not include credentials or sensitive personal data.
 These complement existing signals (e.g., AK GO/AK STOP) and focus on audit control.
 
 ## Binding & Storage
-- File location: `audit/logs/<YYYY-MM-DD>/<HHMM>-<short-id>-reasoning-log.md`
+- File location: `Audit/logs/<YYYY-MM-DD>/<HHMM>-<short-id>-reasoning-log.md`
 - Cross‑link: Include references to the primary output (document path or commit hash) in the log header.
 - Retention: Follow COMPLIANCE and SECURITY-PROTOCOL. Default retention 90 days in R&D; extend for high‑stake per governance.
 
@@ -58,7 +58,7 @@ When time‑sensitive, log succinct bullet summaries at checkpoints:
 - Risk/Next
 
 ## Template
-Use `audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries structured and concise.
+Use `Audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries structured and concise.
 
 ## Privacy & Neutrality
 - No identity‑based triggers; neutrality by default.
@@ -71,7 +71,7 @@ Use `audit/templates/REASONING-LOG-TEMPLATE.md` to start logs. Keep entries stru
 - Prefer AI interpretation on normalized text but reference raw when ambiguity arises.
 - For time‑sensitive flows, enable “Authenticity mode”: capture raw + minimal normalization notes; defer heavy corrections.
 - Bind inputs to outputs using AAK signals (e.g., AAK BIND <id>) and reference in the audit header.
-- Template: see `audit/templates/INPUT-COC-TEMPLATE.md` for input chain‑of‑custody.
+- Template: see `Audit/templates/INPUT-COC-TEMPLATE.md` for input chain‑of‑custody.
 
 ## Dependencies (Internal)
 - CONSTITUTION.md

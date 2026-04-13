@@ -1,6 +1,6 @@
 # From Ashes to Ashes, Dust, to Dust ... To Phenix 🫦🥳🤪
 
-![Phenix](images/Phenix.png)
+![Phenix](images/Phenix.webp)
 
 Lead Org of 350 FTE & Contractors as a Project Lead (My Official Title in TechM) in Tech Mahindra and contracted TO GE ... Soon I owned the end-to-end CoreTech Tier 0 Access, Control, & Authority, becoming a Trusted Advisor responsible for CoreTech, then Migration of 100s of AWS Accounts and Orgs and this SH* & TH* SH* to GE Vernova (Energy & Nuclear) with Comm & GOV-Cloud AWS Accounts etc. GE HealthCare with its CT Scans and ... to GE Aerospace which makes Jet Engines for DoD, Air Force One, & Boeing hence Gov-Cloud Regions & Regulation with NIST, Compliance, Cyber, GuardRails and coding all as fully automated a XXLarge Scale Mission Impossible.
 
@@ -17,7 +17,7 @@ GOGOGOGOGOG AAK FIN!? AK
 # 🚀 THE XXLARGE-SCALE MISSION IMPOSSIBLE PLAYBOOK 🚀
 *How to Lead 350+ FTEs & Dominate Tier 0 Access across GE Vernova, HealthCare, & Aerospace*
 
-![Mix](images/Mix.png)
+![Mix](images/Mix.webp)
 
 When you're migrating hundreds of Gov-Cloud AWS accounts, handling DoD compliance, and answering for Air Force One jet engine tech—you don't just "manage" work. YOU DOMINATE IT. 
 
@@ -25,7 +25,7 @@ Here is the weaponized, ultra-high-octane blueprint for operational supremacy an
 
 ### 1. The Relentless Operating Cadence
 
-![Cadence](images/itil.png)
+![Cadence](images/itil.webp)
 
 A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 * **Daily (15-Min Blitz):** Async or sync stand-ups. Purely blockers. No BS status updates. If you aren't blocked, stay heads down. 
@@ -42,35 +42,35 @@ A massive tech tier-0 migration moves at lightspeed. Meeting bloat is fatal.
 
 ### 3. Nuking Chronically Late Projects
 
-![Nuke](images/Extintion.png)
+![Nuke](images/Extintion.webp)
 
 * **The Problem:** Scope bleed and start-stop dependencies waiting on other teams.
 * **The Kill Shot:** IRONCLAD Work-In-Progress (WIP) limits. A ruthless "Definition of Ready." Nothing enters execution until all assets and requirements are locked in a vault. Decouple dependencies, explode the throughput.
 
 ### 4. PMs: From "Message Passers" to BATTLE COMMANDERS
 
-![PM](images/Priority.png)
+![PM](images/Priority.webp)
 
 PMs who don't understand the underlying architecture are useless routers.
 * **The Evolution:** PMs become Product Owners and absolute gatekeepers. They shield the production team from the noise. They take raw requests, translate them into hardcore technical specifications, and violently push back on undocumented garbage. Makers only see clean, actionable specs.
 
 ### 5. Managing Mid-Week Chaos & Priority Shifts
 
-![Priority](images/Priority.png)
+![Priority](images/Priority.webp)
 
 * **The Strategy:** The strict "Trade-Off" Protocol. We don't say "no," we say "YES, BUT..." 
 * **Execution:** "We can fast-track the CTO's new request, but we drop Feature B into the abyss to accommodate it." For chronic offenders, set up a premium, heavily restricted "fast-track" lane. You want it now? You pay the blood price in scope cuts. 
 
 ### 6. Extracting Knowledge from the "Key Person" (No Writing Required)
 
-![Oracle](images/Oracle.png)
+![Oracle](images/Oracle.webp)
 
 You don't force hyper-productive tier-0 engineers to write docs. 
 * **The Hack:** Shadow them. Make them record a Loom video while they blast through the task. Pair them with a junior whose *only mission* is to document their every move. Then, take that tacit knowledge and BAKE IT INTO THE IAC OR PIPELINE. Let the system enforce the SOP.
 
 ### 7. Core Delivery KPIs (The Blood Work)
 
-![KPI](images/vgt.png)
+![KPI](images/vgt.webp)
 
 Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 * **Cycle Time:** From the moment code is committed to deployment in production. Shrink this to minutes.
@@ -80,14 +80,14 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 8. Automation or Extinction
 
-![Automation](images/python.png)
+![Automation](images/python.webp)
 
 * **The Rule:** If an operation is performed manually more than twice, it gets codified.
 * **Infrastructure as Code (IaC):** Terraform, CloudFormation, Bicep. Not clicking in the console. Hand-crafted environments are legacy artifacts; they are destroyed and replaced with templates.
 
 *This isn't managing. This is warfare. Command the board.*
 
-![Extinction](images/Extintion.png)
+![Extinction](images/Extintion.webp)
 
 * **Cycle Time:** From pipeline injection to delivery execution.  
 * **Say-to-Do Ratio:** Did we ship what we promised? 
@@ -96,21 +96,21 @@ Vanity metrics hide failure. These are the brutal metrics to govern throughput:
 
 ### 9. Shift-Left QA for Gov-Cloud & Infrastructure
 
-![QA](images/gr.png)
+![QA](images/gr.webp)
 
 QA isn't a final check; it's a continuous, unrelenting force.
 * **The Process:** Automated GuardRails for NIST, compliance, and cyber baked into the CI/CD pipeline. Peer-review gates *before* formal QA. If it doesn't meet the "Definition of Done," the pipeline snaps it in half.
 
 ### 10. Commanding Global Teams Across Time Zones
 
-![Commanding](images/comeion.png)
+![Commanding](images/comeion.webp)
 
 * **The Philosophy:** Default asynchronous and FLAWLESS hand-offs.
 * **The Execution:** Strict "core overlapping hours" for unblocking fires. The rest is pure, uninterrupted DEEP WORK. End-of-day hand-offs must be surgically precise—links, state, explicit next commands—so the next time zone grabs the baton at full sprint.
 
 ### 11. The Nightmare Scenario: 30 Urgent Production Fires in 60 Minutes
 
-![Fire](images/Fire.png)
+![Fire](images/Fire.webp)
 
 * **Min 0-10 (Containment):** Establish the blast radius. Is GE Healthcare or Vernova down? Find the common root cause. 
 * **Min 10-20 (Comms):** Broadcast the holding statement. "Fires acknowledged. Assessing impact. ETAs imminent." Stop the stakeholder panic.
@@ -130,13 +130,13 @@ MORE MORE MORE GOGOGOGOGOG!
 
 ## Read Book & TomWizMaster Repo
 
-![Download](images/powerbank.png)
+![Download](images/powerbank.webp)
 
 How Many Accidents? Or Pure planing & Flawless Execution & all Things Considered Comes Together. How did Universe Build MeUsThemOursTheirs It!?
 
 ## Purity Protocol
 
-![Purity](images/taste.png)
+![Purity](images/taste.webp)
 
 Think Pure, Talk Pure, Act Pure
 پندار نیک، گفتار نیک، کردار نیک

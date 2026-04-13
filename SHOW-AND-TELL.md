@@ -32,7 +32,7 @@ deck_sections:
   - title: Audit Architecture
     file: AUDIT-ARCHITECTURE.md
   - title: Model & Provenance
-    file: audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+    file: Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 emoji_palette: EMOJI-PALETTE.yaml
 output:
   exec_summary: showtell/output/EXEC-SUMMARY.md

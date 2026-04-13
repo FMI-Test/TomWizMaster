@@ -58,7 +58,7 @@
 ---
 
 ## Model Origin Trust
-- Verify model source, license, and integrity via [audit/templates/MODEL-PROVENANCE-TEMPLATE.md](audit/templates/MODEL-PROVENANCE-TEMPLATE.md).
+- Verify model source, license, and integrity via [Audit/templates/MODEL-PROVENANCE-TEMPLATE.md](Audit/templates/MODEL-PROVENANCE-TEMPLATE.md).
 - Reject ambiguous or unsigned weights; prefer signed supply‑chain artifacts and attestations.
 - Log provenance checks in audit before enabling sensitive or high‑impact actions.
 
