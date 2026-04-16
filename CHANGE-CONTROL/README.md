@@ -60,4 +60,3 @@ Purpose: Provide a domain‑agnostic workflow where users describe intent in tex
 - Review: AK (requested/audited)
 
 This framework README retains provenance notes for audit consistency.
-
