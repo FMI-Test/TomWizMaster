@@ -48,6 +48,11 @@ Purpose: Provide a domain‑agnostic workflow where users describe intent in tex
 - [October-7-decision-options.md](October-7-decision-options.md) — bounded options and recommendation
 - [October-7-change-analysis.md](October-7-change-analysis.md) — structured X -> Y analysis
 - [October-7-traceability-matrix.md](October-7-traceability-matrix.md) — requirements-to-artifacts mapping
+- [Policy-Cost.md](Policy-Cost.md) — policy-cost brief on Iran 1979 and downstream war burdens
+- [Policy-Cost-system-requirements.md](Policy-Cost-system-requirements.md) — requirements for the cost-analysis brief
+- [Policy-Cost-decision-options.md](Policy-Cost-decision-options.md) — publication options and recommendation
+- [Policy-Cost-change-analysis.md](Policy-Cost-change-analysis.md) — structured change-analysis record
+- [Policy-Cost-traceability-matrix.md](Policy-Cost-traceability-matrix.md) — requirement-to-claim mapping
 
 ---
 
