@@ -3,7 +3,7 @@
 - **Log ID:** book-audit-v1
 - **Date:** 2026-03-11
 - **Time:** 09:30 PST
-- **Primary Output Binding:** [audit/output/BOOK-AUDIT-2026-03-11-0930.md](../output/BOOK-AUDIT-2026-03-11-0930.md)
+- **Primary Output Binding:** [Audit/output/BOOK-AUDIT-2026-03-11-0930.md](../output/BOOK-AUDIT-2026-03-11-0930.md)
 - **Priority:** P3, Time-Sensitive: no
 - **Signals:** AAK GO · AAK BIND book-audit-v1
 - **Scope:** `https://github.com/FMI-Test/Book` — end-to-end ALL AUDIT
@@ -73,7 +73,7 @@ Run a complete end-to-end audit of the Book repository (`/Users/WSO/www/Book`) u
 - **7 findings** across 4 severity levels (see BOOK-AUDIT-2026-03-11-0930.md)
 - **0 sensitive path hits** — CLEAN for OSS release from path perspective
 - **File hashes captured** for integrity baseline
-- **Full audit report** generated at `audit/output/BOOK-AUDIT-2026-03-11-0930.md`
+- **Full audit report** generated at `Audit/output/BOOK-AUDIT-2026-03-11-0930.md`
 
 ---
 

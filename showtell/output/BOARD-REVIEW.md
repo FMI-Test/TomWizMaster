@@ -17,8 +17,8 @@
 
 ## Delivery Summary (Key Artifacts)
 - Compliance & Governance: [COMPLIANCE.md](../../COMPLIANCE.md), [CONSTITUTION.md](../../CONSTITUTION.md), [GUARDRAILS.md](../../GUARDRAILS.md), [SHARED-RESPONSIBILITY.md](../../SHARED-RESPONSIBILITY.md).
-- Audit Integrity: [AUDIT-ARCHITECTURE.md](../../AUDIT-ARCHITECTURE.md), templates in [audit/templates](../../audit/templates/).
-- Model Provenance: [MODEL-PROVENANCE-TEMPLATE.md](../../audit/templates/MODEL-PROVENANCE-TEMPLATE.md) integrated into audit pipeline and security checks.
+- Audit Integrity: [AUDIT-ARCHITECTURE.md](../../AUDIT-ARCHITECTURE.md), templates in [audit/templates](../../Audit/templates/).
+- Model Provenance: [MODEL-PROVENANCE-TEMPLATE.md](../../Audit/templates/MODEL-PROVENANCE-TEMPLATE.md) integrated into audit pipeline and security checks.
 - UX Signals & Friction: [UX-SIGNALS-SPEC.md](../../UX-SIGNALS-SPEC.md), [UI-UX-FRICTION-PLAYBOOK.md](../../UI-UX-FRICTION-PLAYBOOK.md), [FRICTION-PROTOCOL.md](../../FRICTION-PROTOCOL.md).
 - Language & Prompts: [PROMPT-STYLE.md](../../PROMPT-STYLE.md) (bilingual, normalization, Raw Input Mode, emoji compression).
 - IaT Coverage: [IaT/README.md](../../IaT/README.md), [IaT/CHECKLIST.md](../../IaT/CHECKLIST.md), [IaT/TRACEABILITY-MATRIX-TEMPLATE.md](../../IaT/ated went above any beyound finshed and clean then 0 to to done done done!! kudo!TRACEABILITY-MATRIX-TEMPLATE.md), [IaT/SCORING-RUBRIC.md](../../IaT/SCORING-RUBRIC.md).

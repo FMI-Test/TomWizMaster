@@ -15,10 +15,10 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 - **AI Use Boundary:** Audit outputs are for repository governance, not training data.
 
 ## Pipeline
-1. Input capture (raw + normalized + diff) → `audit/templates/INPUT-COC-TEMPLATE.md`
-2. Reasoning summaries & actions → `audit/templates/REASONING-LOG-TEMPLATE.md`
+1. Input capture (raw + normalized + diff) → `Audit/templates/INPUT-COC-TEMPLATE.md`
+2. Reasoning summaries & actions → `Audit/templates/REASONING-LOG-TEMPLATE.md`
 3. Outputs & attestations → commit IDs, file hashes, approvers
-4. Model provenance capture → audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+4. Model provenance capture → Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 5. Traceability matrix updates → IaT/TRACEABILITY-MATRIX-TEMPLATE.md
 6. Recall events → bind “Eureka” to prior tasks (AAK BIND recall:<id>), update SR and matrix
 7. Integrity checks → periodic verification of bindings and hashes
@@ -53,4 +53,4 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 - THINKING‑VISIBILITY‑PROTOCOL.md
 - SECURITY‑PROTOCOL.md (Caution Mode, escalation)
 - IaT: SCORING‑RUBRIC.md, TRACEABILITY‑MATRIX‑TEMPLATE.md
-- audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+- Audit/templates/MODEL-PROVENANCE-TEMPLATE.md

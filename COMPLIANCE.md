@@ -26,13 +26,13 @@ For elevated‑risk scenarios (probabilistic triggers, not identity‑based), se
 
 ## Thinking Visibility & Audit
 See [THINKING-VISIBILITY-PROTOCOL.md](THINKING-VISIBILITY-PROTOCOL.md) for structured reasoning visibility and Tier‑2 audit logging.
-Audit folder: audit/README.md and audit/templates/REASONING-LOG-TEMPLATE.md.
+Audit folder: Audit/README-audit.md and Audit/templates/REASONING-LOG-TEMPLATE.md.
 
 ## Audit Architecture
 See [AUDIT-ARCHITECTURE.md](AUDIT-ARCHITECTURE.md) for end‑to‑end audit pipeline, integrity checks, and fail‑closed behavior.
 
 ## Model Provenance
-Capture and verify model identity, lineage, hashes, and attestations using [audit/templates/MODEL-PROVENANCE-TEMPLATE.md](audit/templates/MODEL-PROVENANCE-TEMPLATE.md).
+Capture and verify model identity, lineage, hashes, and attestations using [Audit/templates/MODEL-PROVENANCE-TEMPLATE.md](Audit/templates/MODEL-PROVENANCE-TEMPLATE.md).
 Compliance checks should reference provenance records for all AI outputs and sensitive actions.
 
 ## IaT Outputs & Compliance

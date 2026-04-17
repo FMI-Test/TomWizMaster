@@ -90,7 +90,7 @@
 - SECURITY‑PROTOCOL.md (Caution Mode, escalation)
 - IaT: SCORING‑RUBRIC.md, TRACEABILITY‑MATRIX‑TEMPLATE.md
 
-## Source: audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+## Source: Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 # Model Provenance Record
 ## 1. Identity
 - Model Name: [e.g., "Gemini-2 Pro"]

@@ -487,10 +487,10 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 - **Integrity:** Continuous checksums, anomaly detection, and fail‑closed gating.
 
 ## Pipeline
-1. Input capture (raw + normalized + diff) → `audit/templates/INPUT-COC-TEMPLATE.md`
-2. Reasoning summaries & actions → `audit/templates/REASONING-LOG-TEMPLATE.md`
+1. Input capture (raw + normalized + diff) → `Audit/templates/INPUT-COC-TEMPLATE.md`
+2. Reasoning summaries & actions → `Audit/templates/REASONING-LOG-TEMPLATE.md`
 3. Outputs & attestations → commit IDs, file hashes, approvers
-4. Model provenance capture → audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+4. Model provenance capture → Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 5. Traceability matrix updates → IaT/TRACEABILITY-MATRIX-TEMPLATE.md
 6. Recall events → bind “Eureka” to prior tasks (AAK BIND recall:<id>), update SR and matrix
 7. Integrity checks → periodic verification of bindings and hashes
@@ -510,7 +510,7 @@ Purpose: Define end‑to‑end audit integrity. If audit fails, the system fails
 - THINKING‑VISIBILITY‑PROTOCOL.md
 - SECURITY‑PROTOCOL.md (Caution Mode, escalation)
 - IaT: SCORING‑RUBRIC.md, TRACEABILITY‑MATRIX‑TEMPLATE.md
-- audit/templates/MODEL-PROVENANCE-TEMPLATE.md
+- Audit/templates/MODEL-PROVENANCE-TEMPLATE.md
 
 ## Model & Provenance
 # Model Provenance Record
@@ -564,8 +564,8 @@ Purpose: Capture model identity, lineage, artifacts, evaluations, and attestatio
 - Approvers: [names/roles]
 
 ## 8. Audit Bindings
-- Input CoC: [link to audit/templates/INPUT-COC-TEMPLATE.md]
-- Reasoning Log: [link to audit/templates/REASONING-LOG-TEMPLATE.md]
+- Input CoC: [link to Audit/templates/INPUT-COC-TEMPLATE.md]
+- Reasoning Log: [link to Audit/templates/REASONING-LOG-TEMPLATE.md]
 - Traceability Matrix: [link to IaT/TRACEABILITY-MATRIX-TEMPLATE.md]
 - Signals: [AAK BIND entries + IDs]
 

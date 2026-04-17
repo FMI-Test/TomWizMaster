@@ -33,7 +33,7 @@ Purpose: Provide a domain‑agnostic workflow where users describe intent in tex
  - SCORING‑RUBRIC.md — normalization for cost/time/value/risk
  - TRACEABILITY‑MATRIX‑TEMPLATE.md — SR ↔ components ↔ tests mapping
 - PROMPT.md — starter prompt for IaT sessions
- - audit/templates/MODEL‑PROVENANCE‑TEMPLATE.md — model identity, lineage, hashes, attestations
+ - Audit/templates/MODEL‑PROVENANCE‑TEMPLATE.md — model identity, lineage, hashes, attestations
 
 ---
 

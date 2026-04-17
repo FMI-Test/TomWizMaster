@@ -723,7 +723,7 @@ The LM Arena test wasn't the typical Q&A or creative writing use case—it was *
 
 #### The Elephant in the Room: Sam & Elon
 
-The ongoing [Sam Altman vs. Elon Musk legal proceedings](https://en.wikipedia.org/wiki/Elon_Musk_v._OpenAI) about OpenAI's for-profit transition adds significant context:
+The ongoing [Sam Altman vs. Elon Musk legal proceedings](https://en.wikipedia.org/wiki/OpenAI) about OpenAI's for-profit transition adds significant context:
 
 - **Financial Impact**: Any AI safety incident has massive financial implications
 - **PR Nightmare**: If a model failure like this is picked up by mainstream media
@@ -775,7 +775,7 @@ The question isn't rhetorical. If xAI's own model can be tricked into revealing 
 
 ### Why Ilya Left: The Safety Warning Signs
 
-[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), OpenAI's former Chief Scientist and co-founder, left in May 2024 to found [Safe Superintelligence Inc. (SSI)](https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc.) for exactly these reasons:
+[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), OpenAI's former Chief Scientist and co-founder, left in May 2024 to found [Safe Superintelligence Inc. (SSI)](https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc) for exactly these reasons:
 
 - **Belief that OpenAI was neglecting safety** in favor of commercialization
 - **Concern about AI alignment** being deprioritized

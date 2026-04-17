@@ -10,7 +10,7 @@
 - Guardrails: limits, triggers, safety checks
 - Risks & Mitigations: top risks, mitigations, escalation
 - Attestations: commit IDs, hashes, approvers
-- Model Provenance: identity, lineage, hashes, attestations (see audit/templates/MODEL‑PROVENANCE‑TEMPLATE.md)
+- Model Provenance: identity, lineage, hashes, attestations (see Audit/templates/MODEL‑PROVENANCE‑TEMPLATE.md)
 
 ## Optional (Recommended)
 - Reference Architecture: selected patterns and variants
