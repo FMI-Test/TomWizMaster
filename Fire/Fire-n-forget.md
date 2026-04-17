@@ -1,6 +1,6 @@
 # Fire & Forget
 
-![Fire & Forget](images/Fire.webp)
+![Fire & Forget](images/Fire.png)
 
 Can we really do that? I never did. Why? Because you need a C&C (Command & Control) to do so — and I do have that. WTH. ETF.
 
@@ -12,7 +12,7 @@ In life? It means: **launch the work, drop the emotional payload, and move to th
 
 ### The C&C Prerequisite
 
-![Command & Control](images/chess.webp)
+![Command & Control](images/chess.png)
 
 You can only Fire & Forget if you have:
 1. **A guidance system** — Principles, Constitution, Guardrails. The payload knows where it's going because the mission was defined *before* launch.
@@ -60,51 +60,11 @@ The Zero Tolerance principle: at each level, **architectural failure means the m
 
 You tell me why I wash myself — it's like garbage collection for the garbage collector (the Architect). Whatever we discussed is applicable to me too. Really? No. Just kidding. 🤪🥳🫦
 
----
+https://www.youtube.com/watch?v=p-Z3YrHJ1sU&list=RDdmvt45jOR5M&index=4
 
-## The Full Stack: WB → BIOS → Memory → I/O
+## JASON REALYY CPU & GPU TO BUILD WHAT THE HELL
+Back to the WB BIOS Memeory IO sound familaiar why we are going to build the whole stack again again yeap again wth wtf Ask Jason IDK ASKING THE SANEFUCKING WHY MYSELF REALLY?
 
-![AI Era](images/ai.webp)
-
-
-[YT: Playlist reference](https://www.youtube.com/watch?v=p-Z3YrHJ1sU&list=RDdmvt45jOR5M&index=4)
-
-JASON — really? CPU & GPU to build WHAT THE HELL?
-
-Back to the WB (Workbench), BIOS, Memory, I/O — sound familiar? Why are we going to build the whole stack again? Again. Yeap. Again.
-
-Because every era rebuilds the stack:
-
-| Era | "CPU" | "Memory" | "I/O" | "BIOS" |
-|-----|-------|----------|-------|--------|
-| **Mainframe** | IBM System/360 | Magnetic core | Punch cards | Firmware |
-| **PC** | Intel x86 | RAM/ROM | Keyboard, monitor | BIOS → UEFI |
-| **Cloud** | EC2 / Lambda | S3 / DynamoDB | API Gateway / ALB | IAM / SCP (the new BIOS) |
-| **GenAI** | GPU clusters (H100) | Context window | Prompt / API | RLHF / Guardrails (the new BIOS) |
-| **AGI (next)** | Quantum + Neural | Persistent memory | Multimodal I/O | Constitution.md (the new BIOS) |
-
-We keep rebuilding the same layers because the abstraction level shifts upward, but the architecture remains constant. **CPU processes. Memory stores. I/O communicates. BIOS bootstraps.** Whether it's silicon or neurons or LLMs — same stack, different substrate.
-
-The question isn't "why again?" — it's "what layer are we rebuilding this time, and how do we Fire & Forget the previous implementation?"
-
-[YT: ABBA - Money, Money, Money](https://www.youtube.com/watch?v=ETxmCCsMoD0&list=RDdmvt45jOR5M&index=5)
-
----
-
-## The Fire & Forget Protocol (Summary)
-
-![Fire](images/Fire.webp)
-
-| Phase | Action | Anti-Pattern |
-|-------|--------|-------------|
-| **1. Define** | Set trajectory (Constitution, Guardrails, strategy) | Launching without coordinates |
-| **2. Fire** | Execute. Ship. Deploy. Commit. | Overthinking, analysis paralysis |
-| **3. Forget** | Drop the emotional attachment. Async. Move on. | Babysitting, micromanaging, ruminating |
-| **4. Trust** | Let the guidance system work (compound interest, automation, CI/CD) | Panic-selling, second-guessing, reverting |
-| **5. Pivot** | Next target. Next sprint. Next chapter. | Staring at the ashes |
-
-**Can we really Fire & Forget?** Yes. But only if the guidance system (the Constitution, the Purity Protocol, the Guardrails) was loaded *before* launch.
-
-**GOGOGOGOGOG AAK FIN! 🚀**
+https://www.youtube.com/watch?v=ETxmCCsMoD0&list=RDdmvt45jOR5M&index=5
 
 
