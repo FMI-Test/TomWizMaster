@@ -1,4 +1,3 @@
-![ux-signals-spot.prompt](images/ux-signals-spot.prompt.png)
 
 # Prompt: UX Signals Primer (audio)
 ## Style & Brand

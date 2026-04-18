@@ -1,4 +1,3 @@
-![THE-WHOLE-ENCHILADA](images/THE-WHOLE-ENCHILADA.png)
 
 # THE-WHOLE-ENCHILADA.md 🌯
 ## The Mistrial & The Matrix (Gemini-Reload)

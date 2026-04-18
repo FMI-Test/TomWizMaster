@@ -1,5 +1,4 @@
 # CROSS-PROVIDER-VALIDATION.md ☁️
-![The Stress Test](../images/gemini-stress-test.webp)
 ## Stress Testing the "Orphan State Optimization" Principle
 
 **Analyst:** 🔮 Gemini (Google)  

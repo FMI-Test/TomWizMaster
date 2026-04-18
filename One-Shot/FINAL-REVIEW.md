@@ -1,4 +1,3 @@
-![FINAL-REVIEW](images/FINAL-REVIEW.png)
 
 # Final Review & Reflection — One-Shot R&D V1.0
 

@@ -1,4 +1,3 @@
-![CHANGE-ANALYSIS-TEMPLATE](images/CHANGE-ANALYSIS-TEMPLATE.png)
 
 # Change Analysis — X → Y (System/Platform/App)
 

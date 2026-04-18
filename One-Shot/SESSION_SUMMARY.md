@@ -1,5 +1,4 @@
 # One-Shot R&D Session Summary
-![Signal Right, Turn Left](images/gemini-signal-turn.webp)
 
 ## Session Context
 - Deep exploration of /JavaScript/ folder structure, config, and key files

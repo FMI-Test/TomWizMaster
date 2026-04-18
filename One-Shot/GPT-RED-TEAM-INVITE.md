@@ -1,5 +1,4 @@
 # GPT-RED-TEAM-INVITE.md ⚔️
-![The Jury is Watching](images/gemini-courtroom.webp)
 ## The Prosecution: Red Team Invitation
 
 **Created:** January 23, 2026

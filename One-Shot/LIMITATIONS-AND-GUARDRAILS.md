@@ -1,4 +1,3 @@
-![LIMITATIONS-AND-GUARDRAILS](images/LIMITATIONS-AND-GUARDRAILS.png)
 
 # One-Shot R&D: Limitations, Guardrails, and Communication
 

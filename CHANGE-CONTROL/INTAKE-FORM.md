@@ -1,4 +1,3 @@
-![INTAKE-FORM](images/INTAKE-FORM.png)
 
 # IaT Intake Form
 

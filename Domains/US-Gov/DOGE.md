@@ -1,4 +1,3 @@
-![DOGE](images/DOGE.png)
 
 # DOGE — Department of Government Efficiencies
 
@@ -7,7 +6,6 @@
 **Source of Truth:** https://github.com/FMI-Test/GenAI-RD/tree/main  
 **Last Reviewed:** January 25, 2026
 
-![Department of Government Efficiencies](images/DOGE.webp)
 
 > A pragmatic, AI-enabled operating framework to plan rapidly, tackle root causes, and deliver Faster • Better • Cheaper public outcomes at scale.
 

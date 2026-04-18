@@ -1,4 +1,3 @@
-![EXEC-SUMMARY-TEMPLATE](images/EXEC-SUMMARY-TEMPLATE.png)
 
 # Executive Summary — <Project>
 

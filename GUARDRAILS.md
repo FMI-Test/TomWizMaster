@@ -9,7 +9,6 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Guardrails Not Walls](images/guardrails-not-walls.webp) -->
 
 ---
 

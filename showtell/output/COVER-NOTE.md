@@ -1,4 +1,3 @@
-![COVER-NOTE](images/COVER-NOTE.png)
 
 # Board Distribution Cover Note — GenAI‑RD
 

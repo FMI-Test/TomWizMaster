@@ -1,6 +1,5 @@
 # Phenix
 
-![Phenix](images/Phenix.webp)
 
 ققنوس یا مرغ آتش پرنده‌ای اساطیری است که هربار پس از سوختن از خاکسترش به پا می‌خیزد و دوباره زاده می‌شود و جاویدانی است که با آتش می‌میرد و ز آتش زاده می‌شود.
 
@@ -35,7 +34,6 @@ Now presidente Ronaldino Trumpino renamed the Gulf of Mexico to the "Gulf of Ame
 
 # Chapter 2: The Same Story — Iran, America, and the Loop
 
-![Vikings](images/Vikings.webp)
 
 We are slaves of the same pattern and behavior through the ages. The same applies to governing, peace, and war. We (Americans) killed many Indians — Native Americans. Wait a minute: if they are *native*, what the hell is ICE & the Trump admin saying about "native" vs. "immigrant"?
 
@@ -60,7 +58,6 @@ Sound familiar? The fentanyl crisis, the Mexican cartel controversy, the Latino 
 
 # Chapter 3: The Iran–US/Israel–IRGC Axis
 
-![Iran, US, & Israel](images/Iran-US-Israel.webp)
 
 ### The 45-Year Loop
 
@@ -83,7 +80,6 @@ Almost half a century of the same loop:
 
 ### The IRGC Pattern
 
-![irgc](images/irgc.webp)
 
 The IRGC (Islamic Revolutionary Guard Corps) is not just a military force. It is an **economic monopoly**, a **political party**, a **media empire**, and a **proxy army operator** — all wrapped in religious justification.
 
@@ -101,7 +97,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 # Chapter 4: The Universal Pattern — Same Agenda, Different Era
 
-![Invasion](images/Invasion.webp)
 
 ### US History: The Original Playbook
 
@@ -117,7 +112,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 ### Europe & Russia: The Same Script
 
-![Script](images/script.webp)
 
 | European Event | Pattern | Iran/ME Parallel |
 |----------------|---------|------------------|
@@ -144,7 +138,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 # Chapter 5: California — A Case Study in Ownership
 
-![Indo-European](images/indoeupopian.webp)
 
 The name "California" itself comes from a 16th-century Spanish novel describing a fictional island ruled by Queen Calafia. Fiction becoming reality — the pattern.
 
@@ -166,7 +159,6 @@ The same pattern that applied to California applied to Iran through Alexander, t
 
 # Chapter 6: Pearl Harbor ↔ September 11 ↔ October 7
 
-![Commanding](images/comeion.webp)
 
 | Dimension | Pearl Harbor (1941) | September 11 (2001) | October 7 (2023) |
 |-----------|--------------------|--------------------|-------------------|
@@ -183,7 +175,6 @@ The same pattern that applied to California applied to Iran through Alexander, t
 
 # خلاصه — Summary (Farsi)
 
-![same](images/same.webp)
 
 هیچ‌کدام از اینها شبیه هم نیستند — اینها **یکی** هستند.
 
@@ -243,7 +234,6 @@ The honest answer: **you probably can't break it at civilizational scale.** But 
 
 ## The Phoenix Cycle (Final)
 
-![Fire](images/Fire.webp)
 
 ققنوس می‌سوزد. ققنوس زاده می‌شود.
 
@@ -260,7 +250,6 @@ The question isn't whether the fire will come. **The question is what you build 
 *A chapter of the forthcoming "Prince of Persia" book.*
 # Phenix
 
-![Phenix](images/Phenix.png)
 
 ققنوس یا مرغ آتش پرنده‌ای اساطیری است که هربار پس از سوختن از خاکسترش به پا می‌خیزد و دوباره زاده می‌شود و جاویدانی است که با آتش می‌میرد و ز آتش زاده می‌شود.
 
@@ -295,7 +284,6 @@ Now presidente Ronaldino Trumpino renamed the Gulf of Mexico to the "Gulf of Ame
 
 # Chapter 2: The Same Story — Iran, America, and the Loop
 
-![Vikings](images/Vikings.png)
 
 We are slaves of the same pattern and behavior through the ages. The same applies to governing, peace, and war. We (Americans) killed many Indians — Native Americans. Wait a minute: if they are *native*, what the hell is ICE & the Trump admin saying about "native" vs. "immigrant"?
 
@@ -320,7 +308,6 @@ Sound familiar? The fentanyl crisis, the Mexican cartel controversy, the Latino 
 
 # Chapter 3: The Iran–US/Israel–IRGC Axis
 
-![Iran, US, & Israel](images/Iran-US-Israel.png)
 
 ### The 45-Year Loop
 
@@ -343,7 +330,6 @@ Almost half a century of the same loop:
 
 ### The IRGC Pattern
 
-![irgc](images/irgc.png)
 
 The IRGC (Islamic Revolutionary Guard Corps) is not just a military force. It is an **economic monopoly**, a **political party**, a **media empire**, and a **proxy army operator** — all wrapped in religious justification.
 
@@ -361,7 +347,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 # Chapter 4: The Universal Pattern — Same Agenda, Different Era
 
-![Invasion](images/Invasion.png)
 
 ### US History: The Original Playbook
 
@@ -377,7 +362,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 ### Europe & Russia: The Same Script
 
-![Script](images/script.png)
 
 | European Event | Pattern | Iran/ME Parallel |
 |----------------|---------|------------------|
@@ -404,7 +388,6 @@ The US approach has oscillated between **regime change** (CIA operations, sancti
 
 # Chapter 5: California — A Case Study in Ownership
 
-![Indo-European](images/indoeupopian.png)
 
 The name "California" itself comes from a 16th-century Spanish novel describing a fictional island ruled by Queen Calafia. Fiction becoming reality — the pattern.
 
@@ -426,7 +409,6 @@ The same pattern that applied to California applied to Iran through Alexander, t
 
 # Chapter 6: Pearl Harbor ↔ September 11 ↔ October 7
 
-![Commanding](images/comeion.png)
 
 | Dimension | Pearl Harbor (1941) | September 11 (2001) | October 7 (2023) |
 |-----------|--------------------|--------------------|-------------------|
@@ -443,7 +425,6 @@ The same pattern that applied to California applied to Iran through Alexander, t
 
 # خلاصه — Summary (Farsi)
 
-![same](images/same.png)
 
 هیچ‌کدام از اینها شبیه هم نیستند — اینها **یکی** هستند.
 
@@ -503,7 +484,6 @@ The honest answer: **you probably can't break it at civilizational scale.** But 
 
 ## The Phoenix Cycle (Final)
 
-![Fire](images/Fire.png)
 
 ققنوس می‌سوزد. ققنوس زاده می‌شود.
 

@@ -1,4 +1,3 @@
-![SESSION-REDO](images/SESSION-REDO.png)
 
 # Session Redo: OpenAI vs Claude & Budget Limitation
 

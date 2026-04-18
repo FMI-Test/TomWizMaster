@@ -1,4 +1,3 @@
-![PUBLISH-PREP](images/PUBLISH-PREP.png)
 
 # Publishing Preparation: GenAI-Courtroom-Protocols 🌍
 

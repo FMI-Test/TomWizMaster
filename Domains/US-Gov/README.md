@@ -1,4 +1,3 @@
-![README](images/README.png)
 
 # US-Gov — Government Efficiency Programs (Index)
 

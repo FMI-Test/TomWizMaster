@@ -1,4 +1,3 @@
-![README](images/README.png)
 
 # Media‑as‑Text Pipeline
 

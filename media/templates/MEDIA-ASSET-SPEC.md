@@ -1,4 +1,3 @@
-![MEDIA-ASSET-SPEC](images/MEDIA-ASSET-SPEC.png)
 
 # MEDIA ASSET SPEC — Template
 

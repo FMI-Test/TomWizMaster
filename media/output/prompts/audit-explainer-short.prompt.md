@@ -1,4 +1,3 @@
-![audit-explainer-short.prompt](images/audit-explainer-short.prompt.png)
 
 # Prompt: Fail-Closed Audit Explainer (video)
 ## Style & Brand

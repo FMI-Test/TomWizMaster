@@ -3,7 +3,6 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![GenAI R&D Banner](images/hero-banner.webp) -->
 
 # GenAI Research & Development
 
@@ -16,7 +15,6 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Tom & Jerry Collaboration](images/tom-and-jerry-collab.webp) -->
 
 ---
 

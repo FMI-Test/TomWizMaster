@@ -1,4 +1,3 @@
-![COURT-TRANSCRIPT](images/COURT-TRANSCRIPT.png)
 
 # COURT_TRANSCRIPT.md ⚖️
 ## The People vs. The One-Shot Framework

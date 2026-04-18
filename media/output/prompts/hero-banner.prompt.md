@@ -1,4 +1,3 @@
-![hero-banner.prompt](images/hero-banner.prompt.png)
 
 # Prompt: GenAI-RD Hero Banner (image)
 ## Style & Brand

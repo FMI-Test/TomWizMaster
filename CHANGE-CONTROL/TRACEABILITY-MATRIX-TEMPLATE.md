@@ -1,4 +1,3 @@
-![TRACEABILITY-MATRIX-TEMPLATE](images/TRACEABILITY-MATRIX-TEMPLATE.png)
 
 # Traceability Matrix — Requirements ↔ Components ↔ Tests
 

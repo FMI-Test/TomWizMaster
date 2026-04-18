@@ -33,7 +33,6 @@ Before choosing ANY technology, approach, or solution, ask:
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Better Paradox](images/better-paradox.webp) -->
 
 Imagine three advocates voting with equal weight, majority wins:
 - **Yas** → Faster advocate

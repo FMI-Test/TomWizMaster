@@ -9,7 +9,6 @@
      Generate with: Nano Banana
      Theme: Tom & Jerry Collaboration
 -->
-<!-- ![Shared Responsibility](images/shared-responsibility-handshake.webp) -->
 
 ---
 

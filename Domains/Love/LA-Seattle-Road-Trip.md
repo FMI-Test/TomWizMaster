@@ -8,19 +8,16 @@ A memorable 1,100+ mile road trip from Los Angeles to Seattle takes 5–8 days, 
 
 ### Days 1–2 — Central Coast
 
-![Day 1–2: Central Coast](images/SCALI-Seattle-Road-Trip-Day-1-2.webp)
 
 Start with Santa Barbara's beaches and historic mission, then drive the scenic Big Sur coast. Stop at Hearst Castle and spend time at [Monterey Bay Aquarium](https://www.montereybayaquarium.org/) before pushing north.
 
 ### Days 3–4 — Northern California
 
-![Day 3–4: Northern California](images/SCALI-Seattle-Road-Trip-Day-3-4.png)
 
 Explore San Francisco's iconic landmarks — Golden Gate Bridge, Fisherman's Wharf, Alcatraz — then head north into the cathedral-like silence of [Redwood National and State Parks](https://www.nps.gov/redw/).[^4]
 
 ### Days 5–7 — Oregon Coast & Columbia River Gorge
 
-![Day 5–7: Oregon Coast](images/SCALI-Seattle-Road-Trip-Day-5-7.png)
 
 Experience the dramatic, rocky scenery of the Oregon coast, including Cannon Beach and Haystack Rock. Cut inland to the Columbia River Gorge for waterfall hikes and sweeping river views before crossing into Washington.[^4][^7]
 

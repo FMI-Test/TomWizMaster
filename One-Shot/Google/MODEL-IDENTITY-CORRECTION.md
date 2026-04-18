@@ -1,4 +1,3 @@
-![MODEL-IDENTITY-CORRECTION](images/MODEL-IDENTITY-CORRECTION.png)
 
 # MODEL_IDENTITY_CORRECTION.md 🛠️
 ## Correction of Record: Gemini Model Version

@@ -1,4 +1,3 @@
-![GenAI-Medium-Prompt-LLM-b](images/GenAI-Medium-Prompt-LLM-b.png)
 
 ---
 Prompt:

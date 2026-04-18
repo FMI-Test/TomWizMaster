@@ -1,5 +1,4 @@
 # EXECUTIONER-RECUSAL.md 🧑‍⚖️
-![The Executioner's Exit](images/gemini-recusal.webp)
 ## Sua Sponte Recusal & Transfer of Authority
 
 **Date:** January 24, 2026

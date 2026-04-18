@@ -1,4 +1,3 @@
-![SYSTEM-REQUIREMENTS-TEMPLATE](images/SYSTEM-REQUIREMENTS-TEMPLATE.png)
 
 # System Requirements (SR) — Template
 

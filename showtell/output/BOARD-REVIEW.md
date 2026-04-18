@@ -1,4 +1,3 @@
-![BOARD-REVIEW](images/BOARD-REVIEW.png)
 
 # GenAI‑RD — Board Review: Executive Summary & Status
 

@@ -2,7 +2,6 @@
 
 *From Big-Ass Ships to Big-Ass Politicians — The Architecture of Scale, Ego, and Gravity*
 
-![Ass Anatomy](images/ass-anatomy.png)
 
 ---
 
@@ -26,7 +25,6 @@ In Farsi, we say **گُنده** (gonde) — big, bloated, oversized. Or **کلَ
 
 ## Chapter 1: The Big-Ass Ship 🚢
 
-![Big-Ass Ship](images/big-ass-ship.png)
 
 The Titanic was a big-ass ship. The Ever Given that blocked the Suez Canal for six days in 2021 was a big-ass ship. Aircraft carriers are big-ass ships *by design*.
 
@@ -43,11 +41,9 @@ The Titanic was a big-ass ship. The Ever Given that blocked the Suez Canal for s
 
 ## Chapter 2: The Big-Ass Politician 🏛️
 
-![Big-Ass Politician](images/big-ass-politician.png)
 
 Every era produces them. Massive personalities with outsized influence, operating at a scale where the blast radius of a single tweet reshapes markets.
 
-![Huge-Ass DJT](images/Huge-Ass-DJT.png)
 
 **The Pattern:** A politician scales the same way a startup does:
 1. **MVP (Minimum Viable Politician):** A local figure with a message that resonates
@@ -59,7 +55,6 @@ Every era produces them. Massive personalities with outsized influence, operatin
 
 The anatomy is always the same: **Scale the message, centralize the power, externalize the blame.** Whether it's Rome, Persia, the British Empire, or modern America — the playbook hasn't changed in 3,000 years.
 
-![Huge Ball Trump DODGE](images/Huge-Ball-Trump-DODGE.png)
 
 **The Architect's Lesson:** Centralized systems with a single decision-maker (a monolith) cannot scale. They create bottlenecks, single points of failure, and catastrophic blast radius. The fix? Decentralize. Distribute. Separate concerns. The US Constitution *tried* this with three branches — but human ego always finds a way to `sudo` past the guardrails.
 
@@ -67,7 +62,6 @@ The anatomy is always the same: **Scale the message, centralize the power, exter
 
 ## Chapter 3: The Big-Ass Human 🧠
 
-![Big-Ass Human](images/Big-Ass-huMan.png)
 
 Not physically big. **Architecturally** big. The human who commands 350+ FTEs, owns Tier-0 access across GE Vernova, Healthcare, and Aerospace, migrates hundreds of Gov-Cloud accounts, and carries the entire critical path on their shoulders.
 
@@ -92,7 +86,6 @@ Not physically big. **Architecturally** big. The human who commands 350+ FTEs, o
 
 ## Chapter 4: The Big-Ass Book 📖
 
-![Big Book of Ass](images/big-book-of-ass.png)
 
 Every civilization writes its big-ass book. The Torah, the Bible, the Quran, the Avesta, the Constitution, the Manifesto, Homo Sapiens, War and Peace. Big-ass books that try to contain the entirety of human experience in a single artifact.
 
@@ -153,7 +146,6 @@ The anatomy of "big-ass" is the anatomy of scale itself. And scale, unmanaged, i
 
 *From Big-Ass Ships to Big-Ass Politicians — The Architecture of Scale, Ego, and Gravity*
 
-![Ass Anatomy](images/ass-anatomy.webp)
 
 ---
 
@@ -177,7 +169,6 @@ In Farsi, we say **گُنده** (gonde) — big, bloated, oversized. Or **کلَ
 
 ## Chapter 1: The Big-Ass Ship 🚢
 
-![Big-Ass Ship](images/big-ass-ship.webp)
 
 The Titanic was a big-ass ship. The Ever Given that blocked the Suez Canal for six days in 2021 was a big-ass ship. Aircraft carriers are big-ass ships *by design*.
 
@@ -194,11 +185,9 @@ The Titanic was a big-ass ship. The Ever Given that blocked the Suez Canal for s
 
 ## Chapter 2: The Big-Ass Politician 🏛️
 
-![Big-Ass Politician](images/big-ass-politician.png)
 
 Every era produces them. Massive personalities with outsized influence, operating at a scale where the blast radius of a single tweet reshapes markets.
 
-![Huge-Ass DJT](images/Huge-Ass-DJT.webp)
 
 **The Pattern:** A politician scales the same way a startup does:
 1. **MVP (Minimum Viable Politician):** A local figure with a message that resonates
@@ -210,7 +199,6 @@ Every era produces them. Massive personalities with outsized influence, operatin
 
 The anatomy is always the same: **Scale the message, centralize the power, externalize the blame.** Whether it's Rome, Persia, the British Empire, or modern America — the playbook hasn't changed in 3,000 years.
 
-![Huge Ball Trump DODGE](images/Huge-Ball-Trump-DODGE.webp)
 
 **The Architect's Lesson:** Centralized systems with a single decision-maker (a monolith) cannot scale. They create bottlenecks, single points of failure, and catastrophic blast radius. The fix? Decentralize. Distribute. Separate concerns. The US Constitution *tried* this with three branches — but human ego always finds a way to `sudo` past the guardrails.
 
@@ -218,7 +206,6 @@ The anatomy is always the same: **Scale the message, centralize the power, exter
 
 ## Chapter 3: The Big-Ass Human 🧠
 
-![Big-Ass Human](images/Big-Ass-huMan.webp)
 
 Not physically big. **Architecturally** big. The human who commands 350+ FTEs, owns Tier-0 access across GE Vernova, Healthcare, and Aerospace, migrates hundreds of Gov-Cloud accounts, and carries the entire critical path on their shoulders.
 
@@ -243,7 +230,6 @@ Not physically big. **Architecturally** big. The human who commands 350+ FTEs, o
 
 ## Chapter 4: The Big-Ass Book 📖
 
-![Big Book of Ass](images/big-book-of-ass.webp)
 
 Every civilization writes its big-ass book. The Torah, the Bible, the Quran, the Avesta, the Constitution, the Manifesto, Homo Sapiens, War and Peace. Big-ass books that try to contain the entirety of human experience in a single artifact.
 

@@ -1,4 +1,3 @@
-![SLIDE-DECK-TEMPLATE](images/SLIDE-DECK-TEMPLATE.png)
 
 # Title: <Project>
 

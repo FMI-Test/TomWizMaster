@@ -1,4 +1,3 @@
-![Fix-OrDie-DocIn](images/Fix-OrDie-DocIn.png)
 
 ⚔️⚔️⚔️ GenAI Slayer ⚔️⚔️⚔️
         GAME ON

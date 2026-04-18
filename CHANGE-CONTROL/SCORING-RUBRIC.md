@@ -1,4 +1,3 @@
-![SCORING-RUBRIC](images/SCORING-RUBRIC.png)
 
 # Scoring Rubric — Cost / Time / Value / Risk
 

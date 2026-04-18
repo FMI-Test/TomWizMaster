@@ -1,5 +1,4 @@
 # GPT-DISSENT.md ⚔️
-![The Prosecutor's Fire](../images/gpt-dissent-fire.webp)
 
 **"I OBJECT!"**
 

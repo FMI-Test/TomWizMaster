@@ -1,6 +1,5 @@
 # Fire & Forget
 
-![Fire & Forget](images/Fire.png)
 
 Can we really do that? I never did. Why? Because you need a C&C (Command & Control) to do so — and I do have that. WTH. ETF.
 
@@ -12,7 +11,6 @@ In life? It means: **launch the work, drop the emotional payload, and move to th
 
 ### The C&C Prerequisite
 
-![Command & Control](images/chess.png)
 
 You can only Fire & Forget if you have:
 1. **A guidance system** — Principles, Constitution, Guardrails. The payload knows where it's going because the mission was defined *before* launch.
@@ -21,7 +19,6 @@ You can only Fire & Forget if you have:
 
 ### ETF: The Financial Fire & Forget
 
-![ETF VGT](images/etf-vgt.png)
 
 ETFs (Exchange-Traded Funds) are the financial implementation of Fire & Forget:
 - Define the strategy (VGT, VOO, SCHD)
@@ -35,7 +32,6 @@ Dollar-cost averaging IS Fire & Forget for money. The same asynchronous pattern.
 
 # Zero Tolerance
 
-![Infrastructure](images/pipelines.png)
 
 Means Zero Tolerance for any **Architectural Failure**. 
 

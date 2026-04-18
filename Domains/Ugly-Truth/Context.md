@@ -1,4 +1,3 @@
-![Context](images/Context.png)
 
 # Context
 

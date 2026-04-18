@@ -1,4 +1,3 @@
-![meddia-idea](images/meddia-idea.png)
 
 ## Media Idea
 Who is Reza:

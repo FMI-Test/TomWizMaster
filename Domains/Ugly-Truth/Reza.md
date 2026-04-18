@@ -1,4 +1,3 @@
-![Reza](images/Reza.png)
 
 رضا رضا رضا
 
