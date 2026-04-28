@@ -312,6 +312,100 @@ code ~/path/to/TODO.md
 6. Iterate until working
 ```
 
+### Multi-Device Continuity Setup
+
+Use device switching by role, not by novelty. The goal is to start on the best keyboard and screen, continue on the most available mobile device, and finish on the machine with the strongest editor and test environment.
+
+**Recommended handoff model:**
+
+```text
+1. MacBook or Windows laptop
+   → Start the session
+   → Do architecture, repo navigation, branch setup, and first edits
+
+2. Phone or tablet
+   → Continue while away from desk
+   → Review notes, prompts, issues, PR comments, and next actions
+
+3. Primary laptop or desktop
+   → Finalize
+   → Run tests, review diffs, clean up docs, and publish
+```
+
+**Best roles by device:**
+- **MacBook:** Primary build/edit machine if you want the most stable terminal + VS Code flow
+- **Windows laptop:** Parallel primary machine if your local tools, enterprise stack, or browser workflows live there
+- **Samsung Galaxy phone:** Best for fast continuation, voice notes, screenshots, Slack/Discord/GitHub follow-up
+- **iPhone Pro Max/Plus:** Good mobile continuation device if your Apple ecosystem sync is stronger than Android sync
+- **iPad:** Best review device for long-form reading, markup, side-by-side docs, and session planning
+
+**What you are missing, if anything:**
+- **Desktop workstation or external monitor setup:** Useful if finalization means long reviews, multi-pane coding, and test/debug loops
+- **Cloud dev environment:** More important than adding a sixth physical device. A remote repo, synced notes, and browser-accessible workspace matter more than more hardware
+
+**Best setup tiers:**
+
+**Tier 1: Lean and best value (3 devices)**
+- 1 laptop for coding and finalization
+- 1 phone for continuity while moving
+- 1 tablet only if you actually review long docs or sketch flows
+
+**Tier 2: Strong setup (4 devices)**
+- 1 MacBook as main dev machine
+- 1 Windows laptop for compatibility testing or separate work context
+- 1 phone
+- 1 tablet
+
+**Tier 3: Five-device setup (only if each has a job)**
+- MacBook = main coding
+- Windows laptop = secondary environment or enterprise/browser-specific work
+- Samsung Galaxy = Android continuity and capture
+- iPhone = iOS continuity and Apple ecosystem sync
+- iPad = review and planning board
+
+Five devices is only better if you actively switch ecosystems for testing, capture, or context separation. For most solo builders, five devices adds overhead: more sync points, more notifications, more stale tabs, and more fragmented state.
+
+**Practical recommendation:**
+- If you want the best setup, use **3 devices**: one main laptop, one phone, one tablet
+- If you need cross-platform validation, use **4 devices**: MacBook + Windows laptop + one phone + iPad
+- Only keep **5 devices** if Android and iPhone each serve a distinct purpose you use every week
+
+**State continuity rules:**
+- Keep one canonical repo remote and push small checkpoints often
+- Keep one canonical running task list in a single Markdown file
+- Keep one canonical handoff note: current goal, next command, current blocker, definition of done
+- Use the same folder structure and naming across devices
+- Avoid device-specific local state as the source of truth
+
+**Suggested session pattern:**
+
+```text
+Start: MacBook
+- Plan
+- Edit
+- Commit checkpoint or push branch
+
+Continue: Phone or iPad
+- Review outputs
+- Refine prompts
+- Capture follow-up tasks
+
+Finalize: MacBook or Windows laptop
+- Pull latest
+- Test
+- Clean diff
+- Merge or open PR
+```
+
+**Bottom line:**
+More devices do not automatically create a better multi-agent workflow. Better handoff discipline does. Optimize for fewer devices with clearer roles before adding more hardware.
+
+**Opinionated recommendation for your exact stack (MacBook + Windows + Samsung + iPhone + iPad):**
+- Drop one phone. Carrying both an Android and an iPhone for continuity is overhead unless you are actively testing on both platforms. Pick whichever one already has your best notification and sync setup.
+- Keep the iPad only if you use it at least twice a week for review or planning — otherwise your phone covers continuation.
+- Best lean setup for you: **MacBook + Windows laptop + Samsung Galaxy (or iPhone) + iPad**
+- Use the [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md) every time you switch device. Fill it in, commit it, open it on the next device.
+
 ---
 
 ## What Success Looks Like
