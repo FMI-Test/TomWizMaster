@@ -68,7 +68,13 @@ This project inherits from the root **GenAI-R&D Constitutional Framework**:
   - Set up Python environment
   - Create project structure
   - Test first AI-assisted session
+  - **Multi-device continuity setup** — start/continue/finalize across MacBook, Windows, phone, tablet
   - Troubleshooting tips
+
+- **[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md)** - Cross-device session handoff card
+  - Fill before switching device
+  - Captures: current goal, last command, blocker, definition of done
+  - Copy-paste format, one per session
 
 - **[TODO.md](TODO.md)** - Complete task breakdown
   - Phase 0: Setup & Learning
