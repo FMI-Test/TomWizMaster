@@ -6,8 +6,8 @@
 - **Primary Output Binding:** [Audit/output/BOOK-AUDIT-2026-03-11-0930.md](../output/BOOK-AUDIT-2026-03-11-0930.md)
 - **Priority:** P3, Time-Sensitive: no
 - **Signals:** AAK GO · AAK BIND book-audit-v1
-- **Scope:** `https://github.com/FMI-Test/Book` — end-to-end ALL AUDIT
-- **Framework:** TomWizMaster SMOKE branch (`https://github.com/FMI-Test/TomWizMaster` @ smoke)
+- **Scope:** `https://github.com/TomWiz.io/Book` — end-to-end ALL AUDIT
+- **Framework:** TomWizMaster SMOKE branch (`https://github.com/TomWiz.io/TomWizMaster` @ smoke)
 
 ---
 

@@ -1,5 +1,5 @@
 # GitHub Repo Sync & Reflection
-## Source: https://github.com/FMI-Test/GenAI-RD
+## Source: https://github.com/TomWiz.io/GenAI-RD
 ## Generated: 2026-01-25 | Model: Claude Opus 4.5 (GitHub Copilot)
 
 ---
@@ -495,5 +495,5 @@ PROOF:
 ---
 
 *This reflection auto-generated and stored locally for context persistence.*
-*Source of truth: https://github.com/FMI-Test/GenAI-RD*
+*Source of truth: https://github.com/TomWiz.io/GenAI-RD*
 *External anchors: YouTube playlist, GitHub commits, JED Foundation, this document*

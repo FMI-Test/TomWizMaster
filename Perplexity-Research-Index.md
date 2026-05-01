@@ -1,8 +1,8 @@
 # Reference: Perplexity Research Links Index
 
-**Synced from:** https://github.com/FMI-Test/Book/blob/main/Perplexity-Research-Links.md  
+**Synced from:** https://github.com/TomWiz.io/Book/blob/main/Perplexity-Research-Links.md  
 **Date:** April 13, 2026  
-**Source Repo:** https://github.com/FMI-Test/Book
+**Source Repo:** https://github.com/TomWiz.io/Book
 
 > This index provides cross-repo reference to research conducted via Perplexity.ai. Links are organized by domain and sorted by relevance to enterprise architecture, compliance, and operational decision-making.
 

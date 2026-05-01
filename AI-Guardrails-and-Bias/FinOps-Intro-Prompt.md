@@ -122,7 +122,7 @@ Case study: https://www.perplexity.ai/search/magic-keyboard-2018-not-used-f-si6X
 Go …
 
 Start from:
-https://github.com/FMI-Test/GenAI-RD
+https://github.com/TomWiz.io/GenAI-RD
 
 Note: the reason for repetition is R&D but obviously we can/will automate these.
 

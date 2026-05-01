@@ -2,7 +2,7 @@
 
 **Version:** 1.0
 **Status:** Draft (R&D)
-**Source of Truth:** https://github.com/FMI-Test/GenAI-RD/tree/main
+**Source of Truth:** https://github.com/TomWiz.io/GenAI-RD/tree/main
 **Last Updated:** 2026-01-25
 
 ---

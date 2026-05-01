@@ -1,7 +1,7 @@
 # Regional Appendix: Middle East & US Allies
 
-> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
-> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main  
+> Canonical Source: https://github.com/TomWiz.io/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
+> Project Root: https://github.com/TomWiz.io/GenAI-RD/tree/main  
 > Last audited: January 24, 2026
 
 **Scope**: Non-legal, engineering-oriented mapping of regulatory themes and practical controls for regional deployments. Verify with counsel for production use.

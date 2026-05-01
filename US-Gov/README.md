@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Status:** Live (Framework-first)  
-**Source of Truth:** https://github.com/FMI-Test/GenAI-RD/tree/main  
+**Source of Truth:** https://github.com/TomWiz.io/GenAI-RD/tree/main  
 **Last Reviewed:** January 25, 2026
 
 > This path organizes US government efficiency initiatives under the GenAI‑RD constitutional framework, applying the OCP principle: open for extension (new programs, agencies), closed for modification (core constitutional docs remain canonical).

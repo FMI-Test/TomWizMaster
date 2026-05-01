@@ -301,7 +301,7 @@ git push origin rc --tags
 # After final approval, change repo visibility to Public via GitHub UI
 
 # Verify public access
-curl -I https://github.com/FMI-Test/TomWizMaster
+curl -I https://github.com/TomWiz.io/TomWizMaster
 
 # Announce release
 # (Create GitHub Release, post to social media, etc.)
@@ -407,7 +407,7 @@ Add license badge to README.md:
 1. **Verify Public Access:**
    ```bash
    # Test anonymous clone
-   git clone https://github.com/FMI-Test/TomWizMaster test-public-access
+   git clone https://github.com/TomWiz.io/TomWizMaster test-public-access
    cd test-public-access
    
    # Verify no sensitive data

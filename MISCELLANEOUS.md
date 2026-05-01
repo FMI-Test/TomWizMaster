@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Status:** Live  
-**Source of Truth:** https://github.com/FMI-Test/GenAI-RD/tree/main  
+**Source of Truth:** https://github.com/TomWiz.io/GenAI-RD/tree/main  
 **Last Reviewed:** January 25, 2026
 
 > This document explains how to apply the GenAI‑RD framework across domains (policy, engineering, finance, healthcare, etc.), with a pragmatic playbook, benefits vs. limitations, pitfalls and do/don’t, and model selection guidance tied to the “One‑Shot” methodology.

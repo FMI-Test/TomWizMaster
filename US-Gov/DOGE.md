@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Status:** Proposal (Framework-first)  
-**Source of Truth:** https://github.com/FMI-Test/GenAI-RD/tree/main  
+**Source of Truth:** https://github.com/TomWiz.io/GenAI-RD/tree/main  
 **Last Reviewed:** January 25, 2026
 
 ![Department of Government Efficiencies](images/DOGE.webp)

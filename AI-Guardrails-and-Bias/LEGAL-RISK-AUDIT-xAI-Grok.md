@@ -1,7 +1,7 @@
 # AI Legal & Regulatory Risk Audit: xAI Grok Case Study
 
-> Canonical Source: https://github.com/FMI-Test/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
-> Project Root: https://github.com/FMI-Test/GenAI-RD/tree/main  
+> Canonical Source: https://github.com/TomWiz.io/GenAI-RD/tree/main/AI-Guardrails-and-Bias  
+> Project Root: https://github.com/TomWiz.io/GenAI-RD/tree/main  
 > Last audited (US/UK/EU): January 24, 2026
 
 **File**: LEGAL-RISK-AUDIT-xAI-Grok.md  

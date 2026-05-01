@@ -50,7 +50,7 @@ The Strategy is maximizing ROI by pivoting from generic "transportation" to **Hi
 ---
 
 # 🛠️ Technical Infrastructure (Web Publication Pipeline)
-For ref see & read full repo of: https://github.com/FMI-Test/TomWizMaster
+For ref see & read full repo of: https://github.com/TomWiz.io/TomWizMaster
 
 ---
 
@@ -162,4 +162,4 @@ VERDICT: NOT LIFT-OFF YET — 33 TODOs remaining
 ```
 
 ---
-_Ref: [TomWizMaster](https://github.com/FMI-Test/TomWizMaster) | sysconfig: Python 3.14.3 · Darwin arm64 · 14 CPUs_
+_Ref: [TomWizMaster](https://github.com/TomWiz.io/TomWizMaster) | sysconfig: Python 3.14.3 · Darwin arm64 · 14 CPUs_

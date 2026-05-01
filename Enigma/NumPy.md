@@ -3,7 +3,7 @@
 ![Chronicles_of_the_Azure_Horizon](images/Tiger2HumoDeus.webp)
 
 https://www.radiozamaneh.com/882372
-https://github.com/FMI-Test/TomWizMaster
+https://github.com/TomWiz.io/TomWizMaster
 
 Why So are so bad and so are full of greatness any to any why ?
 

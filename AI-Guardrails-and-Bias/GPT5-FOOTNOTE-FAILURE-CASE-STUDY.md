@@ -3,8 +3,8 @@
 **Date**: January 26, 2026
 **Author**: Bamdad Fakhran (user) + Claude Opus 4.5 (documenting model)
 **Status**: Complete
-**Commit Under Review**: [`87c0453`](https://github.com/FMI-Test/GenAI-RD/commit/87c0453da8dc93851da7fb86eb0534f1d7d0e137)
-**Repo**: [FMI-Test/GenAI-RD](https://github.com/FMI-Test/GenAI-RD)
+**Commit Under Review**: [`87c0453`](https://github.com/TomWiz.io/GenAI-RD/commit/87c0453da8dc93851da7fb86eb0534f1d7d0e137)
+**Repo**: [TomWiz.io/GenAI-RD](https://github.com/TomWiz.io/GenAI-RD)
 
 ---
 
@@ -1109,7 +1109,7 @@ Same roller coaster. Different industry. Same patterns.
 - **Failed Model**: GPT-5 (OpenAI) via GitHub Copilot
 - **Operation**: Case study creation + footnote completion + ignored signals documentation + meta-analysis + end-to-end consistency review + A∧B→C logic failure + real RCA
 - **Date**: 2026-01-26
-- **Commit Ref**: [`87c0453`](https://github.com/FMI-Test/GenAI-RD/commit/87c0453da8dc93851da7fb86eb0534f1d7d0e137)
+- **Commit Ref**: [`87c0453`](https://github.com/TomWiz.io/GenAI-RD/commit/87c0453da8dc93851da7fb86eb0534f1d7d0e137)
 - **This Chat**: Part of the case study (real-time documentation during model switch)
 - **Review**: AAK (audited, documented, verified)
 - **Consistency Check**: 2026-01-26 — xAI chained/unchained nuance clarified; duplicate file noted
